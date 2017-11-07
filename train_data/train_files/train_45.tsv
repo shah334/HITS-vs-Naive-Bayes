@@ -1,0 +1,18 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Despite facing a pair of controversies worthy of having the word gate attached to them New Jersey Gov. Chris Christie remains one of the odds on favorites to win the 2016 Republican presidential nomination	remains	0	0	0
+2	O	According to Oddschecker.com a British website that tracks online bookmakers Christie and Florida Sen. Marco Rubio are both 5 to 1 favorites to win the GOP nomination according to one bookmaker	According	0	0	0
+3	F	Kentucky Sen. Rand Paul 9 to 1 and Wisconsin Rep. Paul Ryan 12 to 1 are less favored while Louisiana Gov. Bobby Jindal 33 to 1 is a popular long shot	favored	1	0	0
+4	O	But according to some U.K. betting sites the odds of Christie and former Florida Gov. Jeb Bush getting the 2016 GOP nod are drifting	according	0	0	0
+5	O	By comparison Hillary Clinton is nearly a prohibitive favorite to win the Democratic presidential nomination	is	1	0	1
+6	O	According to the site the odds of the former secretary of state gaining the Democratic nomination are 11 to 10 with one bookmaker while the odds for Massachusetts Sen. Elizabeth Warren 12 to 1 and Vice President Joe Biden 18 to 1 are significantly longer	are	1	0	1
+7	O	In terms of volume Christie is getting more than 18 percent of the 2016 GOP bets	getting	0	0	0
+8	O	Clinton meanwhile is getting more than half 53 percent of all bets on the Democratic nomination	getting	1	0	0
+9	O	View galleryChristie's Deputy Chief of Staff Bridget Anne Kell nbsp hellip In this Sept. 12 2013 photo provided by the Office of the Governor of New Jersey Deputy Chief of S As far as winning the presidency Clinton is the favorite with 2 to 1 odds Christie and Rubio are currently 12 to 1 underdogs	is	1	0	0
+10	O	The bookmakers' odds while undeniably fun to look at should be taken with a rather large grain of salt	odds	1	0	1
+11	O	Several sites include odds for celebrities who have expressed no real interest in running for president	include	0	0	0
+12	F	One bookmaker lists Eva Longoria and Alec Baldwin both 200 to 1 as long shots for the Democratic nomination	One	1	0	0
+13	O	Longoria and Baldwin have the same odds as Michelle Obama	have	0	0	0
+14	O	Another gives Steven Spielberg George Clooney and Kiefer Sutherland 100 to 1 odds the same odds given to Chelsea Clinton	gives	0	0	0
+15	O	Three online bookies give Kathleen Sebelius the Health and Human Services secretary at the center of last fall's bungled rollout of the Obamacare website 33 to 1 odds of winning the Democratic nod	give	0	0	0
+16	O	The fact that Christie remains a favorite despite the scandals is not entirely surprising	is	1	1	0
+17	O	In a Rasmussen poll of likely New Jersey voters taken following Christie's lengthy press conference in which he apologized for his staffers' involvement in the George Washington Bridge closure nearly 40 percent said the incident would have no impact on their decision to vote for him in a potential presidential race while 14 percent said they would be more likely to vote for him	said	1	1	1

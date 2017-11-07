@@ -1,0 +1,39 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Sen. Dianne Feinstein got up close and personal at a drone hearing Wednesday with the stunning admission that she herself discovered one peeking into her window at home in San Francisco	got	1	0	0
+2	F	With the drone just inches from her face the standoff didn t last long	last	1	0	0
+3	F	Obviously the pilot of the drone had some surprise because the drone wheeled around and crashed she told the Senate committee smiling	had	1	0	0
+4	O	So I felt a little good about that	felt	0	1	0
+5	F	Meant to spark conversation about the privacy concerns linked to commercial drone use the 80 year old s tale was too bizarre to be effective	was	1	1	1
+6	O	In no time it had eclipsed the larger national agenda it was meant to inform	eclipsed	0	0	1
+7	O	Dianne Feinstein Once Startled a Drone and Made It Crash read New York mag s headline	Made	1	0	0
+8	F	Feinstein Says She Once Found a Drone Peeking in Her Window said Politico	Says	0	0	0
+9	O	But it was when The Atlantic Wire asked whether the drone Feinstein spotted was actually just one of peace activist group Code Pink s tiny helicopters that the story took on new meaning	was	1	0	0
+10	O	Nancy Mancias Code Pink s campaign organizer based in San Francisco was giddy with excitement when she called me	was	1	1	0
+11	O	I have to admit when I saw the remark I thought WHAT IS SHE TALKING ABOUT Mancias said quickly	have	1	0	1
+12	F	Then I saw tweets about Code Pink	saw	1	0	0
+13	F	I knew we were there at her house in June	knew	1	0	0
+14	O	That could have been us	been	0	0	0
+15	F	If it was I say mission accomplished yes	say	0	0	0
+16	F	Inflamed by Feinstein s claim that National Security Agency whistleblower Edward Snowden had committed an act of treason Code Pink a female initiated grassroots peace and social justice movement plotted a June 15 demonstration at her five story mansion	Inflamed	0	0	0
+17	F	Armed with tiny pink remote control helicopters decoy cameras and magnifying glasses from Toys R Us the group descended on Lyon and Valejo streets in San Francisco	decoy	0	0	0
+18	F	But after an attempt to make contact proved fruitless they concluded that the senator who usually would at least wave from a window wasn t home	But	1	0	0
+19	F	We rang her doorbell in the past she has come down	rang	1	0	0
+20	O	If we had known she was home we would have loved for her to come out and have a discussion with us about domestic surveillance	was	1	0	0
+21	F	In lieu of Feinstein or perhaps with her secretly watching from inside the Code Pink party roared on	In	1	0	0
+22	F	We held an Austin Powers themed protest Mancias says of the day	says	0	0	0
+23	O	But if it s one of Code Pink s dinky little helicopters that Feinstein is calling a drone the head of the Senate Intelligence Committee may need to review the definition	s	0	0	1
+24	F	The Pink Patrol Lady Sky Invaders is meant for young kids and can easily be purchased online for just 17.85	meant	1	0	0
+25	F	They re just toys they couldn t do that much Mancias said of the helicopters	re	1	0	1
+26	F	When we flew them some only got seven feet off the ground and crashed	got	1	0	0
+27	O	Perhaps the drone wasn t afraid of Feinstein after all	Perhaps	1	0	0
+28	O	Perhaps it wasn t a drone in the first place	wasn	1	0	0
+29	O	While Code Pink looks to be responsible Mancias says she is still skeptical about Feinstein s drone story	says	1	1	1
+30	O	I don t think it actually happened at all	don	1	0	0
+31	F	But whatever it s the senator	s	0	0	0
+32	O	So if it happened I guess it happened	guess	1	0	0
+33	O	Even more disturbing to Mancias and to many in her circle is Feinstein's acceptance of the CIA's use of drones	is	1	1	0
+34	O	It's interesting that Sen. Feinstein is against domestic spying	's	0	1	0
+35	O	She speaks out against it here yet she's willing to let the same thing go on abroad	speaks	1	1	1
+36	F	Senator Feinstein did not respond to a request for comment from The Daily Beast	respond	0	0	0
+37	F	Tiny pink helicopters aside Code Pink feels at least somewhat vindicated and they don t care who knows it	Tiny	1	0	1
+38	O	We wanted to simulate domestic spying on her house to give Sen. Feinstein the feeling of what an average citizen is experiencing all the time and fearing	wanted	0	0	1

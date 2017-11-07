@@ -1,0 +1,36 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	With over 65 homicides per day and one of the most dangerous capitals in the world Venezuelans are no strangers to violence	With	1	0	0
+2	F	But the recent assault and murder of a cherished former Miss Venezuela and her companion on a busy highway west of Caracas has shaken this nation of 29 million like few others	shaken	0	0	0
+3	F	Related Stories Ex beauty queen killed in crime that shocks violent Venezuela AFP Venezuela arrests seven over beauty queen's killing AFP Murder of former Miss Venezuela spotlights country's rampant crime Christian Science Monitor Venezuela president and opposition leader in rare handshake Reuters Ex Miss Venezuela slain in robbery Associated Press Monica Spear a former beauty queen and soap opera star and her English born ex husband 39 year old Henry Thomas Berry were gunned down late Monday night on a roadside some 135 miles west of Caracas where there car had been damaged	spotlights	1	0	0
+4	F	Both were slain in the attack while the couple s 5 year old daughter sustained a flesh wound but is reportedly out of danger in a hospital	slain	1	0	0
+5	F	READ MORE The Seductive Madame Le Pen Though details of the crime are still trickling in officials in Caracas reported that Spear s car had been forced to a stop after hitting a pothole or possibly sharp objects left on the asphalt	reported	1	0	0
+6	F	Police told reporters in Caracas they were holding five suspects for questioning in the case	told	0	0	0
+7	O	Whether the result of an ambush or opportunism savage crime was a quintessentially Venezuelan tragedy where talent and grace fall prey to a land increasingly gripped by crime chaos and malign neglect	was	1	0	0
+8	F	At age 29 Spear was a national idol	was	0	0	0
+9	F	Crowned Miss Venezuela in 2004 she enjoyed a prosperous career playing the part of belles and femmes fatales in popular Latin telenovelas	Crowned	0	0	0
+10	F	Two of her best known titles were Forbidden Passion and Savage Flower both hits on the Spanish language network Telemundo	were	0	0	0
+11	O	With her cascade of dark hair sensuous smile and schoolgirl eyes Spear was a fitting icon for a country that has turned the beauty business into a signature industry and won more Miss Universe titles than any other nation	was	0	0	0
+12	F	READ MORE Castro Makes Public Appearance Dividing her time between Venezuela and the United States Spear kept close ties to her native country where she had been vacationing at the time of her death	READ	0	0	1
+13	F	Spear s family told reporters they had tried repeatedly but failed to persuade the former beauty queen to leave Venezuela where she had been mugged several times before	told	1	0	1
+14	F	Though she had ended her marriage with Berry some two years ago the pair remained good friends and traveling companions sharing the company of their young daughter	ended	1	0	0
+15	F	Here she is on a home video from a few days ago ziplining through the Venezuelan forest and blowing kisses to the camera on the open road	is	1	0	0
+16	O	READ MORE Afghanistan s Baby Suicide Bomber The carefree image and scenic countryside are blunt contrasts to a society increasingly roiled by violence and spiraling into disarray	are	1	0	0
+17	O	Conflicted politics and government mismanagement have taken their toll on this oil rich nation strafing the economy stoking fear and destroying public confidence	taken	0	0	0
+18	O	In this land of unparalleled beauty the beast always wins	wins	1	0	0
+19	O	Along with corruption and desperate poverty violent crime has long plagued Venezuela but the bloodletting has spiked in the last decade	plagued	1	0	0
+20	F	The crime rate has surged despite massive public investments in headline social programs known as Misiones a centerpiece of the late president Hugo Chavez s so called Bolivarian revolution for 21st Century Socialism	surged	1	0	0
+21	F	READ MORE Amanda Knox I ll Be A Fugitive Only last August President Nicol s Maduro launched The Safe Homeland Plan a bold national operation to curb street crime	READ	1	0	0
+22	O	We are working in absolute seriousness on the issue of public safety he announced and although the first stage of Plan Patria Segura has been successful it is not yet sufficient	working	1	1	0
+23	O	Few would argue the latter point	argue	0	0	0
+24	F	A visitor to Caracas is routinely warned to avoid walking the streets after dark where kidnapping for cash is a thriving industry	warned	1	0	1
+25	O	The government which stopped publishing crime statistics years ago insists that violence has abated	insists	1	0	0
+26	F	But those claims clash with reports by independent groups that monitor data from morgues emergency rooms and the police blotter	clash	0	0	0
+27	F	READ MORE Russia on Alert After Bodies Found In its latest bulletin published last month the noted watchdog group Observatorio Venezolano de Violencia found that 24 700 people were murdered nationwide in 2013 at the fevered clip of 79 per 100 000 inhabitants	found	1	0	0
+28	F	That makes Venezuela which is not at war one of the five most violent countries in the world	makes	0	0	0
+29	O	All this has created an outpouring of national sentiment and a predictable flurry of eleventh hour government initiatives	created	0	0	0
+30	F	Yesterday government leaders and members of the opposition briefly paused their daily verbal slugfest to call for national effort to stop violent crime	paused	1	0	0
+31	F	Nicol s Maduro I propose to you that we put aside our profound differences and come together as a single bloc over the lack of public safety opposition standard bearer Henrique Capriles governor of Miranda state posted on his Twitter feed Jan. 7	come	1	0	0
+32	F	READ MORE Chinese Director Fined for 3 Kids But few in this hyper politicized culture expect the truce to last	expect	0	0	0
+33	O	Plan Patria Segura is a total failure comments Argentine journalist and author Olga Wornat who has spent years reporting from Venezuela	is	0	0	1
+34	O	Writing in her Facebook page she noted that murders have been escalating in Venezuela for over a decade	noted	0	0	1
+35	O	What s new is that Monica Spear was a famous and cherished woman and her brutal murder sent a message that NO ONE is safe she added and life in Venezuela isn t worth a penny	is	0	1	0

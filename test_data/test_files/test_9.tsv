@@ -1,0 +1,116 @@
+sent_id	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	On the evening of November 4 1940 thirty year old Elizabeth Bendorf had just finished her shift as a train ticket salesperson at the S Bahn station Friedrichshagen and was waiting for a train to arrive in the station to take her home	finished	1	0	0
+2	The S Bahn was part of Berlin s rapid transit system	was	0	0	0
+3	It was common in 1940 for German women like Bendorf to work outside the home	was	0	1	0
+4	As a result women often rode the S Bahn alone at night when their shifts ended	rode	1	0	0
+5	With so many men away in the military women had come to dominate the factories of Berlin working to churn out the industrial products needed for the war effort	come	1	0	1
+6	While the Nazis would have preferred to have women at home in a traditional role as mothers and homemakers the war required that female labor be used to produce the armaments and other materials required to fight	required	0	0	1
+7	And with men away there were openings at non war related jobs as well such as selling tickets for the S Bahn	were	1	0	0
+8	READ MORE Cramer on Mrs. Jerry Lee Lewis Other powers fighting this war had similar issues with needing women to leave the realm of domestic work to do factory work that had previously been done by men	had	1	0	1
+9	In the United States the character of Rosie the Riveter was used to encourage women to leave the household sphere and do assembly line work at factories	used	0	0	1
+10	One example of U.S. government propaganda aimed at getting women to work said Can you use an electric mixer If so you can learn to operate a drill	learn	0	0	1
+11	A German propaganda poster captures this sentiment with a foreground image of three women a factory worker a nurse and a farmer behind them a factory and a farm and in the sky above them a drawing of a man wearing a combat helmet	captures	0	0	0
+12	The idea being that these women would free up men to fight	idea	0	0	0
+13	The text stated Starting with You READ MORE The Week s Best Reads Such propaganda was based on the idea that women would temporarily perform tasks in traditionally male dominated fields and then return to their domestic work when the war was over and the men came home	stated	1	0	0
+14	Paul Ogorzow saw Elizabeth Bendorf waiting by herself for the train	saw	0	0	0
+15	He indicated with an inviting motion of his hands that she should use the second class compartment instead of the third class one for which she was ticketed	indicated	1	0	0
+16	Since he was wearing a railroad company uniform and she was wearing hers she thought this was a professional courtesy to let her upgrade to a better compartment	wearing	0	0	1
+17	She was not worried that there was anything more nefarious involved	was	1	1	0
+18	Second class was more comfortable and so would be a more relaxing ride for her after a long day at work	be	1	1	0
+19	READ MORE Sj n s Literary Reykjavik The main difference between second and third class was the seating	READ	0	0	0
+20	Third class had hard wooden benches worn down from decades of Berliners sitting on them	had	0	0	0
+21	Most of the seats were in pairs facing each other with a narrow aisle between them	were	0	0	0
+22	The seating looked like what many modern trains use in their dining car minus the tables	looked	0	0	0
+23	On a crowded train each bench could hold two people who would then be stuck staring at the two people sitting inches away from them	hold	1	0	1
+24	This made for much more cramped travel seating than most modern subway systems which use seats facing the same direction or a long line of seating along the two outer walls of the compartment	made	1	0	1
+25	Second class featured the same basic seating arrangement as third class but with upholstered seating	featured	1	0	0
+26	In addition to this added bit of comfort second class offered a generally quieter and roomier compartment as the vast majority of S Bahn passengers rode third class	In	1	0	0
+27	READ MORE Are You Smarter Than a Mouse In reality Ogorzow did not care about this woman s comfort or extending her any kind of courtesy he wanted her in the second class compartment for his own reasons it was likely to be empty while the third class compartment was more likely to have other passengers riding in it	care	1	1	1
+28	Their train arrived after eleven in the evening	arrived	0	0	0
+29	They sat across from each other in the otherwise empty train compartment and made small talk	sat	1	0	0
+30	This was later characterized as a discussion about trivial things	characterized	1	0	0
+31	This shows that Ogorzow was able to handle himself in social situations	shows	0	1	1
+32	He was not a misfit	was	0	0	0
+33	He could converse easily with women even to the extent of making a woman he did not know who was traveling alone on a train at night feel at ease	converse	1	0	0
+34	It helped of course that he wore a uniform which gave him an aura of authority	helped	0	0	0
+35	READ MORE How to Hide a Famine Ogorzow saw that they were alone	READ	1	0	1
+36	But he waited he was not yet ready to attack	waited	1	1	1
+37	He wanted to make sure that he had the maximum amount of time to attack his victim and dispose of her body	wanted	0	1	1
+38	Having made small talk he d already wasted much of the time between the station where they d boarded the train and the upcoming one	made	1	0	0
+39	At the Hirschgarten station Ogorzow waited by the train compartment s door hoping that no one else would enter the second class section	waited	1	0	0
+40	The train doors did not automatically open when the train reached a station instead any passengers that wanted on or off the train had to manually pull on a door handle	doors	1	1	1
+41	The only automatic function was the closing of doors before the train left the station	was	0	0	0
+42	So Ogorzow was listening in the darkened compartment for the sound of anyone pulling a door open	listening	0	0	0
+43	During peacetime the windows on the train including the ones built into the doors themselves would have let him see if anyone was about to board but with the blackout they were covered	let	0	0	1
+44	READ MORE They ve Always Been Watching You The older S Bahn series had four doors on each side while the newer ones only had three	Been	1	0	0
+45	In the dark it could be hard to tell which side of the train the platform was on	be	0	1	1
+46	Ogorzow had to remember where it was at the Hirschgarten station and keep an eye out on the doors on that side of the compartment	had	0	0	1
+47	As the moments passed it seemed less and less likely that anyone would board	seemed	1	0	0
+48	Finally the train started to leave the station and he knew that it was now safe for him to attack	started	1	1	1
+49	Without wasting time he lowered the thick piece of lead cable he had hidden in his jacket so that it was now in his hand	lowered	1	0	0
+50	He then raised his arm up and hit Elizabeth Bendorf hard in the head with this blunt metal instrument	raised	1	0	0
+51	READ MORE She Hid Her Gun Where Despite this blow and the concussion it caused Bendorf managed to retain consciousness	READ	1	0	1
+52	She fought back and screamed as loud as she could	fought	1	0	0
+53	Unfortunately for her on this moving train no one in the other compartments heard her	heard	1	0	0
+54	Ogorzow was in a panic now too	was	1	0	0
+55	He was ultimately a coward and he took no pleasure in his victims fighting back	was	1	0	0
+56	He had anticipated that a hard hit to the head with this lead object would be enough to knock a woman out	anticipated	1	1	1
+57	Bendorf defended herself against Ogorzow as best she could but given that she was suffering the effects of a concussion and had no weapon with her he managed to hit her on the head again	defended	1	0	1
+58	Each time he succeeded in hitting her it caused her more pain and mental confusion	caused	1	0	0
+59	She could no longer process the flood of sensory information coming into her brain let alone command her arms and legs to do anything	process	1	0	0
+60	READ MORE How Michael Connelly Writes He kept hitting her hard on the head until she finally slumped down onto the train s floor	READ	1	0	1
+61	Only then did he halt his attacks	halt	1	0	0
+62	Paul Ogorzow now believed that his victim was either knocked unconscious or that he d killed her	believed	1	0	0
+63	However she was neither but merely temporarily stunned as a result of all the blows to her head	was	1	0	0
+64	Ogorzow turned his back on Bendorf and opened the compartment door	turned	0	0	0
+65	The train was still moving and a cold wind rushed into the open second class compartment	moving	1	0	0
+66	He felt close to recreating that moment when he d first thrown a woman from a moving train	felt	1	0	1
+67	The anticipation was building up and he began to feel a rush similar to the one he d felt when he d tossed Gerda Kargoll from the moving S Bahn	building	0	0	1
+68	READ MORE Hot Reads In the moments this took Bendorf began to move again	READ	1	0	1
+69	When Ogorzow turned around and walked toward her he was shocked	turned	0	1	0
+70	He d thought this attack was almost over that the only thing left was to toss her out of the train but here she was still alive and trying to get away	thought	1	1	1
+71	Any disappointment that he felt quickly faded as it was readily apparent that she was not moving fast enough to pose any real threat to him	disappointment	1	1	1
+72	She d already sustained a heavy beating and was barely functioning	sustained	1	0	0
+73	READ MORE Juiciest Bits From Bob Gates Ogorzow had no trouble using his piece of lead cable to hit her in the head once more	had	1	0	1
+74	He thought that this single additional blow would be enough to knock her out or kill her	thought	0	1	1
+75	Miraculously even having been hit on the head one more time Bendorf was still conscious	hit	1	1	0
+76	While aware of what was happening to her she was now too dazed to move her body at all	was	1	1	1
+77	Although she could do nothing to stop her assailant she still was able to watch in horror as he dragged her to the open train door	was	1	1	1
+78	READ MORE What We Might Become Ogorzow s proclivity for hitting women on the head meant that Bendorf was not his first victim to find herself in the nightmare situation of seeing the imminent threat he posed while being unable to do anything about it	READ	0	1	1
+79	Over a year before Lina Budzinski had suffered the same kind of horrific experience when Ogorzow hit her in the head and left her conscious for a while but unable to control her body enough to move or scream while he attacked	Over	1	0	1
+80	Ogorzow pulled Bendorf by the feet toward the door	pulled	0	0	0
+81	Once she was in front of the open door with the Berlin cityscape rapidly passing by outside he attacked her again	was	1	0	0
+82	READ MORE In War What Remains This time he was no longer concerned with rendering her unable to fight back	Remains	1	1	1
+83	That first part of his attack had a degree of rationality to it he didn t want his victim to be able to resist him	had	0	1	1
+84	But now that he d accomplished that task he was focused on attacking and hurting a woman for no rational reason at all	focused	1	0	0
+85	He hit her repeatedly on her back with the lead cable and kicked her savagely	hit	1	0	0
+86	READ MORE How to Be Cameron Diaz After she endured these blows he assumed that she was either dead or nearing death	READ	1	1	1
+87	He did not bend down to actually check whether she was still alive	bend	1	1	1
+88	He was quickly running out of time and was growing exhausted from all the energy he d put into this attack	running	1	0	0
+89	While dragging her to the door he briefly touched her in a sexual manner	dragging	1	0	0
+90	She was not aware of this as she was unconscious	was	0	1	0
+91	Now it was time for the part that he seemed to enjoy the most he threw her from the moving train before it arrived at the next station K penick	was	1	0	1
+92	The night outside was black with the lights off throughout the city	was	1	1	0
+93	This meant that he could not see where Bendorf s body fell	meant	1	0	0
+94	READ MORE Imagining the Internet in 1929 After this attack Ogorzow left his weapon behind on the train hiding it in the compartment	READ	0	0	0
+95	Perhaps he didn t want to keep what he mistakenly believed was a murder weapon any longer	want	1	0	1
+96	He had no sentimental attachment to this weapon	had	0	0	0
+97	It would be easy enough to get another blunt piece of metal with which he could hit women	be	1	1	1
+98	If he were worried about fingerprints a careful rubbing of the handle of the lead cable against his uniform would be enough to wipe it clean and he would have needed to handle it with the sleeve of his uniform or another piece of cloth to avoid leaving behind any new prints as he hid it	be	0	1	1
+99	READ MORE How to Stick to Resolutions Having temporarily satiated his dark desires Paul Ogorzow took the S Bahn home	READ	1	0	0
+100	As he headed back to his wife and kids he may have thought about how his latest victim screamed despite his best efforts to preemptively silence her	thought	1	0	0
+101	Perhaps this experience made him grateful that he d attacked her on the moving S Bahn train	made	1	0	1
+102	If he d been in the garden area and she d managed to scream based on his past actions he would not have been able to complete his attack	been	0	1	1
+103	Instead he would have run away in case anyone had heard her	run	1	0	0
+104	Like Ogorzow s first victim on the S Bahn Gerda Kargoll Bendorf too miraculously managed to survive her attack	managed	1	0	1
+105	She did however suffer a very serious concussion that required extensive hospitalization	suffer	1	0	0
+106	It took her eight days in the hospital to recover enough for the police to be able to interrogate her	took	0	1	1
+107	Although she was able to describe how she d been attacked she did not recall the kind of details that the police were hoping to obtain from her	was	1	1	1
+108	In fact they had little more to go on than what they had learned from the first S Bahn victim	had	1	0	0
+109	She did not realize that her attacker had briefly molested her during this attack so the police were not aware of this as well	realize	1	1	0
+110	If they had known it would have provided a possible motive for these attacks some kind of sexual perversion	provided	0	0	0
+111	READ MORE Fail Fast Fail Often Now that a second woman had been attacked the police no longer had doubts about the first victim s story	READ	1	0	0
+112	It helped that unlike Kargoll Bendorf had not been drinking	helped	0	0	1
+113	Until now Gerda Kargoll s case had been investigated as an accident	investigated	1	0	0
+114	The ordinary police Orpo handled accidents	handled	0	0	0
+115	Attempted murder though was a matter for the criminal police Kripo	Attempted	0	0	0

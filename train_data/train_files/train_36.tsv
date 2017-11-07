@@ -1,0 +1,45 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	On a newly buzzworthy strip of storefronts in Venice CA Silicon Beach as it s now known there s a modest looking building with some kind of ghost logo out front	On	1	0	0
+2	F	No eyes no mouth	eyes	0	0	0
+3	F	It s yours for 16 800 a month	s	0	0	0
+4	F	If you re a total loser you won t recognize this as the former headquarters of fast expanding Snapchat the app so far at the vanguard of progress that it brushed a 3 billion buyout offer from Facebook	re	1	0	0
+5	F	The spectral startup of course is almost the opposite of the world s most famous social network which is losing droves of younger users because too many old people are posting too many words	is	1	0	0
+6	O	Yes the velocity of cool streamlines everything away	Yes	0	0	0
+7	O	Cool people have no cars	have	0	0	0
+8	O	Cool houses have no furnishings	have	0	0	0
+9	F	In the onrushing future it seems the coolest of internet spaces will lack even the special online vernacular that makes current online titans like Reddit and Instagram such fertile content ecosystems	In	1	0	0
+10	O	If you re Googling examples bb ur doing it wrong tbh lol	re	0	0	0
+11	O	It s enough to make you suspicious that the internet was designed to create a race of illiterates communicating through a primitive system of winks tongue selfies rap squats and chunked deuces	s	1	0	1
+12	O	Yes in the future these gestures will have no names	have	0	0	0
+13	F	There s no doubt now that the internet has tipped the balance away from continuing our multi millennial streak as a fundamentally text based society in favor of pictures moving and otherwise	s	1	0	0
+14	F	Yet the rush toward an image heavy text light internet bears the mark of a certain kind of secret shame	bears	1	0	0
+15	O	If an effortless awareness of the latest slang can quickly signify cool it can also if thisclose to being too far ahead or behind the curve signify terminal loserdom	loserdom	1	0	0
+16	F	Stop trying to make stop trying to make fetch happen happen	Stop	0	0	1
+17	F	Plus there s now so much online argot that it s all taken on the grotesque quality of gross excess	s	1	0	0
+18	O	Up in arms against our ever changing acronym overlords we re tempted to follow Inbox Zero with Slang Zero one big poop emoji where an encyclopedia of obsolete vernacular once groaned on the digital shelves	tempted	1	0	1
+19	O	It s a pattern we ve seen repeated for centuries in politics	s	0	0	1
+20	F	Every total revolution approaches terminal velocity	approaches	0	0	0
+21	O	Today it s the bejeweled aristocrats getting the guillotine	s	0	0	0
+22	O	First they came for the authorial elite employing Clinical Standard Written English and I did not speak out for I was generating memes at that time Oh yes didn t you know Clinical Standard Written English or CSWE is a thing now thanks to Jon Evans whose put upon defense of internet speak on TechCrunch is also a thing	came	1	0	0
+23	F	Textbooks he tells us	tells	0	0	0
+24	O	Cookbooks	Cookbooks	0	0	0
+25	O	IRS instructions	instructions	0	0	0
+26	O	The New York Times the Wall Street Journal the British broadsheets etc.	Times	0	0	0
+27	F	All written in a similar mode authoritative declamatory distant dispassionate impersonal and allegedly neutral	All	1	1	0
+28	F	Formal pure and precise	Formal	0	0	0
+29	F	The problem of course is that English as actually used by 99 percent of its practitioners has never been even close to formal pure and precise	is	1	1	0
+30	O	What You Talked About in 2013 Ah	About	0	0	0
+31	O	Right	Right	0	0	0
+32	O	Best cross out precision from the New Empowered Dictionary of the People s English and write in oppression	cross	0	0	0
+33	F	Whoops I m snarking aren t I. It is true that language really is a main source of power in social relations	m	1	1	0
+34	F	There s also little doubt that Standard Written English originally a term coined by David Foster Wallace is dry as a bone and uses its dryness to present specific often failed elite perspectives as simply the news	s	1	1	1
+35	O	Evans might be pompous and put upon but in the grip of frustration who isn t The people freaking out in their cars or weeping in the corner and gnashing their teeth that s who	be	0	1	0
+36	O	The trouble is Evans has lost sight of how language works to establish our sense of proportion and perspective by exercising measured control thousands after thousands of years over the speed with which we redescribe reality	is	1	0	1
+37	O	Evans hardly alone on the internet exhorts us to welcome bizarre memes subversive polemics and the mad ravings of anonymous redditors hell even 4chan with nothing less than open arms	exhorts	1	0	1
+38	O	And why Because words matter	why	0	0	0
+39	F	Language matters	matters	0	0	0
+40	F	If language matters it must have matter rather than moving so fast that it becomes pure energy	have	1	0	0
+41	F	English s internet tendency is to increase and accelerate the production of terms and meanings so rapidly that we can t cling to any fixed reference point	is	1	0	1
+42	F	Speed is simply a relationship between two things when we rush we re always rushing away from something	is	1	0	0
+43	F	When that something is the recurrence of places things and people that awaken in us contemplation wonder and wisdom our online hypertext is making us dumber not smarter	dumber	1	0	0
+44	O	Subreddit on Navy Yard Shooting Banned Increasingly awkward during face to face encounters increasingly unable to remember what happened the day before yesterday and increasingly habituated to redescribing the world with joke words nonwords and abbreviations what will our relationship to power become Instead of being liberated from those dry tiresome elites we re more likely becoming readied for a kind of servility that no one has bothered to name	encounters	1	1	1

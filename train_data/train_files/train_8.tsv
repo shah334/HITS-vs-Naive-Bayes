@@ -1,0 +1,35 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Sheriff s deputies waited until Mark Kulis left home before delivering eviction papers to his house Wednesday	waited	1	0	0
+2	O	They d heard reports the 55 year old was dangerous but they didn t expect that his house in Ohio s Franklin County would be	d	0	1	1
+3	F	Kulis s oven was booby trapped with an explosive and there were four more in his bedroom closet and even more bomb making materials scattered throughout the house according to police reports	was	1	0	0
+4	F	Scrawled across the walls and ceilings of his home were names of politicians including President Obama and Ohio Gov. John Kasich and declarations of sovereignty	Scrawled	0	0	0
+5	O	When the police found and arrested Kulis he was at a car wash half a mile from his house armed with a loaded Colt .38 caliber revolver	found	0	0	0
+6	O	Kulis was charged with carrying a concealed weapon and manufacturing dangerous ordnance a lawyer for Kulis couldn t be reached for comment	charged	0	0	0
+7	O	At the time that Kulis was meant to be evicted there was a probate warrant pending to take him to an emergency mental health center	was	1	0	1
+8	F	He also considered himself a sovereign citizen	considered	1	0	0
+9	F	Whether one thing had anything to do with the other is undetermined but Kulis s scrawlings affiliated him with a 200 000 to 500 000 member movement that the FBI has called one of America s leading domestic terrorist threats	had	0	1	1
+10	O	Members of the movement are united by the belief that they should not be required to obey laws or pay taxes if they don t want to and they usually don t want to	united	1	0	1
+11	O	Sovereign citizens are notoriously more litigious than they are violent willing to engage in lengthy legal battles and flood local court systems with hundreds of pages of filings written in their own nonsensical language just to avoid paying a simple parking ticket or for a dog license	are	1	1	1
+12	F	They have used legal documents as a weapon against enemies filing fake tax forms or property liens to get a foe audited destroy their credit or sabotage a property sale	used	0	0	1
+13	F	One sovereign citizen named Robert Carr was indicted by a grand jury in December of last year for attempting to steal 11 Cincinnati area homes by breaking in changing the locks and filing secret court documents to claim ownership	indicted	0	0	1
+14	F	Many sovereign citizens may not be aware of their philosophy s origins	be	0	1	0
+15	O	The Southern Poverty Law Center says the movement is rooted in racism and anti Semitism and it has traditionally appealed to the economically desperate	says	1	0	0
+16	F	In the 1980s white supremacists and anti Semites were drawn to the movement by a shared defiance of the Jews they believed were controlling the government and financial institutions	drawn	0	0	0
+17	O	The group s early members believed that by granting citizenship to African Americans the 14th Amendment made blacks permanently bound to government rule and thereby ineligible for sovereign citizenship	s	1	0	0
+18	F	Today there s a significant number of black sovereigns	s	0	0	0
+19	F	The basis for the modern day sovereign belief system is a conspiracy theory that is as outrageous as it is confusing	is	1	1	0
+20	F	Sovereigns believe that there are two government systems existing in the United States common law which the Founding Fathers established and under which sovereigns are free to break laws and evade taxes as they wish and admiralty law which secretly replaced common law at some disputed time in history maybe during the Civil War maybe when the U.S. went off the gold standard in 1933 who knows and makes the sovereigns slaves to the government	believe	1	1	1
+21	O	Judges they believe are fully aware of the admiralty law takeover but pretend to be oblivious to keep sovereigns indentured to the government	are	1	1	1
+22	O	Many sovereign citizens have kept their battles on paper or in court yet some have had frequent run ins with police over refusals to follow laws or obtain required legal documents such as a driver s license	kept	0	0	0
+23	F	Authorities say this was the case with Jerry and Joe Kane a father and son who died in a May 2010 shootout after they d killed two police officers during a routine highway stop in West Memphis Ark.	say	0	0	0
+24	F	Jerry the elder Kane had joined the sovereign citizens movement in 2003 after losing his job his house to foreclosure and his wife to divorce	joined	0	0	0
+25	O	He d homeschooled Joe his 16 year old son and introduced him to the sovereign philosophy the two traveled the country for years giving seminars on what Jerry called mortgage fraud and the promise of debt reduction	d	0	0	0
+26	O	I don t want to kill anybody Kane said at one session captured on YouTube revealing his deep hatred for authority that he said resulted from a string of traffic stops and related arrests	said	0	0	1
+27	O	But if they keep messing with me that s what it s going to have to come out that s what it s going to come down to is I m going gon na have to kill	s	0	0	1
+28	F	And if I have to kill one then I m not going to be able to stop	going	1	1	1
+29	O	The Kanes weren t the first to let their rage get the better of them nor were the two officers they gunned down the first uniformed victims of sovereign violence	weren	0	0	0
+30	F	Michael Hill of Ohio was killed in 1995 when he pulled a gun on an officer who pulled him over	killed	0	0	0
+31	F	In 1997 Idaho brothers Doug and Craig Broderick s failure to use their turn signal turned into a bloody gun battle resulting in both of their deaths and the death of one officer	s	0	0	0
+32	F	Members of the Abbeville S.C. Bixby family killed two police over a land dispute in 2003	killed	0	0	0
+33	O	It s unclear whether Mark Kulis ever had any intention of using his home artillery	s	1	1	0
+34	F	But the officers who went to his house this week were probably wise to wait until he was gone	were	1	1	1

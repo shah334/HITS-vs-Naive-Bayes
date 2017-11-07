@@ -1,0 +1,49 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	After decades of being slammed by bluenoses bureaucrats and Bruce Springsteen for sexing up and dumbing down the masses it turns out that the small screen has accomplished what no amount of promise rings Twilight movies or mandatory banana on a condom classes have managed to do reduce the number of teenage births	managed	0	0	1
+2	O	At least that s what the authors of a widely discussed new study say	s	1	0	0
+3	F	In Media Influences on Social Outcomes The Impact of MTV s 16 and Pregnant on Teen Childbearing available online for the low low price of 5.00 from the National Bureau of Economic Research economists Melissa S. Kearney University of Maryland and Phillip B. Levine Wellesley College write The introduction of 16 and Pregnant along with its partner shows Teen Mom and Teen Mom 2 led teens to noticeably reduce the rate at which they give birth	In	1	1	1
+4	F	According to their calculations the shows are responsible for a 5.7 percent reduction in teen births in the 18 months following their introduction	are	0	1	0
+5	O	You ve got ta love economists with their ultra precise calculations of inherently vague social situations who doesn t want to be able to say with utter confidence PDF that for example the Budget Control Act of 2011 will result in the loss of 1 006 320 direct indirect and induced jobs	got	1	1	1
+6	F	En route to their conclusion Kearney and Levine concoct an inventive if not fully compelling methodology in which they track Google searches and tweets for terms related to teen pregnancy contraceptives and the like around airings of the MTV shows	concoct	1	0	0
+7	O	You can almost hear the programmers at MTV crying out like Viacom s answer to Oskar Schindler that they could have done so much more to prevent just one more teen pregnancy Indeed who knows how many more births they might have prevented had they not featured Farrah Abraham who went to star in the porno Backdoor Teen Mom which doubtless increased sexual activity among teens The study is far less interesting for the specific claims it makes about teen birth rates than it is as a variation on persistent attitudes toward cultural production and consumption redolent of Frankfurt School anxieties over media s impact on the proletariat	featured	1	1	0
+8	O	In many ways Media Influences on Social Outcomes is simply the latest echo of the idea that TV music movies novels and the like don t simply move audiences to laughter tears or contemplation but compel them to act in particular ways	is	1	0	1
+9	O	The main difference here is that rather than fretting over increases in violent or sexual activity after watching TV the authors claim to document the most uplifting effect the boob tube has had since Fonzie got his library card on Happy Days and supposedly spurred a 500 percent increase in application requests nationwide	is	1	0	1
+10	O	Typically write Kearney and Levine public concern addresses potential negative influences of media exposure but this study finds it may have positive influences as well We find that media has the potential to be a powerful driver of social outcomes	write	1	0	0
+11	O	In more doctrinaire versions of Frankfurt School analysis the producers of content are drivers and audience members are well just passengers along for the ride	are	1	0	0
+12	F	To their credit Kearney and Levine aren t nearly so deterministic even though they are quick to ascribe causative power to a particular set of programs	t	1	1	1
+13	O	In 2002 s Is Art Good for Us University of Tulsa professor Joli Jensen refers to this sort of thinking as an instrumental view of culture	Is	1	0	0
+14	O	It presumes that art is an instrument like medicine or a toxin that can be injected into us and transform us	presumes	0	0	1
+15	O	This view says Jensen is very tempting because if certain kinds of culture cause bad things in society then you can change that culture and fix society	says	1	1	0
+16	O	The instrumental view implies formal or informal commissars that must oversee and direct cultural production making sure more good art is made	implies	0	0	0
+17	F	After all you are what you read or watch or hear	After	0	0	0
+18	F	Morally suspect art leads to crime chaos and bad behavior	suspect	1	0	0
+19	O	Jensen contrasts the instrumental view of culture with what she dubs the expressive view which proceeds from John Dewey's understanding of culture as a way that all of us even those of us who are not in a special guardian class understand and symbolically engage the world	contrasts	1	0	0
+20	F	The expressive view stresses that we all participate in creating the meaning of a particular piece of work	stresses	0	0	0
+21	O	Especially in an age of DIY and on demand cultural production and consumption an age in which even the least engaged or conscious individual is able to decontextualize and recontextualize any piece of art in a way that would have absolutely blown Walter Benjamin s mind PDF the expressive view provides a more compelling and nuanced understanding of how we engage culture	is	1	1	1
+22	F	Culture isn t something that happens to us or programs us like robots	t	0	0	0
+23	F	It s something that emerges from the interplay between creators and audiences	s	0	0	0
+24	F	The expressive view of culture helps explain why despite massive increases in depictions of violence and sex across every possible mode of expression over the past several decades all indicators of problematic social behavior has declined	helps	0	0	1
+25	O	If popular culture really compelled us to act one way or another that couldn t be true	compelled	1	1	1
+26	O	In fact there is essentially no direct effect of a given show or song on us in terms of any particular behavior	is	1	0	0
+27	O	The fault or the credit lies not in our TV shows but in ourselves	lies	0	0	0
+28	F	This is true even for teens where arrests for violent crime are half of what they were 20 years ago and where teen sexual activity continues to drop	is	1	1	1
+29	F	Despite easy access to ubiquitous and free online porn only around 43 percent of girls and 42 percent of boys engage in sex before graduating high school	engage	1	0	0
+30	F	In 1988 the corresponding percentages were 51 percent and 60 percent	were	0	0	0
+31	F	As Kearney and Levine themselves note the teen birth rate around 29 girls per 1 000 between the ages of 15 and 19 give birth is about half of what it was two decades ago	give	1	0	0
+32	F	The decline is even more pronounced if you start the trend line four or more decades back	pronounced	1	0	0
+33	F	In a 2012 paper titled Explaining Recent Trends in the U.S. Teen Birth Rate PDF Kearney and Levine note that explicitly didactic interventions into teen pregnancy issues such as abstinence only education or mandatory sex education had no role in the long term decline	note	1	0	0
+34	F	Rather they argue that reductions in welfare benefits and access to birth control via Medicaid account for 12 percent of the decline since 1991	argue	1	0	0
+35	O	More important weak labor market conditions as measured by the unemployment rate do appear to lead to lower teen birth rates and can account for 28 percent of the decline in teen birth rates since the Great Recession began	appear	0	0	1
+36	O	In the new study they reiterate that a rotten economy tends to drive down birth rates When the labor market is weak they write teens like older women respond by having fewer children	reiterate	1	1	1
+37	F	The effect is rather large as well a one percentage point increase in the unemployment rate reduces the teen childbearing rate by about 2 percent	is	1	1	0
+38	O	This means that the five point increase in the unemployment rate that the U.S. experienced in the Great Recession would generate a 10 percentage point reduction in teen childbearing	means	0	0	0
+39	O	While attributing a bigger share of the decline in the teen birth rate to a crap economy rather than low rent reality TV shows is obviously less likely to garner New York Times coverage it also demonstrates how the expressive understanding of culture works	demonstrates	1	1	1
+40	F	Individuals even the disproportionately low income and low educated girls who are most likely to have babies as teens exercise a tremendous amount of agency in deciding when and under what circumstances they became a mother or a father	Individuals	1	1	1
+41	O	This decline in birth rates is in fact a global phenomenon one well documented by Jonathan V. Last in What to Expect When No One s Expecting	is	1	0	1
+42	F	In every developed economy and even most undeveloped countries he observes birth rates have plummeted over the past several decades	observes	1	0	0
+43	O	It turns out that when women have access to more education and better employment possibilities they have fewer children and have them later in life	turns	1	0	0
+44	O	The rise in legal equality and generally cheap and readily available birth control plays a major role too	plays	1	0	0
+45	O	Men are more careful too for a wide variety of reasons	are	1	1	0
+46	F	Declines in birth rates Last writes are the result of an enormous interconnected web of factors that constitute something like the entire framework of modern life	Declines	0	0	0
+47	O	The ultimate upbeat message is that relative to the past even the poorest women among us have more choices than ever before	is	1	0	0
+48	O	That s why they are choosing to have fewer kids not because they finally got their MTV	s	1	0	1

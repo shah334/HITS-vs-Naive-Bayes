@@ -1,0 +1,83 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	I m referring of course to the 2014 Oscar nominations which were announced Thursday morning at 5 38 am PT	m	0	0	1
+2	O	That was the moment it became official	was	0	1	0
+3	F	Jonah Hill now has more Oscar nods for acting than Robert Redford	has	1	0	0
+4	O	I caught an early screening of All Is Lost in October	caught	0	0	0
+5	O	About 20 minutes in a thought occurred to me Redford could get nominated for this	occurred	1	0	0
+6	O	By the time the movie was over I was certain Redford is going to win Best Actor for this	was	0	1	0
+7	O	Finally	Finally	0	0	0
+8	O	His minimalist performance was so haunting and his Oscar track record so skimpy that I figured he was a lock	was	1	1	0
+9	F	Prior to this year the Academy had nominated Redford the actor exactly once for The Sting in 1973 and systematically ignored him in everything else including Butch Cassidy and the Sundance Kid The Way We Were The Candidate All the President s Men and Out of Africa among others	nominated	1	0	0
+10	O	Nothing says We re Sorry like awarding a living legend a belated Best Actor statuette for an immaculate late career performance or so I thought	says	1	0	0
+11	O	But no	no	0	0	0
+12	O	I was wrong	was	0	1	0
+13	O	And so on this bleak midwinter morn as I grapple with my shock and chagrin I can t help but ask Why does the Academy keep snubbing Redford Some might say it s because he doesn t campaign aggressively enough	t	1	0	1
+14	O	Others might argue it s because he hasn t selected the most Oscar friendly roles	argue	1	0	0
+15	F	Or maybe Redford keeps getting shut out because he s so damn handsome	shut	1	1	0
+16	O	A few caveats before I continue	caveats	0	0	0
+17	O	As far as Academy Awards go attractive women probably have it harder than attractive men studies have shown people tend to consider good looking ladies less competent and less talented than their homelier peers which may partly explain why Lauren Bacall Greta Garbo Catherine Deneuve Ava Gardner Marilyn Monroe and Michelle Pfeiffer never won Oscar gold	have	1	0	1
+18	F	Actresses over 40 meanwhile have an even rougher time in Hollywood	have	1	0	0
+19	O	And minorities Forget about it	Forget	0	0	0
+20	O	No contest	contest	0	0	0
+21	O	Professor Dies But still	Dies	1	0	0
+22	F	Look back over the last 86 years of Oscar results and a pattern begins to emerge on the big night the most beautiful dudes tend to lose if they ve even been nominated at all	begins	1	0	1
+23	O	Not always of course	of	1	0	0
+24	O	But more often than not	But	1	0	0
+25	O	Consider the evidence	Consider	0	0	0
+26	F	Peter O Toole whose gorgeousness to talent ratio was probably the lowest in Hollywood history never won an Academy Award for his acting	was	1	0	0
+27	O	Neither did Cary Grant who was the greatest male movie star of all time and certainly one of the handsomest	did	1	0	0
+28	F	In fact Grant was only nominated twice for Penny Serenade in 1941 and None but the Lonely Heart in 1944 all of his immortal work with Alfred Hitchcock was overlooked	overlooked	1	0	0
+29	F	James Dean never won an Oscar	won	0	0	0
+30	O	Neither did Rock Hudson	did	0	0	0
+31	O	Or Errol Flynn	Flynn	0	0	0
+32	O	Or Montgomery Clift	Clift	0	0	0
+33	O	Or Robert Mitchum	Mitchum	0	0	0
+34	O	Or Warren Beatty	Beatty	0	0	0
+35	F	That lineup could pretty much double as a list of the Best Looking Actors Ever	double	1	0	0
+36	F	Even nine time nominee Paul Newman died with only a single statuette on his mantle	died	1	0	0
+37	O	The trend has continued in recent years as well	continued	1	0	0
+38	O	Scroll down to 1980 or so	Scroll	1	0	0
+39	O	Choose each year s comeliest nominee	nominee	0	0	0
+40	O	And see how often he wins	see	1	0	0
+41	F	1980 O Toole loses	loses	0	0	0
+42	F	1981 Beatty and Newman lose	1981	0	0	0
+43	F	1982 Newman and O Toole lose	1982	0	0	0
+44	F	1985 Harrison Ford loses	loses	0	0	0
+45	O	He still hasn t won	hasn	1	0	0
+46	F	1987 Marcello Mastroianni loses	loses	0	0	0
+47	O	He never won either	won	0	0	0
+48	F	1989 Tom Cruise loses	loses	0	0	0
+49	F	1990 Kevin Costner loses	loses	0	0	0
+50	F	1991 Beatty loses again	loses	1	0	0
+51	F	1994 Newman loses again	loses	1	0	0
+52	F	1996 Cruise loses again	loses	1	0	0
+53	F	1997 Matt Damon loses	loses	0	0	0
+54	F	2003 Johnny Depp and Jude Law lose	2003	0	0	0
+55	O	Neither has ever won	won	1	0	0
+56	F	2004 Depp and DiCaprio both lose	2004	0	0	0
+57	F	DiCaprio has never won	won	0	0	0
+58	F	2005 Heath Ledger loses	loses	0	0	0
+59	F	2006 DiCaprio and O Toole lose	2006	0	0	0
+60	F	2007 Depp and George Clooney lose	2007	0	0	0
+61	F	2008 Brad Pitt loses	loses	0	0	0
+62	F	Pitt has never won	won	0	0	0
+63	F	2009 Clooney loses again	loses	1	0	0
+64	F	2010 James Franco loses	loses	0	0	0
+65	F	2011 Pitt loses again	loses	1	0	0
+66	O	In fact sometimes it seems like the only way a pretty actor can win an Oscar is if he moves behind the camera to direct	seems	1	0	0
+67	F	Redford won for Ordinary People	won	0	0	0
+68	F	Costner won for Dances with Wolves	won	0	0	0
+69	F	Mel Gibson won for Braveheart	won	0	0	0
+70	F	And Beatty won for Reds	won	0	0	0
+71	F	None of them have won for anything else	won	1	0	0
+72	O	Actors who look like mere mortals are allowed to act and be rewarded for it but it s almost as if the best looking stars are required to do something more substantial to prove they re worthy of an Oscar	allowed	1	1	1
+73	O	Coincidence I m not sure	Coincidence	0	1	0
+74	O	It could be that the handsomest nominees almost always deliver inferior performances	be	1	0	0
+75	F	Or perhaps in the same way that studies have shown that people tend to doubt beautiful women assuming that their success is a function of schmoozing or worse the Academy does in fact have a subtle bias against men whose good looks are particularly pronounced	perhaps	1	0	1
+76	O	Either way the 2014 Academy Awards should be an interesting experiment	way	0	0	0
+77	O	Redford may not have been ancient and crinkled enough to overcome the curse of his iconic golden boy image but this year we re fortunate to have another blonde haired blue eyed Oscarless hunk to test our theory on Leonardo DiCaprio who s up for Best Actor for his work in Martin Scorsese s The Wolf of Wall Street	been	1	1	1
+78	F	DiCaprio has been nominated four times in total	nominated	0	0	0
+79	F	But for the most part the Academy has neglected his finest performances The Departed Revolutionary Road Django Unchained	neglected	0	0	0
+80	O	He s at the top of his game in Wolf and he just took home the Golden Globe	s	1	0	0
+81	O	If he loses on March 2 I say the curse is real	say	0	1	0
+82	O	And if he wins well maybe life isn t so bad for incredibly good looking male movie stars after all	t	1	1	0

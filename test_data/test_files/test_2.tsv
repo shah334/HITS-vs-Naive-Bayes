@@ -1,0 +1,627 @@
+sent_id	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	Richard Ben Cramer died one year ago this week and he is still sorely missed	died	1	0	0
+2	His career began at the Baltimore Sun during the Watergate Era blossomed at the Philadelphia Inquirer where he won a Pulitzer for his reportage in the Middle East and broadened in the 1980s when he conquered the long magazine profile with his enduring Esquire piece on Ted Williams	began	1	0	0
+3	Cramer then dove headfirst into publishing with an exhaustive account of the 1988 presidential election in What it Takes and followed that with a best selling biography of Joe DiMaggio	Takes	1	0	0
+4	At every turn Cramer was a masterful storyteller	was	0	0	0
+5	I m the guy on the barstool telling them the story Cramer told Robert Boynton in The New New Journalism	m	0	0	0
+6	And they re in the armchair listening	re	0	0	0
+7	As long as I can keep them from remembering that they ve got to go home tonight we re good	long	1	1	1
+8	READ MORE Fox s War Against Ailes Biographer I got to know Cramer over the last six and a half years of his life	READ	1	0	1
+9	Met him on the D train going to Yankee Stadium one day and spent that afternoon watching a ballgame with him in the press box	Met	0	0	1
+10	He made me feel like a peer like I belonged no small gesture	made	0	0	0
+11	He was charming and generous as he was to so many others and I was in good company in calling him a friend	was	1	1	0
+12	Not an intimate friend not mishpocheh exactly but a friend	mishpocheh	1	0	0
+13	Cramer was hard to get on the phone but when you did get him he was yours	was	1	1	1
+14	He told jokes and was quick to laugh	told	0	1	1
+15	We talked about food marriage baseball and writing	talked	0	0	0
+16	One time I asked him if a writer needs to believe that they are great in order to get anything done	time	0	1	1
+17	READ MORE Mitt Harris Perry Made Mistake You don t worry about greatness he said	READ	1	0	0
+18	You worry about the contract between you and the reader and anything that comes in between has got to be flattened	got	1	0	1
+19	Because that is the only thing that really counts	is	1	0	0
+20	Writing is hard	is	0	1	0
+21	It never gets easier	gets	0	1	0
+22	Nobody is going to help you	going	0	0	1
+23	Not that they are against you or don t like you necessarily but nobody is going to help you get it done	are	1	0	1
+24	It s all on you	s	0	0	0
+25	It s about you and the reader	s	0	0	0
+26	Here s a quick sampling of Cramer s work available online READ MORE Why 2014 Sucks So Far Can The Best Mayor Win What Do You Think of Ted Williams Now READ MORE Greenwald Attacks Post s Ruth Marcus Fore Play A Native Son s Thoughts READ MORE The Real Life Ron Burgundy The DiMaggio Nobody Knew A Serious Business READ MORE 2013 s Best in Multimedia These two fine portraits of Cramer one by Michael Hill the other by Martha Sherrill are well worth your time as is this TV interview Cramer did for C Span s Booknotes	READ	1	1	0
+27	And here is The Ballad of Johnny France	is	1	0	0
+28	It originally appeared in the October 1985 issue of Esquire and is reprinted here with permission	appeared	1	0	0
+29	I think of it as Cramer s great unsung piece	think	0	0	0
+30	It showcases two of his signature qualities as a writer narrative velocity and an unerring ear for dialogue	showcases	0	0	0
+31	READ MORE Behind the Desk Out of the Closet Dig in	READ	0	0	0
+32	READ MORE Is Tim Armstrong Aol s Lazarus The Ballad of Johnny France By Richard Ben Cramer READ MORE P.J. O Rourke Joins The Beast You probably heard of the case the young woman from Bozeman Montana who got kidnapped by Mountain Men	READ	1	0	0
+33	Her name was Kari Swenson	was	0	0	0
+34	She was a world class biathlete	was	0	0	0
+35	Last July as she was training running a trail near the Big Sky resort two men jumped out of the woods grabbed her and chained her up to a tree	July	0	0	0
+36	These were Mountain Men father and son	were	0	0	0
+37	Turned out they were hunting a wife	Turned	0	0	0
+38	Well they couldn t have picked worse	couldn	1	0	0
+39	Not that Kari wasn t good looking or strong enough or able to teach them a thing or two about social graces	wasn	1	0	1
+40	She was all that and more twenty three a graduate of Montana State U tops at skiing and shooting friendly in better circumstances	was	0	0	0
+41	In fact you could call Kari Swenson a proper belle of Bozeman the perfect flower of the New West	call	0	0	0
+42	Just happened the New West and these Mountain Men didn t have much in common	happened	1	0	0
+43	READ MORE When Mandela Was Santa Did they mean to woo her with the squirrel they served The boy so proud he d caught dinner with his cunning snare	READ	1	0	1
+44	And the old man clever careful tending his crusted skillet on a smokeless squaw wood fire	man	0	0	0
+45	But Kari wouldn t eat their mess	wouldn	0	0	0
+46	When the father left the campfire she pleaded with the son You could let me go	left	1	0	0
+47	I wouldn t tell anyone	wouldn	0	0	0
+48	The young man seemed to consider this	seemed	0	0	1
+49	He said No you re pretty	said	1	0	0
+50	I think I ll keep you	think	0	0	0
+51	Did the old man think they might win her over Just stay three days and you ll start to love it	think	1	0	1
+52	But his mountain wife dream wouldn t last that long	last	1	0	0
+53	READ MORE Yes Megyn Santa Can Be Black By dawn there were fifty people on the trail or on their way her parents from Montana State U all hands from the dude ranch where she worked dogs helicopters lots of lawmen Sheriff Onstad from Bozeman	READ	1	0	0
+54	This was tough country steep and wild and you couldn t see ten yards through the timber	was	0	1	0
+55	Sure enough two searchers from the dude ranch would have walked right past Kari and her captors	Sure	0	0	0
+56	But then they heard the shot	heard	1	0	0
+57	They busted in on the campsite	busted	0	0	0
+58	Kari was chained up and bleeding	chained	0	0	0
+59	The young Mountain Man was crouched near the campfire holding a gun crying Oh God I didn t mean to shoot her	crouched	0	0	1
+60	Oh God Kari had taken a .22 slug through her lung and out her back	taken	1	0	0
+61	READ MORE Hacking Scandal Entangles Piers One of the searchers Al Goldstein he d been in Montana only two years circled around the campsite dug in a pack came up with a pistol	been	1	0	0
+62	He yelled Put down your guns	yelled	0	0	0
+63	You re surrounded by two hundred men	re	0	0	0
+64	But the old man had a rifle	had	0	0	0
+65	He wheeled and shot	wheeled	0	0	0
+66	Goldstein went down hard on his back the pistol in one loose hand a walkie talkie in the other with one eye open and the other shot away his mouth full of blood to the top	went	1	0	0
+67	The other searcher ran for his life	ran	0	0	0
+68	Father and son took the chain off Kari left her to die	took	0	0	1
+69	They said they d kill anyone who came after them	said	0	0	0
+70	They took off through the timber and so began a five month hunt for two men in the wilds of America	took	1	0	0
+71	READ MORE Couric Apologizes for HPV Segment But first there s Kari Swenson bleeding in the woods back up on the ridge	READ	1	0	0
+72	And below at the trailhead there s her father Bob Swenson chairman of the physics department at Montana State U screaming at the sheriff from Bozeman DO SOMETHING And there s Sheriff Onstad trying to explain that he is doing something that his men are searching in the air on the ground and anyway there s a problem he has looked at a map and it s not his county not a case for Bozeman or even Big Sky	s	1	0	1
+73	They re over the county line off his turf	re	0	0	0
+74	In fact Kari s six mile run took this case right out of the New West	s	1	0	0
+75	Onstad explains that it s Madison County and that s Sheriff Johnny France and Where is Johnny READ MORE From MTV to Fox Business Well Johnny does get there at least in good time for the rescue	explains	1	0	0
+76	He d stopped to commandeer a helicopter from an oil business near Ennis	d	0	0	0
+77	As a matter of fact it s Johnny s chopper that winches down an aluminum basket to hoist Kari off to the hospital	s	0	0	0
+78	But when they lift her into the basket and flash the high sign and the chopper swings up damn if they don t mash that poor woman right into a dead lodge pole pine	But	1	0	0
+79	Yuh almost dropped her recalls Johnny France	recalls	1	0	0
+80	Didn t though	t	1	0	0
+81	Johnny gets busy at the crime scene borrows a camera takes the pictures himself	gets	0	1	0
+82	Mostly they ll just come out blank	come	1	1	0
+83	He picks at the campsite for clues on the killers a bit of flour and a few shell casings	picks	0	0	0
+84	Maybe some computer can match the shells but that ll take time	match	1	0	0
+85	Deputies with dogs want to get on the trail	want	0	0	1
+86	Sheriff Onstad is setting up roadblocks already	setting	1	0	0
+87	Word has spread to Big Sky and back to Bozeman	spread	1	0	0
+88	The men of the New West are taking up guns	taking	0	0	0
+89	Women are locked in their houses	locked	0	0	0
+90	Maniacs loose in the woods And where is Johnny READ MORE 8 Murdoch Phone Hacking Hacks Well Johnny comes out of the woods pretty late	Maniacs	1	0	0
+91	He s thinking doesn t hurry	s	0	0	1
+92	Drives the others nuts	Drives	0	0	0
+93	You know he tells a deputy there s a fellow used to stay near the power plant up the Bear Trap	know	1	0	1
+94	Had a son	Had	0	0	0
+95	Have to check but uh his name mighta been Dan	been	0	0	1
+96	Turns out he didn t have to check not for names anyway	Turns	1	0	1
+97	Search and rescue men with chain saws were already cutting on a pine tree at Ulery s Lake	men	1	0	0
+98	They carried out a three foot stretch of log emblazoned with a careful curly print READ MORE Couric Promotes Phony HPV Science DAN AND DON NICHOLS LIVE IN THESE MTS	Promotes	1	0	0
+99	July 14 1984	July	0	0	0
+100	Once when the boy was only nine and didn t come home from summer in the woods with his daddy the mother called Madison County set the sheriff to hunting father and son	nine	1	0	0
+101	Old Roy Kitson was sheriff then	was	1	0	0
+102	He and Deputy France had to hunt ten days to find Don and Dan up Bear Trap Canyon	He	0	0	1
+103	The mother drove down from White Sulpher Springs the following day	drove	0	0	0
+104	Meantime Kitson took the boy home to give him a meal maybe a bath	took	1	0	0
+105	The boy had only his dirty clothes a sleeping bag and heavy field glasses that hung from his neck	had	1	0	0
+106	Kitson s wife Minnie tried to make conversation Oh Danny she said where d you get the big binoculars The boy didn t seem to understand	said	1	0	1
+107	Minnie reached out to touch the field glasses These But the boy twisted away	twisted	1	0	1
+108	No Dan said those are my people watchers	said	0	0	0
+109	He wouldn t say much more	wouldn	1	0	0
+110	READ MORE What Does Biweekly Mean Again Back in those days that was ten years ago Don only had summers to teach the boy in the woods	had	1	0	1
+111	Come fall it was hard to give him up	fall	0	1	1
+112	Don adored that boy I d lay down my life for him he used to say and no one who saw them together could doubt it	doubt	1	0	1
+113	They d come off the mountains get to a store and the topic was always What does Dan want More soda pop Candy to take back to the woods Nothing was too good for him	come	1	1	0
+114	Don went without to give him presents or money if he had any	went	0	0	0
+115	But mostly he wanted to give Dan teaching that s what he d missed	wanted	1	0	1
+116	Don Nichols s father worked the mines around Norris until he died in a car wreck	worked	0	0	0
+117	Don s mother raised the kids cleaning houses or doing other little jobs	raised	0	0	0
+118	Don never seemed to have a good coat or the right shoes for the snow	seemed	0	0	1
+119	He was a quiet kid a hiker and hunter smart enough to graduate at the head of Harrison High	was	1	0	1
+120	But when his mother remarried Don never got on with the new man or the new rules	got	1	0	0
+121	He went off to the Navy and no one in Norris saw him much after that though they knew he d come back Montana was the only home for him	went	1	0	0
+122	READ MORE NYT Runs Nipple on Page One Don left the Navy on a Section 8 mental instability	Runs	0	0	0
+123	He talked like he d put one over on the Navy and he did seem straight enough	talked	1	0	0
+124	He found a wife in West Virginia got a job there for Union Carbide	found	1	0	0
+125	He made good money they had Dan and a daughter and another man might have been happy	made	0	1	0
+126	Not Don	Don	0	0	0
+127	More and more he talked about Back to Montana	talked	1	0	0
+128	He d build them a cabin in the mountains	build	0	0	0
+129	Well Verdina the wife came from the mountains	came	0	0	0
+130	She knew what hauling water was and she liked her washer drier	knew	0	0	0
+131	She d come along to Montana all right but as to mountain life Living like the Indians Don said no there she drew the line	said	1	0	0
+132	So Don was on his own with his mountains his books and the ideas he took from them	was	1	0	0
+133	History for example he d looked into all of America s wars and figured out the British caused every one	d	0	0	0
+134	Science he saw no use for doctors he cured himself with herbs or steam laughing when he heard what hospitals charged	Science	1	0	0
+135	He d read on the land s geology on the rivers biology	read	0	0	0
+136	Walking hunting fishing snaring shooting these he knew without books	Walking	0	0	1
+137	Walking there was no one to beat him	was	0	0	0
+138	Don had long skinny legs too long for him by strict proportion but they could cover trail	had	1	1	0
+139	They say one time he walked to Canada	say	0	0	0
+140	The man could just walk forever	walk	1	0	0
+141	READ MORE GoldieBlox Pulls Girls from Ad And that s what he meant to do	READ	0	0	1
+142	Most years he d come off the mountains walk or hitch to Jackson Wyoming	walk	0	0	0
+143	There an old guy with a machine shop had a job for Don whenever he showed	had	1	0	0
+144	Don would work for a few months then head back to his mountains	work	1	0	0
+145	Once he didn t even say goodbye just left a note on his bench The berries are ripe in Montana	say	1	0	0
+146	Don thought a man s needs should be simple that was one of his philosophies	thought	0	1	0
+147	He had one friend in Jackson Adele Della Porta a woman who lived with her cats in a trailer across from the cabins where Don always stayed	had	1	0	0
+148	He d go into Adele s place and see the big desk where she kept all her papers and he d get to laughing and pointing and say What the hell do you need all that for She didn t mind	d	1	0	1
+149	She knew him	knew	0	0	0
+150	She d have him over for dinner and he d eat her spaghetti with a knife telling her how the country was going to hell how they re ruining the mountains with their laws and money	have	1	0	1
+151	But they ll never get me	get	0	0	0
+152	I ll be free to the end One Thanksgiving she cooked a turkey and trimmings he ate the whole thing with a spoon	ll	0	1	1
+153	She scolded Oh Don you know better He said Aw what s the difference He asked Adele once to go to the mountains be his partner in the natural life	said	1	0	1
+154	She said she didn t like him that way	said	0	0	0
+155	He took it amiably	took	1	0	0
+156	But that was his one problem in the woods loneliness save when the boy was there	was	1	0	0
+157	He d never admit to fatigue or cold hunger or want	admit	0	0	0
+158	I could live a hundred years on what I got stashed up there But Don did want a mate not to marry I ve had enough of that just to share fifty fifty like the Indians did	live	1	0	1
+159	He said he knew one Mountain Man who got himself a young hippie gal and they went to the woods and it turned out fine	said	0	0	0
+160	Just spend three days and you ll start to love it	start	1	0	1
+161	That s what he told all the women he asked	s	0	0	0
+162	They thought he was crazy but he was used to that	thought	0	1	0
+163	When this land was invaded they d see he was right	see	1	1	0
+164	Then they d be slaves	be	1	0	0
+165	But he d be free	be	0	1	0
+166	They ll never take me alive And now he d taught the boy too	taught	1	0	0
+167	READ MORE Heads Roll in TV Land Dan was growing up a handsome lad but hard to talk to	growing	0	0	1
+168	He had few friends in White Sulpher Springs didn t hang out at the drive in or any of that	had	0	0	0
+169	What he loved was summer in the mountains with his father	was	0	0	0
+170	He d crow We can live anywhere Wouldn t talk about their campsites though	d	1	1	0
+171	They were secret couldn t be seen at all That s how we pick them	were	1	0	0
+172	Back in town the boy seemed withdrawn	seemed	1	0	0
+173	There was a stepfather and rules Dan didn t like	was	0	0	0
+174	He didn t like school except for art he could draw and paint and letter beautifully	didn	1	0	0
+175	The teachers encouraged him gave him a school wall for a mural	encouraged	0	0	0
+176	Dan worked hard and made a good picture mountains timber blue sky and in the foreground a blond girl and a unicorn	worked	1	0	0
+177	There was a blond girl he liked in Three Forks where his uncle lived	was	1	0	0
+178	Dan got a knife and chased her down the street	got	0	0	0
+179	She got to a house and called the cops	got	0	0	0
+180	Next day Sheriff Onstad spotted Dan at a sporting goods store shopping at the used gun rack	spotted	0	0	0
+181	Dan was booked on assault juvenile	booked	0	0	0
+182	Soon after that he left school never came back for senior year	came	1	0	0
+183	He went to the woods with his daddy when he was eighteen in the summer of 83 and that was the last folks knew of him until Kari Swenson went missing	went	0	0	0
+184	Then Don and Dan seemed to be everywhere	seemed	1	0	1
+185	They were sighted from Alaska to Texas	sighted	0	0	0
+186	People Weekly ran sketches of them	People	0	0	0
+187	Network crews came to wait for more shooting	came	1	0	0
+188	The Washington Post arrived to check out this Mountain Man Sub culture How many hundreds are we talking about	arrived	1	0	0
+189	READ MORE Too Hot for MSNBC Of course the Bozeman Daily Chronicle was full of Mountain Men THEY RE NOT MONSTERS SAYS NICHOLS EX WIFE READ MORE Weather Girl Does Forecast Nude A WIFE FOR SON MAY HAVE PROMPTED KIDNAPPING NICHOLS A NICE MAN BORN 100 YEARS TOO LATE READ MORE Money Honey Flees to Fox It got so the Swenson s broke their own bitter silence wrote to the Chronicle to complain about all this Old West romance MOUNTAIN MEN KIDNAPPERS AREN T NICE GUYS READ MORE British Vogue Calls Marissa Mayer a SWAG Even in private Jan Swenson Kari s mother wouldn t say the name Nichols	broke	1	1	0
+190	She called father and son The Creeps or just Them as in I want to see them brought out feet first	called	1	0	1
+191	But it wasn t just Jan Swenson	wasn	1	0	0
+192	All of Bozeman and Big Sky the brave New West wanted these two scalps wanted them quick and quiet	All	0	0	0
+193	This could wreck all their careful building When the Chronicle reported orders to evacuate the guest ranch at Big Sky the owner Bob Schaap called up screaming that they d ruin business	wreck	1	0	1
+194	Reservations were off everywhere campgrounds were empty	were	1	1	0
+195	The main lodge at Big Sky was asked to post warnings DANGEROUS MEN IN THE WOODS	asked	0	0	1
+196	They put it up so small you had to squint to read it	put	1	0	1
+197	But all this went deeper than business	went	1	1	0
+198	Bozeman home of Montana State U a new high tech industrial park clean neighbors and clean air ski and Brie Bobcats football was full of folks who d moved away from the dirt and wackos of Detroit or L.A.	was	1	1	0
+199	At Big Sky the lodge the dude ranch the condos by the golf course the rustic prefab log homes they d bought in for skiing hunting fishing the postcard views in picture windows	ranch	0	0	0
+200	The mountains were theirs by right by dint of deed and hefty mortgage	were	0	0	0
+201	And this was the true crime of Don and Dan Nichols they d stolen the mountains from the New West	was	0	0	0
+202	Now there was doubt in the forest blood on the slopes of paradise	was	1	0	0
+203	READ MORE Why Dylan Davies Disappeared Who to turn to Well more than one good burgher of Bozeman said it was a shame that county line how it took the case from their own fine department Bozeman s big Law and Justice Center and their own Sheriff Onstad a modern lawman an MSU grad a man People magazine called a cultured Matt Dillon	said	1	0	0
+204	Instead well they d have to hope for the best with Johnny France	have	1	0	1
+205	They called him that cowboy over the ridge or worse Bob Schaap Kari s boss called him a bungler flat out Jan Swenson told friends Johnny was pathetic	called	0	1	0
+206	Even the network crews got to chuckling as they sat around in their rent a cars dreaming up the TV movie and someone said Well who should play him They settled on Dennis Weaver but someone leaked it to Johnny and he wasn t happy	got	1	0	0
+207	He started patting his .44 Magnum every once in a while and muttering Make my day	started	1	0	1
+208	Don t get me wrong he wasn t loud about it	get	1	1	0
+209	That s not how you get elected sheriff in Madison County Montana	s	1	0	0
+210	No if you ever hear Johnny talk he ll be soft and slow voiced and he ll likely have one hand propped up and grazing his lips for no reason while you lean in and strain to hear him	be	1	1	1
+211	Then he ll talk at his boots for a while which makes matter worse	talk	1	1	0
+212	That s how I first heard him talking in his regular booth center row at Bettie s Just Good Food Caf	s	1	0	0
+213	Or almost heard him	heard	1	0	0
+214	Bettie s on Main Street Ennis is noisy when the ranchers come in to breakfast	s	1	1	0
+215	READ MORE Cohen Race Comments Misunderstood There wasn t much to hear that day anyway	READ	1	0	1
+216	Johnny wasn t talking about his plans	wasn	0	0	0
+217	Never has for forty four years	has	0	0	0
+218	These Mountain Men for instance he hardly said a word	Men	1	0	0
+219	But he dreamed of them or lay awake at night rehearsing the capture in scenes on his ceiling	dreamed	0	0	0
+220	By day he was sort of absent mulling it over in his head until you d think he couldn t find his own office	think	1	0	1
+221	That s what got all the other law enforcement so mad when he wouldn t call wouldn t show up or wouldn t know what they were talking about when they mentioned this or that report	s	1	0	0
+222	And Sue France worried but she d worried twenty five years since they married	worried	0	0	0
+223	She was sure he knew what he was doing which he did most of the time	was	0	1	0
+224	He might not have always known what to do but he knew what he had to get done	known	1	0	1
+225	And he had to do it alone	had	1	0	1
+226	Not that he was short of friends or advice	was	0	1	0
+227	After a month of a fruitless hunt countless over flights daily horse patrols two swoops by visiting SWAT teams a flying inspection by the U.S. marshals after Goldstein s brother sent a tracker guru Jesus with earrings twice from New Jersey after the U.S. Forest Service threw in an infrared detector so slick it could sense body heat even from an airplane but it was summer when every rock in the woods threw heat lit that scope like a jukebox after the Feds buried in the woods two surplus Vietnam sensor bugs didn t work any better here than they did in the DMZ after dozens of promising tips that failed and five times as many blind alleys there were friends who were glad to tell Johnny You ll never get em	sent	1	1	1
+228	They made Canada	made	0	0	0
+229	You ask me they re gone	ask	0	0	0
+230	But Johnny didn t ask them	ask	0	0	0
+231	And there were the Old West ranchers who wanted to know What the hell s the big deal Ol Don didn t mean to hurt nobody	were	0	0	1
+232	Heh	Heh	0	0	0
+233	Ol Don just thinks he s a uh Mountain Man	thinks	1	0	0
+234	But Johnny would answer Yuh I know him	answer	0	0	0
+235	And I ll get him	get	0	0	0
+236	Uh I m a Mountain Man too	I	1	0	0
+237	READ MORE Cohen People ` Gag' on De Blasios Johnny was raised to the old life and law on a ranch overhanging the Madison River	raised	0	0	0
+238	His mother died when he was four	died	0	0	0
+239	His daddy was a drinker not much for raising kids so Johnny was farmed off to an uncle Joe France the toughest rancher around	farmed	1	0	0
+240	Johnny s face still pinches up when he talks of one November day when he and his uncle and Aunt Eva were cutting calves away from their mothers on the range high above the river and the temperature was down below zero the wind blowing snow at thirty miles an hour and Johnny was cold to his bones and eight years old	pinches	1	1	0
+241	Of course the heifers tried to stay with their calves and the calves tried to follow their mothers into a rocky draw in the ridge and Johnny s old gray horse got snorty and cattle were scattering everywhere and Johnny ached and his eyes stung and he started to cry	tried	1	0	1
+242	Joe France rode over and fixed the boy with a stare of contempt	rode	0	0	0
+243	Don t just sit there and bawl and boohoo he yelled at Johnny	sit	1	0	0
+244	Dammit get moving That snapped something sure enough	get	1	0	1
+245	Joe would never see him cry again	see	1	0	0
+246	Got so when Johnny was eleven or twelve they never found a horse he couldn t break and even Joe said once in a while that they boy was pretty damn good	found	1	1	0
+247	As for Johnny he was never prouder than he was after one rodeo when an old timer came up to say Saw you ride	was	1	1	0
+248	You remind me of your Uncle Joe	remind	0	0	0
+249	So he did and he might have come out just as rough if it weren t for the Shirleys who bought the next door ranch when Johnny was eight	did	1	1	0
+250	The Shirley s roaring stove laughter hugging and hot pies were the perfect complement to Uncle Joe s school of hard riding	s	1	0	1
+251	Johnny and Forrest Shirley would rassle on the floor Forrest giggling as much as the child	rassle	1	0	1
+252	And Betsy Shirley would grab that boy for no reason hold him out at arm s length throw her head back say I love you Johnny then gather him into a mother hug and he d end up on her lap	grab	1	0	0
+253	During four years of Harrison High he lived with the Shirleys except summers when he rode the range with Uncle Joe and the cowboys	lived	0	0	0
+254	READ MORE What 60 Minutes Must Do Next At nineteen Johnny was riding stock that most men wouldn t touch	riding	0	0	0
+255	Soon it was a rodeo every weekend sometimes two and it seemed natural not just riding but being watched too	was	1	0	0
+256	Johnny worked as a wrangler at the Elkhorn dude ranch but he lived only for the rodeo until he met Sue	worked	1	0	0
+257	She was of a kind he d never seen boarding schools eastern manners and not too happy when her mother sent her to the ranch for two weeks of work	was	1	0	0
+258	Sue saw him her first night there at one end of the long dining table with a pretty girl at the other end trying to toss grapes into Johnny s mouth	saw	1	0	1
+259	Well Johnny saw Sue too turned his head went for a grape at the same time and fell right off his chair	saw	1	0	0
+260	Sue s mother took a while to calm down At least she sniffed finally it ll never be boring but it wasn t long before Sue France was driving off to rodeos with Johnny	sniffed	1	1	1
+261	Actually she drove alone towing a horse trailer	drove	1	0	1
+262	Like most cowboys of his stature Johnny flew from town to town	flew	0	0	0
+263	There s some talk now that Johnny never had a pilot s license but he did have a plane until the day he piled it up in a field	s	1	0	0
+264	Everyone saw the plane go down and jumped in cars to get there convinced they d only find pieces of Johnny	saw	1	0	0
+265	But they got to the field and there he was trotting through the grass with his saddle on his shoulder wondering if he wasn t too late to ride	got	1	0	1
+266	Well he did compete and then he called Sue to say he wouldn t be home that night	compete	1	0	1
+267	Why not she said	said	1	0	0
+268	He told her Uh don t have a ride	told	0	0	0
+269	READ MORE The Meaning of CBS Benghazi It was Sue who convinced him finally to give up the rodeo life	was	1	0	1
+270	He thought a badge would bring a sure wage and maybe a chance to shine if things broke right	thought	1	0	0
+271	He was twenty five when he signed up in Dillon a town west of Ennis and he went at it just like a rodeo	was	1	1	0
+272	But things didn t break quite right	things	1	0	0
+273	See a hippie came through town so Patrolman France arrested him	came	1	0	0
+274	Then the hippie got mouthy so Johnny gave him a haircut	got	1	0	0
+275	Well the kid sued the papers got it and soon the chief wanted to see Patrolman France privately	sued	1	0	1
+276	The chief quite a modern police orator said Johnny d done great things in Lawn Forcement that Lawn Forcement needed men like Johnny that he d hate to see Johnny leave the field but he wouldn t mind it just now if Johnny wanted to move on and do some forcement elsewhere	chief	1	0	1
+277	That s how Johnny came to be a deputy sheriff one of five on the Madison County force	s	1	0	1
+278	There too zeal brought public notice he busted his own brother in law on a marijuana rap	brought	1	0	0
+279	Then there was the case of a boy whose daddy was a county commissioner	was	1	0	0
+280	This boy was in a bar fight Johnny had to sort it out	was	0	0	1
+281	So he took both fighters to the edge of town and set them at each other Loser goes to jail	took	1	0	0
+282	He ended up busting the commissioner s kid which seemed overzealous to some	ended	0	0	1
+283	But it did get him a reputation	get	0	0	0
+284	If some liked it and some didn t well at least everybody knew it	knew	1	0	0
+285	He was elected sheriff in 81 and has had lots of cases but nothing so big or worrisome as the hunt for Dan and Don Nichols	elected	1	0	0
+286	READ MORE Guns Ammo Fires Editor But wait	READ	0	0	0
+287	Sue s got a news clip here from her stack in the boot box in the closet This was when Johnny was flying one day with the fellow who d taught him	s	1	0	0
+288	They re up in a Cessna 210 a little single engine job with retracting landing gear	re	0	0	0
+289	They re in for a landing at Dillon and they flick down the wheels and damn one side won t come down	re	0	0	0
+290	It s the gear	s	0	0	0
+291	The wheel just hangs out at a useless 45 degree angle	hangs	1	0	0
+292	It won t lock down no matter how many times they flip it up and back	won	1	0	1
+293	Luckily they ve got some fuel	got	1	0	0
+294	So they start doing rolls and dives and things that a Cessna shouldn t do trying to shake this gear down so they can land	start	0	0	1
+295	The fellows at air traffic control don t know what to do either so they call Cessna	don	0	0	1
+296	The folks at Cessna don t know what to do so they suggest belly landing	suggest	1	0	1
+297	Well Johnny and his friend don t have so many planes so they do more loops and dives trying to shake the gear loose	don	1	0	1
+298	Well it looks bad	looks	0	1	0
+299	They talk it over	talk	0	0	0
+300	Johnny climbs out of the plane locks his hands around the wheel strut	climbs	0	0	0
+301	Then with wind blowing him out horizontal under the wing he hooks a boot on that balky wheel kicks the mother home	Then	1	0	0
+302	Climbs back in	Climbs	0	0	0
+303	Lands the plane	Lands	0	0	0
+304	READ MORE CNN Takes Ratings Hit Ride em Johnny	READ	1	0	0
+305	Through the summer leads came fast	came	1	0	0
+306	The cowboys at Windy Water Ranch told Johnny that Don and Dan used to visit the ranch s cabin on the high pastureland	told	0	0	1
+307	Cowboys would come in and find the stove hot some food gone but the place would be clean and Don always left firewood	come	1	1	0
+308	Then a few years back odd warnings began to appear on the cabin walls CATTLE RUINING THE FOREST Demands that the cattle be removed	began	1	0	1
+309	Then the cabin burned down	burned	1	0	0
+310	When the cowboys moved up the ridge to Cherry Creek Ranger Station the warnings got stranger SHITTING IN MY FOREST then the station burned down	got	1	0	0
+311	READ MORE China s Baffling Decency Police One outfitter told Sheriff Onstad that he d met Don several times through the years	s	0	0	0
+312	Once they shared lunch and Don did some shooting to show off his old Sako rifle Don s eye was good but his speed was amazing	did	0	1	0
+313	He d just turn fire and keep firing and he shot for the head	turn	1	0	0
+314	By autumn the law knew how Don loved pancakes how Don snared squirrels how they made three rock campfires how they leveled out a bed even how Don always wore his hat on account of he was going bald	knew	1	1	0
+315	This was the kind of patient police work that should have brought a capture	was	0	0	0
+316	Seemed it would a dozen times	Seemed	0	0	0
+317	Jay Cosgrove deputy at Big Sky got a call one night a lone young man with a backpack was crossing the bridge past the condos making for the highway	got	0	0	0
+318	Jay threw on pants ran for his car	threw	0	0	0
+319	He drove till dawn never saw a soul	drove	0	0	0
+320	Then Sheriff Onstad got a call a country shopkeeper had found in his till a check from Nichols	got	1	0	0
+321	Deputies took the check raced for the bank in Three Forks	took	0	0	0
+322	There they found the account of someone named Donna Nichols	found	1	0	0
+323	READ MORE New Media Moguls Listen Up Onstad got another call that he passed on to Johnny	READ	1	0	0
+324	It was a South Dakota psychic I never called police before	was	0	0	0
+325	But I saw those men in People she said and I ve had visions	saw	0	0	0
+326	They are underground yes perhaps a cave and three words keep coming to me yellow medicine and thief	are	1	1	1
+327	Johnny mused it came up dry	mused	0	0	0
+328	He called a friend Dave Wing a Forest Service officer Dave know any hills creeks or caves by name of Yellow Medicine or Thief Wing arrived at Johnny s house with a briefcase full of maps and photos	called	0	0	0
+329	The aerial shots were so sharp they could see every bog hole	were	1	0	0
+330	But they had a thousand miles to scan and no idea what to look for	had	0	0	1
+331	Johnny couldn t sit still	sit	1	0	0
+332	He walked his yard staring at maps like he could burn holes in them	walked	0	0	0
+333	Next day he was asking old timers Yellow Medicine Thief He had the court staff digging through the old Virginia City mining claims	asking	0	0	0
+334	In a couple of days he found it an old mine called the Sulfurette	found	0	0	0
+335	Hmm yellow medicine	medicine	0	0	0
+336	And damn if the next mine wasn t the Medico	damn	0	0	0
+337	Then he checked the owner Jesse James Barfield	checked	1	0	0
+338	That s my thief READ MORE Megyn Kelly No. 2 on Cable Johnny felt so right about this he took along the D.A. might have to read someone his rights	felt	1	1	1
+339	He took a county deputy his friend Dave Wing and Bernie Hubley of the FBI	took	0	0	0
+340	The five men searched out the mine but when they found it Johnny didn t want company	searched	0	0	0
+341	Just cover me he said	cover	1	0	0
+342	I m thinking if I can get in the first word maybe we can uh talk it out	talk	1	0	0
+343	Johnny holstered his Magnum went at the mine showing both hands empty	went	0	0	0
+344	There was no sound on the hillside	was	0	0	0
+345	The mouth of the mine showed no tracks	showed	0	0	0
+346	But Johnny slithered into the shaft crawled five hundred feet into the earth	slithered	0	0	0
+347	The four other men moved in on the mouth straining to hear something	moved	0	0	1
+348	All they heard at last was soft scraping as Johnny emerged black dust and sweat caked on his face bleak disappointment in his eyes	was	0	1	0
+349	The five men left the mine in silence	left	0	0	0
+350	Lotta times recalls Dave Wing nothing needed to be said	recalls	0	0	0
+351	On Johnny s twenty fifth wedding anniversary he left Sue at home to join Sheriff Onstad s midnight assault on two suspect caves	On	0	0	0
+352	But Johnny was out of place out of sorts with a dozen men and 70 000 in equipment	was	0	0	0
+353	He couldn t see through the fancy night vision scopes	couldn	0	0	0
+354	He fell and sprained a finger	fell	0	0	0
+355	He couldn t work the fussy federal radios	couldn	0	0	0
+356	Neither he nor anyone else took a shot with the Army M 16s	took	1	0	0
+357	READ MORE A Note on Our New Look No Johnny liked to hunt alone nosing up Bear Trap Canyon looking for broken bush tips cracks in mud smudges on rock	READ	1	0	1
+358	He hunted Don and Dan like he would a big elk	hunted	0	0	0
+359	Sometimes he didn t even hunt just went out on the land alone with his thoughts and the mountains	went	1	0	0
+360	Got so he couldn t even make the weekly call he d promised Sheriff Onstad	make	1	0	0
+361	Got to the point where Onstad boiled over cornered Johnny bawled him out	Got	1	0	0
+362	You just can t Onstad said run something this big out of your hip pocket	said	1	0	1
+363	Soon after that Jan Swenson showed up to tell Johnny he really must learn about search and rescue some modern methods some system for the mountains	showed	1	0	0
+364	She pointed out that she helped organize Sheriff Onstad s Nordic Ski Search and Rescue	pointed	0	0	1
+365	She said she d teach Johnny how to handle these cases	said	1	0	0
+366	What Jan meant was that her daughter might not have been shot if Johnny had launched a night search it ate her insides each time Kari cried but Jan wouldn t come out and say that	was	0	0	0
+367	What Johnny meant was no one might have got shot Al Goldstein might be alive today and he Johnny France might not have to face two men with nothing more to lose if she and her New West friends hadn t filled up the woods with amateurs	was	0	1	1
+368	Johnny might have said that he knew the mountains as she never would not from ski reports avalanche charts MSU studies but from living where the mountains made weather gave water bred the summer grass that was life	said	1	0	0
+369	But Johnny wouldn t come out and say that	come	0	0	0
+370	So he and Jan just snarled at each other then parted ways	snarled	1	0	0
+371	READ MORE Obama s Favorite New Channel So some nights as he lay awake Johnny threw in some speeches to the Swensons between the speeches to Don and Dan Nichols that he d practiced so often in his head	threw	1	0	0
+372	How he d talk Don and Dan into surrender how he d made Don see the boy must have a life how he d catch the boy alone and talk him out of the woods how the boy might leave his father and give up no that would be too sweet too easy	talk	1	1	0
+373	No he d have to spot their camp sneak in get the drop have his say take their guns bring them in and he could he would because he knew his man because he knew where the grouse would be in the fall where the game pawed to feed in the winter where the wind blew the hills bare of snow where the caves went deep in the side of the ridge where the cave and Johnny knows they re in there in the cave and he comes on it up a rocky hill black hole in the earth he must enter in the blackness and he can t see for spots in his eyes but they re in there he can feel them and he s framed in the light of the cave mouth and he reaches for his gun it fills his hand he pulls He always woke when the shooting began	would	1	0	1
+374	And in the morning Sue would find the bedclothes kicked into knots on the floor and she d know Johnny d had another bad night	find	0	0	0
+375	Now his 53 Jeep bounced up the ridge on the Shelton ranch the old Flying D. He d known this range for thirty years punched cattle here as a boy	bounced	1	0	0
+376	The lines at his eyes seemed to ease with each mile he put between him and the highway	seemed	0	0	1
+377	He d brought along a friend to check an old mine and one lonely cabin two placed Don and Dan might hole up when snow hit	brought	1	0	0
+378	READ MORE Murdoch Phone Hacking Trial Begins Well Johnny found the cabin but it wasn t lonely	READ	1	1	0
+379	Two men were there building a porch	were	1	0	0
+380	They were from Vermont came out when their state got too crowded with strangers been coming out for years	were	1	0	0
+381	They d heard of a mine just around the roll of the ridge down the draw a bit	heard	1	0	0
+382	So Johnny stalked down the slope in his boots around the ridge then up in case he d missed it and down through aspen to the creek at the base then up again and never saw a mine	stalked	1	0	0
+383	So he started over but he knew there wouldn t be much to see	started	1	0	0
+384	It s only movies that show a mine with a sign and a big stone portico	s	1	0	0
+385	Johnny was hunting a pile of dirt maybe overgrown maybe two feet high	hunting	1	0	0
+386	That was all a mine showed in old Montana	was	0	0	0
+387	He couldn t find it	couldn	0	0	0
+388	He was tired out of ideas	was	0	1	0
+389	He went to his Jeep raised a hand toward the cabin and made for the rutted track through the woods	went	0	0	0
+390	He slammed on the brakes	slammed	0	0	0
+391	There	There	0	0	0
+392	He was pointing at a flat spot just off the track	pointing	1	0	0
+393	Johnny said only man could have made it	said	1	0	0
+394	There is no flatland here	is	1	0	0
+395	Got ta be the miner s road	be	0	0	0
+396	He was out of the Jeep into the woods making time in his high heeled boots	was	0	0	0
+397	The land stayed level wound through young trees then out to a steep grassy slope	stayed	1	0	0
+398	There sure enough were the boards of the cabin collapsed in grass pale gray with weather and spotted brown where the heads of hand hewn nails spread their rust	sure	1	0	0
+399	Johnny looked down the slope	looked	0	0	0
+400	His eyes fixed on the mound of spoil	eyes	0	0	0
+401	He looped around in the grass flanking the mine mouth slow quiet now crouching a little	looped	1	1	0
+402	His right hand came across his chest and pulled the long barrel of the Magnum clear	came	0	0	0
+403	His left hand was splayed hanging down palm back Stay clear I ll do this alone	splayed	1	1	1
+404	Johnny looped thirty yards to the left below the mound then he turned and picked up speed	turned	1	0	0
+405	He came at the mine Magnum ready	came	0	0	0
+406	His last step brought him to the mouth on both feet solid in the grass	brought	0	0	0
+407	READ MORE The Murdoch Omerta His gun hand dropped	READ	0	0	0
+408	There was no mine	was	0	0	0
+409	Just a caved in swale of dirt and two rods poking out of the earth	caved	1	0	0
+410	Johnny drew a long breath	drew	0	0	0
+411	Collapsed	Collapsed	0	0	0
+412	His face was wet	was	0	1	0
+413	It cost him effort to shift his feet	cost	0	0	0
+414	He holstered his gun flicked a hand at the rusty iron bars in the soil	holstered	0	0	0
+415	Track for the one car	Track	0	0	0
+416	Probably still in there	Probably	1	0	0
+417	He nudged with a foot at a busted out bucket moving easier now down the slope more old gear in the grass	nudged	1	0	0
+418	Huh wheelbarrow	wheelbarrow	0	0	0
+419	Solid iron and rust	iron	0	0	0
+420	He heaved it upright swiveled straightened gazed out the canyon to Bear Trap Creek and beyond to the high ground of Cowboy Heaven	heaved	0	0	0
+421	Don and Dan were out there	were	1	0	0
+422	He could feel them	feel	0	0	0
+423	He d track them down	track	0	0	0
+424	No man could pass without a trace	pass	0	0	0
+425	Not in Montana	Not	0	0	0
+426	Not since the old days	since	0	0	0
+427	And these weren t the old days	t	0	0	0
+428	Johnny knew that	knew	0	0	0
+429	You know he said to his boots I m thinking uh my wife Sue she d really like that wheelbarrow	know	1	0	1
+430	No these weren t the old days	t	0	0	0
+431	He and his friend huffed the iron wheelbarrow up the ridge lashed it onto the Jeep	He	0	0	0
+432	Johnny drove straight home with Sue s new planter	drove	0	0	0
+433	No he hadn t lived near the New West for nothing	hadn	0	0	0
+434	READ MORE Journalism s New Patron Saint Right now we re just hoping for deep snow Johnny was saying by October	READ	1	0	0
+435	The weather gets tough and the snow gets deep and they can t move	gets	0	1	0
+436	They ll have to come down	have	0	0	1
+437	I don t think man or beast can survive up there	don	1	0	0
+438	Winter changes everything	changes	0	0	0
+439	Winter is an event here	is	1	0	0
+440	Even strangers win some respect Can t be all bad just by staying through one	win	1	1	0
+441	Now snow blew to twenty foot drifts in high country and still the law had no luck	blew	1	0	0
+442	November drew near cold below zero Be thirty below up the ridge and still Don and Dan stuck it out	drew	1	1	0
+443	Around Madison County stoves men said their names and appended as a title a badge tough sonsabitches	stoves	0	0	0
+444	In one house on Jack Creek Road a rancher call him Ed told his wife READ MORE NYT Endorses Cory Booker for Senate That ol Don sonofabitch knows what he s doing	call	0	0	1
+445	Like to shake his hand	Like	0	0	1
+446	Ed READ MORE Sebelius s Daily Show Disaster What He didn t do nothin Some sonofabitch comes at me with a gun I m gon na blow him away too	nothin	1	0	1
+447	But the girl They took that girl tied her up READ MORE Megyn Kelly Is Fox s Future That s right	tied	0	1	0
+448	Now you tell me who the hell carries a chain in the woods	tell	1	0	0
+449	Where d they get that chain Girl musta brought it	brought	1	0	0
+450	She was visitin with em	was	0	0	0
+451	I tell you that girl is kinky Now the law had to fight for leads	tell	1	1	1
+452	One outfitter found a camp in timber a Nichols camp with a fresh three rock campfire	found	0	0	0
+453	He told the hunters he was guiding Don t worry about reporting that	told	0	0	0
+454	And he never told the law anything	told	0	0	0
+455	READ MORE The Sharpton Boycott Another hunting guide Tom Heintz stumbled straight onto Don and Dan at their camp	READ	0	0	0
+456	They were cooking squirrel stew	cooking	0	0	0
+457	Fellows I know who you are Heintz said	Fellows	0	0	0
+458	I don t mean you any harm	don	0	0	0
+459	Don wanted to know what day it was	wanted	0	0	1
+460	Dan wanted to know if the girl was alive	wanted	0	1	1
+461	Father and son wondered what the world thought of them	wondered	0	0	0
+462	I told them Heintz recalled later there had been an outcry but then the world recognized that what started out as a good idea trying to get Danny a wife had blown up in their faces and gotten worse and worse	told	1	1	1
+463	Heintz recalled all this much later	recalled	1	0	0
+464	That day in the woods he walked away and didn t hurry to tell anyone	walked	1	0	0
+465	He waited three days to report the sighting	waited	0	0	0
+466	They re my neighbors out there said Junior Mountain Man Heintz	re	1	0	0
+467	It s not my fight	s	0	0	0
+468	READ MORE National Review Claims War on Men December 13 cold and wet snow the first day so wintry that Roland Moore rode out to his stock tank to break ice	READ	1	0	0
+469	He might have waited a day but that was not his way	waited	0	0	0
+470	There d been little left to chance on the old Shirley ranch since he married Forrest and Betsy s daughter	been	0	0	1
+471	Moore was of the old law and life	was	0	0	0
+472	That s why he stopped when he saw the smoke	s	1	0	0
+473	The ground is mine	is	0	0	0
+474	I pay taxes on it	pay	0	0	0
+475	I labor over it	labor	0	0	0
+476	I want to know who s on my land	want	0	0	1
+477	The smoke came from the slope above the river	came	0	0	0
+478	It might be Christmas tree hunters that would be all right	be	1	1	0
+479	Then again it might be poachers or worse	be	1	0	0
+480	Moore rode to the highway to see if there was a car below	rode	0	0	0
+481	No car	car	0	0	0
+482	His suspicion grew	grew	0	0	0
+483	He was unarmed	was	0	1	0
+484	So he rode home to call Virginia City to ask for his foster brother in law	rode	1	0	1
+485	Roland asked the dispatcher Where is Johnny READ MORE The Daily Beast Roars On Johnny was gone over the ridge to Bozeman for repairs on his snowmobile	asked	1	0	0
+486	So Moore had another look around	look	1	0	0
+487	He drove the highway to see if tracks led up the ridge toward the smoke	drove	0	0	0
+488	No tracks	tracks	0	0	0
+489	Now Moore knew it was worse than poachers	knew	1	1	0
+490	He drove across the river opposite the ridge	drove	1	0	0
+491	He took out field glasses scanned the land	took	0	0	0
+492	There was a man on the ridge	was	0	0	0
+493	He had binoculars too	had	1	0	0
+494	Looked straight at Moore	Looked	1	0	0
+495	Then ran for cover	ran	1	0	0
+496	Moore raced home called for Johnny	called	1	0	0
+497	Johnny was still out of contact	was	1	0	0
+498	Moore talked to FBI men in Butte who called Sheriff Onstad in Bozeman who called for deputies cars aircraft READ MORE Time's Woman of the Year Everyone got there by 4 00 P.M. Johnny had a hold of a snowmobile	talked	1	0	0
+499	The law hoped to circle the ridge	hoped	0	0	1
+500	Johnny had the road in front	had	0	0	0
+501	Only an hour until dark	until	1	0	0
+502	Johnny got on the radio I think I ll go up uh see if I cut a track	got	0	0	0
+503	He fired up the Arctic Cat	fired	0	0	0
+504	He cut their track straight up	cut	1	0	0
+505	The wind blew stronger but the wet snow held footprints	blew	0	1	0
+506	Johnny roared up the ridge	roared	0	0	0
+507	READ MORE Should Bosses Tell Employees to Lose Weight The snowmobile hit rock	READ	0	0	1
+508	Johnny heard it grind he cut the motor	heard	0	0	0
+509	I ll just uh see which way he said on the radio	see	1	0	0
+510	He started on foot up a ragged draw	started	0	0	0
+511	Snow and rock made him slow	made	0	0	0
+512	He heard a plane circling searching	heard	0	0	1
+513	Well that ll make noise	make	0	0	0
+514	Keep em looking up	Keep	0	0	1
+515	Johnny slogged straight up	slogged	1	0	0
+516	Wind from the top twenty miles an hour stung his faced but he was sweating in his white snowsuit	faced	0	0	0
+517	He hoped it made him look like a coyote hunter out for bounties	hoped	0	0	0
+518	But the suit was heavy	was	0	1	0
+519	Snow was wet thick slowing his legs	was	0	1	0
+520	Breathing was labored	labored	0	0	0
+521	He stopped to rest	stopped	0	0	0
+522	Don t just stand there dammit get moving It was the same rocky draw where he d cried in front of his uncle Joe thirty six years before	stand	1	0	0
+523	Johnny got moving	moving	0	0	0
+524	Steady now	Steady	1	0	0
+525	He switched his rifle to his right hand radio left	switched	0	0	0
+526	He saw the tracks doubling back then starting up again	saw	1	0	0
+527	They were checking in case they were trailed	checking	0	0	0
+528	He lifted his radio I m awful close he breathed	lifted	1	0	0
+529	So close their tracks are steaming	steaming	0	0	0
+530	He was near the top turned the radio off	was	0	0	0
+531	There was a big juniper at the head of the draw	was	0	0	0
+532	Tracks went to the right of the tree	went	0	0	0
+533	He had a hunch	had	0	0	0
+534	He went to the left	went	0	0	0
+535	READ MORE Time Magazine Names Nancy Gibbs Top Editor And there they were	were	1	0	0
+536	Just below him under a big Douglas fir	below	1	0	0
+537	They had venison cooking	had	0	0	0
+538	They looked up at the plane didn t see him	looked	0	0	0
+539	Johnny shifted his rifle	shifted	0	0	0
+540	The kid turned first	turned	1	0	0
+541	A little cry escaped him	escaped	0	0	0
+542	But Johnny got the first few words in Uh seen any coyotes Don dropped the skillet jumped into a crouch went for his gun	got	0	0	0
+543	But Johnny was moving	moving	0	0	0
+544	He dropped behind a stump raised his rifle looking down the barrel at Don	dropped	0	0	0
+545	Don t do anything stupid Don	do	0	0	0
+546	Don t make me kill you	make	0	0	0
+547	READ MORE Majority of Reporters Covering Syria Are Women Don had his hands on his gun but Johnny had the drop	READ	0	0	0
+548	Talking fast now I m the law	Talking	1	0	0
+549	Don t make me kill you and Dan	make	0	0	0
+550	Don tried to say something but noise in the sky drowned him out	tried	0	0	1
+551	Helicopter Johnny kept talking had to talk them in Give that boy a chance	kept	0	0	1
+552	I got no desire to kill you less you make me	got	1	0	0
+553	Give the boy a chance for a life Don	Give	0	0	0
+554	Don was trying to speak again	trying	1	0	1
+555	Johnny only half heard him that a guarantee READ MORE Time Editor Leaves for State Department Johnny talked down his gun barrel Yuh and I guarantee a warm bed and warm water and food Don care about food	heard	1	0	0
+556	READ MORE Tina Brown Starts New Company and help for the boy Don	READ	1	0	0
+557	The boy uh this is no place for him to die Johnny saw it	is	0	0	0
+558	The air went out of the man	went	0	0	0
+559	Don Nichols seemed to sag	seemed	0	0	1
+560	He said What do you want me to do READ MORE The Art of the Interview Lay that rifle back against the tree and step out with Danny there	said	1	0	0
+561	Johnny felt in the snow for his radio	felt	0	0	0
+562	He turned it on heard Onstad s voice don t know where I can t make contact READ MORE My Tea Party Mom Loves Al Jazeera Johnny pushed the button broke in Uh I got two guys here need a ride	Loves	1	0	0
+563	Onstad s voice Repeat	Repeat	0	0	0
+564	Ten nine	nine	0	0	0
+565	John F. Ten nine Two uh fellows need a ride	need	0	0	0
+566	READ MORE Trump s TV Food Fight Johnny Who ve you got Well uh Don and Dan Nichols	READ	0	0	0
+567	READ MORE New York Times Uses F Word Johnny turned down Good Morning America and the Today show	Uses	0	0	1
+568	His friends took him hunting in Kansas instead	took	1	0	1
+569	Down there of course the Kansas City Star found his motel	found	1	0	0
+570	But he only gave them a little time	gave	1	0	0
+571	Heck he was page 1 in the Washington Post	Heck	0	0	0
+572	That was just the start	was	1	0	0
+573	Studios were calling and writers and agents	calling	0	0	0
+574	Sue got upset when it came clear they couldn t please everyone	got	1	1	0
+575	Johnny tried to laugh it off	tried	0	0	1
+576	In his basement office in Virginia City he thumbed through the piles of mail	thumbed	0	0	0
+577	Look at this one	Look	0	0	0
+578	READ MORE Al.com Apologizes for Football Lede TO JOHNNY FRANCE MOUNTAIN MAN SHERIFF READ MORE GOP to Punish CNN NBC BOZEMAN MONTANA Now isn t that just like people to get it screwed up READ MORE Remembering Jack Germond No Johnny sure as hell wasn t from Bozeman	sure	1	0	0
+579	That was clear from the start	was	0	1	0
+580	And now Sheriff Onstad was in the papers calling Johnny a grandstander a Hollywood hero	was	1	0	0
+581	He said Johnny could have had help just by asking but he wanted to grab the credit	said	1	0	1
+582	Then Bob Swenson was in the paper with a litany of Johnny s sins against the New West failure of leadership improper training lack of communication cooperation and coordination from Madison County for motives or reasons not entirely clear	was	1	1	0
+583	Jan Swenson was out there talking Johnny down privately and with great force	was	1	0	0
+584	She tended to rank him one cut above The Creeps Don and Dan and as for them Jan said simply I m a good shot too	said	1	0	1
+585	If they walk out of that courthouse they re dead	re	0	1	0
+586	Don and Dan stayed safe in jail clean and shaved eating double dinners	stayed	0	1	1
+587	Dan thumbed at picture magazines from the prison library	thumbed	0	0	0
+588	Don relaxed with the New Yorker	relaxed	0	0	0
+589	Don told relatives that he was never cold Only once in jail when the heat went off	told	1	1	0
+590	He said he couldn t talk about the case	said	0	0	0
+591	But what the papers are writing is the biggest pack of b.s. I ever heard	heard	1	0	1
+592	The legislature of Montana enacted a new law to keep him from profiting from his own version of the story	enacted	0	0	0
+593	READ MORE Tweets From the NYT Blackout The judge at Don and Dan s case did his best to hush up the rest	READ	1	0	0
+594	He slapped a gag order on Don and Dan all witnesses and all investigators	slapped	0	0	0
+595	There were four TV cameras and a few shutters clicking as Don and Dan politely pleaded innocent	were	1	0	0
+596	I m not sure said one of their court appointed lawyers we can handle all this publicity	m	0	0	0
+597	Judge Frank Davis set separate trial dates for father and son	set	0	0	0
+598	He looked balefully at the cameras	looked	1	0	0
+599	His hands shook	shook	0	0	0
+600	It was supposed to be clean quick and quiet from that point	supposed	0	1	1
+601	But the judge couldn t restrain Ronald Reagan whose minions sent an invitation to Johnny and Sue to attend the inauguration	couldn	0	0	0
+602	So Sue searched for three days for a western style tuxedo	searched	1	0	0
+603	And Johnny talked to the papers again	talked	1	0	0
+604	He didn t mind	didn	0	0	0
+605	READ MORE The Donald Weighs In And nobody reckoned on Kari Swenson getting back to the ski trail so fast and so strong	READ	1	0	0
+606	She went to Canada won a gold medal and her old spot on the U.S. biathlon team	went	0	0	0
+607	She was back on the sports page	was	1	0	0
+608	It was only her mom who said she d never compete again	was	1	0	0
+609	And lots of cameras were back for the trials last summer	were	1	0	0
+610	Judge Davis tried to keep them out of court but there were photos of Dan s big grin when the Madison County jurors ignored state law to let him off on Al Goldstein s murder they got him only for kidnap and misdemeanor assault	tried	1	0	1
+611	The old man got nailed for kidnap aggravated assault and murder	nailed	0	0	0
+612	He could get 140 years	get	0	0	0
+613	But he wasn t sniveling no	wasn	1	0	0
+614	Old Don said flat out that he took the girl for both him and his son	said	0	0	0
+615	Didn t mind who knew it	mind	0	0	0
+616	And the chain He d been ready with a chain since 1978	been	0	1	0
+617	That part was on TV ten times	was	0	0	0
+618	READ MORE Is She Pushing Hannity Out And hell you can t stop a man from telling the truth about something he lived through	Pushing	0	0	0
+619	Not forever anyway	anyway	1	0	0
+620	Last time I saw Johnny he was picking a ghostwriter for his book	time	0	0	0
+621	He was signing on an agent from William Morris	signing	0	0	0
+622	He was wondering whether he d retain script control	wondering	0	0	0
+623	And Sue had a glossy brochure about new rustic log houses	had	0	0	0
+624	The one she picked out was a beauty a big one an A frame with picture windows for the New West view	was	0	0	0
+625	And around the second story there d be a wide sun deck	be	0	0	0
+626	Yuh Johnny said that ll be for the uh hot tub	said	0	0	0

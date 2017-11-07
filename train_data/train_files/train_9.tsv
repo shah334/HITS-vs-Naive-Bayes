@@ -1,0 +1,16 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Hardly a week has passed since Bridgeghazi and New Jersey Governor Chris Christie is under fire again	passed	1	0	0
+2	F	This time Hoboken Mayor Dawn Zimmer is alleging that Christie's staff threatened to withhold Hurricane Sandy relief money from Hoboken unless she approved a redevelopment plan favored by the governor	alleging	0	0	1
+3	F	Just moments ago on Up with Steve Kornacki Zimmer outlined a chain of events in which she claims that two Christie officials Lt. Gov. Kim Guadagno and Richard Constable approached her on behalf of the governor last year to urge her to move ahead with a lucrative development plan for a 19 block stretch of Hoboken	approached	1	0	1
+4	F	According to Zimmer she was told that hurricane relief money for Hoboken would be contingent on her approval of the project	told	0	1	0
+5	O	In this account supported by email public records and Zimmer s own diary entries Christie s inner circle was willing to cut off devastated constituents muscle a friendly mayor and arrange public funds to finance a study for a project the governor supported	was	0	1	1
+6	O	In a news conference last week Christie rejected the notion that his administration engages in retribution or seeks political payback	rejected	0	0	0
+7	O	Zimmer s account paints a different portrait	paints	0	0	0
+8	O	Christie's staff have denied Zimmer's allegations	denied	0	0	0
+9	O	Curiously enough earlier this week during an interview with WNYC Zimmer also alleged that her decision to remain neutral in New Jersey's gubernatorial race last year may have also played a role in her city's inability to secure federal relief for Hoboken	alleged	1	1	0
+10	O	With 20 20 hindsight in the context we re in right now we can always look back and say Okay was it retribution Zimmer said	say	1	0	0
+11	O	I think probably all mayors are reflecting right now and thinking about it but I really hope that that s not the case	think	1	0	0
+12	F	Zimmer sought 127 million for Hoboken in the aftermath of the storm but only received about 350 000 in recovery grants and money for a back up generator	sought	1	0	0
+13	F	Hoboken was among the hardest hit parts of New Jersey during Hurricane Sandy with as much as 80 percent of the city underwater	was	1	0	0
+14	F	Meanwhile yesterday it was reported that 18 people were served with subpoenas as the New Jersey Assembly's investigation into Bridgeghazi continues	reported	1	0	0
+15	F	The list includes Port Authority Chairman David Samson Governor Christie s incoming chief of staff Regina Egea and a number of top Christie aides	includes	0	0	0

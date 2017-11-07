@@ -1,0 +1,21 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Former Defense Secretary Robert Gates pushed back against critics who suggested he should have sat on his memoir about his years in the Obama administration insisting his tell all is not a betrayal of Obama	pushed	1	0	0
+2	O	In an interview with Yahoo News Global Anchor Katie Couric Gates insisted he did not have an adversarial relationship with Obama and that he has a lot of admiration for the president	insisted	0	0	0
+3	F	But the former defense secretary who also worked for President George W. Bush did not mince words about Obama s current and former top aides who have slammed Gates account as being self serving and driven by politics	secretary	1	0	0
+4	O	Well for a micromanaging White House they should go look in the mirror Gates told Couric	Well	0	0	0
+5	O	Maybe they ought to think about how they do business	ought	1	0	1
+6	O	And I think it s fair to say that the book is a lot more critical about the people around the president than it is of the president	think	1	1	1
+7	O	Still Gates said Obama was ultimately responsible for setting the tone of a White House he says was marked by tension and infighting between the president s staff and more senior members of the administration	said	1	1	0
+8	F	At the end of the day the president controls what goes on inside the White House he said	controls	0	0	0
+9	F	The environment and the style of the White House is established by the president	established	0	0	0
+10	F	Gates has made waves with the publication of Duty a 618 page memoir of his years as defense secretary under Bush and Obama	made	0	0	0
+11	F	In the book he takes aim at political aides in the Obama White House for attempting to micromanage the Pentagon and allowing politics to trump the national interest in policy debates	In	0	0	1
+12	O	He also accuses Obama aides of circumventing the military chain of command	accuses	1	0	0
+13	O	Some members of Congress including Republican Sen. John McCain of Arizona have said that Gates should have waited until Obama left office before leveling such potentially damaging charges	said	1	0	0
+14	O	But Gates rejected that criticism	rejected	0	0	0
+15	O	Frankly I just don t buy the notion that the book shouldn t have been written or shouldn t have been written for another three years or that it is a negative narrative about President Obama Gates said	don	1	0	0
+16	O	While Gates acknowledged that his book included pretty stark statements about the Obama administration s handling of the wars in Iraq and Afghanistan he insisted he had put his concerns in context and that every issue he cites in the book he also raised with Obama or his top aides while he was still in the administration	acknowledged	1	0	0
+17	O	I can t think of a single issue in this book that I did not raise inside the administration with the president with the chief of staff of the White House the national security adviser Gates said	think	1	0	0
+18	O	There isn t a single one of these issues that I didn t raise internally and express my concern	raise	1	0	0
+19	O	That presumably includes his unhappiness with how younger less experienced members of the White House staff treated more senior members of the administration	includes	1	0	0
+20	O	Gates told Couric he was troubled by how Obama would sometimes give more weight to the views of the younger aides noting that they encouraged U.S. intervention in Egypt and Libya even with he and the rest of the Cabinet did not	told	1	0	0

@@ -1,0 +1,21 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	BEIJING WASHINGTON Reuters China's Commerce Ministry has condemned a 1.1 trillion spending bill passed by the U.S. Congress last week over clauses that limit technological purchases from the Asian giant saying they clash with the principles of fair trade	condemned	0	0	0
+2	F	The bill signed by President Barack Obama on Friday included a cyber espionage review process for federal purchases of technology from China a measure incorporated last year amid growing U.S. concern over Chinese cyber attacks	included	0	0	0
+3	O	In a weekend statement China's Commerce Ministry said the move went against the principles of fair trade as it sought to curb purchases of Chinese technology and export of satellites and parts to China	said	0	0	1
+4	O	China is resolutely opposed the ministry said in comments attributed to an unnamed official in its U.S. trade division	said	1	0	0
+5	O	The bill sent a wrong message did not aid exchanges and cooperation in the high tech field and would have a negative effect on Chinese companies besides harming the interests of U.S. firms it added	sent	0	0	0
+6	O	We have noted that U.S. business groups have already made noises opposing the bill	noted	1	0	0
+7	O	The U.S. side should correct its mistaken ways and create good conditions for the healthy development of Sino U.S. trade and business cooperation	correct	0	0	0
+8	F	Last year's funding legislation bars U.S. space agency NASA and the Justice and Commerce Departments from buying information technology systems without the approval of federal law enforcement officials	bars	0	0	0
+9	O	That formal assessment must include any risk associated with such system being produced manufactured or assembled by one or more entities that are owned directed or subsidized by China it says	include	0	0	0
+10	O	U.S. Representative Frank Wolf the Republican chairman of the House Appropriations Commerce Justice Science subcommittee said he directed the language to be included last year because of concerns about potential cyber threats from Chinese firms such as Huawei Technologies Co Ltd and ZTE Corp.	said	0	0	0
+11	O	Wolf cited a 2012 congressional intelligence report that found such firms were closely connected to China's army which coordinates cyber espionage against the United States	cited	1	0	0
+12	O	A slightly modified version of this language was continued again this year by bipartisan agreement with the Senate and I believe it should be maintained and expanded to all civilian federal agencies in the year ahead Wolf said in a statement on Friday	continued	1	0	0
+13	F	U.S. curbs on foreign access to satellite technology since 1999 have effectively banned the export re export or transfer of this equipment or know how to China	banned	1	0	0
+14	F	The restriction followed a 1996 Chinese rocket launch accident that claimed a U.S. manufactured satellite	followed	0	0	0
+15	F	In the course of the investigation the company was accused of inadvertently transferring restricted technology to China	accused	1	0	0
+16	F	But there were no new curbs on satellite exports in the latest spending bill Kevin Wolf a U.S. Commerce Department official told Reuters in Washington	were	0	0	0
+17	F	Since the late 1990s there has been under U.S. law an absolute prohibition on the export and re export to China of all satellites and related items said Wolf who is no relation to the congressman	been	0	0	0
+18	F	This was reconfirmed in the National Defense Authorization Act of 2013	reconfirmed	0	0	0
+19	F	The Chinese have complained about it a lot over the decades that's not new he said on Saturday	complained	0	1	0
+20	F	China and the United States have clashed repeatedly over trade issues	clashed	1	0	0

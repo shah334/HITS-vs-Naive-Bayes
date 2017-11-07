@@ -1,0 +1,15 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Consider On the morning of Jan. 4 Jennifer McCarthy 48 a Santa Fe N.M. artist and former wife of Pulitzer Prize winning novelist Cormac McCarthy was arrested on felony assault charges after her boyfriend claimed she threatened him and pulled a Smith Wesson handgun out of her vagina according to a Santa Fe County Sheriff s Department document published by The Smoking Gun	arrested	0	0	0
+2	F	The boyfriend whose name was redacted in the arrest report told a sheriff s deputy the couple had argued and that McCarthy had left the residence then returned and went into her bedroom	told	1	0	0
+3	F	Shortly thereafter the boyfriend told the officer she emerged from the bedroom wearing lingerie and a silver handgun in her vagina	told	1	0	0
+4	F	The boyfriend told the cops that McCarthy then started to have inner course sic with the gun and stated Who is crazy you or me READ MORE They ve Always Been Watching You It was at that point the boyfriend told the deputy that Jennifer pulled the gun out and pointed the gun at his head	was	1	1	1
+5	F	The boyfriend told the officer that he grabbed the gun and threw it in the toilet and when McCarthy tried to retrieve it he put it in the trash can outside	told	1	0	1
+6	F	Santa Fe County Sheriff s Deputy Chris Zook the investigating officer reported that he did find a gun in a trash can	reported	0	0	0
+7	F	READ MORE How to Hide a Famine McCarthy s version according to Deputy Zook s report differed considerably from the boyfriend s. She stated they started to yell at each other and he told her not to touch him again Deputy Zook reported	READ	1	0	1
+8	O	Jennifer advised she touched his shoulder with her index finger to aggravate him Jennifer stated she was not in fear of the boyfriend straggling sic her or hurting her by putting his hand on her neck	advised	0	0	0
+9	F	Jennifer advised the boyfriend put his hand on her neck to keep her away from him	advised	0	0	0
+10	O	Jennifer informed me she did have a gun at the time and is unsure where it s located	informed	1	1	0
+11	F	She advised the gun has been missing for a while	advised	0	0	1
+12	F	McCarthy who divorced Cormac McCarthy in 2006 after eight years of marriage was booked on Aggravated Assault on a Household member according to Zook s report	booked	0	0	0
+13	F	She is the mother of the boy said to be the model for the child in McCarthy s novel The Road	is	0	0	1
+14	O	READ MORE How Michael Connelly Writes The original dispute that led to the arrest According to the arresting officer the couple was arguing over space aliens	arguing	1	0	0

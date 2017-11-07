@@ -1,0 +1,11 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	The National Republican Congressional Committee proudly launched a faux campaign website for Democratic candidate Domenic Recchia this week mocking him as a career politician asking for your vote	launched	1	0	0
+2	F	They even bought Google ads to direct New Yorkers to www.domenic recchia.com designed at first glance to look like it could be Recchia's own down to the same yellow star replacing the dot in the ` i' of his last name	bought	1	0	1
+3	O	The problem is such a look alike site with a banner blaring Domenic Recchia for Congress may violate Federal Election Commission regulations for confusing the public election lawyers say	is	0	0	0
+4	O	This doesn't even strike me as a close call said Paul S. Ryan senior counsel for the Campaign Legal Center a nonpartisan campaign watchdog group	strike	1	0	0
+5	F	It's a slam dunk	's	0	0	0
+6	O	The Recchia site is just the latest in a series of mocking microsites the NRCC has put online to attack taunt and otherwise annoy Democratic congressional candidates from Montana to New York to West Virginia	is	1	0	0
+7	O	Americans Won't Be Easily Reassured About the Economy Each site follows a similar model of a URL nickrahallforcongress.com for example that looks just like a candidate's a headline suggesting it is an official site Nick Rahall for Congress biting attacks against the candidate Rahall's budget was so far left of the mainstream and then a donate button with funds directed to the NRCC	follows	1	0	0
+8	O	Queen Andrea Bozek a spokeswoman for the NRCC defended the sites as 100 percent legal	defended	0	0	0
+9	O	The real reason Democrats are whining about these websites is because the web traffic has been off the charts and as a result voters are learning the truth about their candidates' disastrous records she said	is	0	0	0
+10	O	Not only are these sites extremely effective but they are l00 percent legal it's no surprise that Democrats are running scared	are	1	1	0

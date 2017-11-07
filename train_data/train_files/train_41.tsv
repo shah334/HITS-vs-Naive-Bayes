@@ -1,0 +1,15 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	WASHINGTON Reuters The Obama administration is delaying enforcement of a provision of the new healthcare law that prohibits employers from providing better health benefits to top executives than to other employees the New York Times reported on Saturday	delaying	0	0	0
+2	F	Tax officials said they would not enforce the provision this year because they had yet to issue regulations for employers to follow according to the Times	said	1	0	1
+3	O	Internal Revenue Service spokesman Bruce Friedland said employers would not have to comply until the agency issued regulations or other guidance the newspaper reported	said	0	0	1
+4	F	The IRS was not immediately available to confirm the Times story	was	1	1	1
+5	O	The rollout of the Affordable Care Act known as Obamacare has been marked by a number of delays in implementing certain parts of the law	rollout	0	0	0
+6	F	In November the administration announced a one year delay in online insurance enrollment for small businesses	announced	0	0	0
+7	O	Technical problems with the enrollment website plagued its launch on October 1 but they have largely been fixed and more than 2 million people have signed up for private insurance	problems	1	0	0
+8	O	The White House hopes to have 7 million people sign up by March 31 the deadline for coverage under Obamacare	hopes	0	0	1
+9	F	The law adopted in 2010 says employer sponsored health plans must not discriminate in favor of highly compensated individuals with respect to either eligibility or benefits	adopted	1	0	0
+10	F	IRS officials said they were wrestling with complicated questions like how to measure the value of employee health benefits how to define highly compensated and what exactly constitutes discrimination the Times reported	said	1	0	0
+11	F	The ban on discriminatory health benefits was to take effect in 2010	was	0	0	1
+12	O	Administration officials said then that they needed more time to develop rules and that the rules would be issued well before this month when other major provisions of the law took effect	said	1	0	1
+13	F	A similar ban on discrimination adopted more than 30 years ago already applies to employers that serve as their own insurers	adopted	1	0	0
+14	F	The new law extends that policy to employers that buy insurance from commercial carriers	extends	0	0	0

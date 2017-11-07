@@ -1,0 +1,24 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	It certainly looks bad for the Air Force and the security of our nation s nuclear arsenal	looks	1	1	0
+2	F	Caught cheating on their proficiency tests 34 officers responsible for nuclear launch sites known as missileers have been suspended and had their security clearances revoked	Caught	0	0	0
+3	O	The scandal is the largest of its kind in the service s history senior Air Force officials say	is	0	0	0
+4	F	Though any reports of problems in the nuclear program are bound to cause alarm those with experience in the field say cheating on proficiency tests is routine and a result of impossible to meet standards that punish those who score less than 100 percent	say	0	1	1
+5	O	According to a former Air Force officer who recently served as a missileer in a unit similar to the one involved in the investigation the cheating doesn t necessarily indicate a catastrophic breakdown in security but it does underscore the impracticality of the testing regimen and a systemic leadership problem in the Air Force s nuclear program	indicate	1	0	0
+6	O	The former missileer says senior leaders in nuclear missile units are too disconnected from junior and midlevel officers to understand the demands of the job and adequately enforce training and standards	says	1	1	1
+7	F	The threshold to advance is so astronomically high you have to have a 99 percent average to get the best jobs the former missileer said	is	1	1	1
+8	F	Describing the motivations for cheating he added If you miss two to three questions a year you miss the best jobs	miss	0	0	0
+9	F	They don t want to roll the dice on getting something wrong	don	0	0	1
+10	F	Many officers in the nuclear field consider it an underserved and unrewarding assignment overlooked by senior staff who are preoccupied with weapons systems more relevant in contemporary warfare	consider	1	0	0
+11	F	Though the U.S. has not used nuclear weapons in combat since World War II it was a vital component of the Cold War	used	0	0	0
+12	O	Once the Soviet Union dissolved the nuclear arsenal has come to be regarded by some as purely strategic asset necessary to maintain but irrelevant to the wars that U.S. has fought over the last decade	come	1	0	1
+13	O	Following the nuclear program s decline in stature there has been a crisis of morale among those in the field a problem identified in an unpublished study by the Rand Corporation that was commissioned by the Air Force and leaked to the Associated Press in draft form	been	0	0	0
+14	O	The study describes a state of burnout among those serving in the nuclear force that led in 2011 and 2012 to a rate of courts martial that were double the number in the service as a whole and higher than average administrative punishments	describes	1	0	0
+15	F	One airman involved in the study said We don t care if things go properly	said	1	0	0
+16	F	We just don t want to get in trouble	don	1	0	1
+17	F	Lee James secretary of the Air Force announced the cheating and subsequent disciplinary action in a press conference Wednesday	announced	0	0	0
+18	O	James revealed that the discovery was made by investigators looking into recreational drug use a probe that has so far implicated 11 officers including two who were also caught cheating	revealed	1	1	1
+19	F	Not all of the 34 officers punished were caught cheating some were aware of the cheating but failed to report it but all have been suspended a significant loss to the 500 person launch force at Malmstrom Air Force Base in Great Falls Montana	suspended	0	1	1
+20	F	The Air Force ordered retesting for the entire force on Thursday which with only partial results in had resulted in a 96 percent pass rate a number in line with the historical average	ordered	1	0	0
+21	O	While the recent cheating scandal may be less of an emergency than headlines suggest it comes after a series of blunders in the Air Force nuclear program that have raised concerns about the level of oversight given to the most destructive weapons in the nation s arsenal	suggest	1	0	0
+22	F	Last year officers at nuclear sites were punished in two separate incidents for compromising security by leaving blast doors open while they slept on duty	punished	0	0	0
+23	F	In April 2013 17 officers were temporarily relieved of duty after major safety violations were uncovered at a nuclear site in October the general in charge of the Air Force s intercontinental ballistic missile program was relieved of duty after he was reported for drunken behavior on a trip overseas	relieved	1	1	0

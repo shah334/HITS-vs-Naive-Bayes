@@ -1,0 +1,13 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	This year has seen tanking approval ratings for just about everybody in Washington thanks to bungled policy initiatives stalled legislation and a government shutdown	seen	1	0	0
+2	O	But one player did have a good year	have	0	0	0
+3	O	It's not Pope Francis or Chris Christie	's	0	0	0
+4	O	It's quinoa a highly nutritious centuries old grain at least according to the United Nations	's	1	0	0
+5	O	More from NJ The Return of the Welfare Queen In February the U.N.'s Food and Agriculture Organization declared 2013 the international year of quinoa not for the grain's place in Western society as a healthy even upscale ingredient that's tough to pronounce but for its impact on food security around the world	More	1	1	1
+6	F	More from NJ Take Two Aspirin and Blame Everything on Obamacare Quinoa contains many essential amino acids and vitamins and can grow in a variety of climates	contains	1	0	0
+7	O	Planting and cultivating quinoa in areas of extreme poverty eases hunger and malnutrition the U.N. group explains and could eventually give rise to a new crop industry	explains	1	0	0
+8	O	More from NJ Democrats Divided on How to Recover from Obamacare The price of quinoa often called the miracle grain of the Andes for its origins has tripled since 2006 The Guardianreported early this year	tripled	1	0	0
+9	O	Its popularity in nations where the crop is not indigenous like the United States has pushed costs up enough so that poorer people in Peru and Bolivia can no longer afford it	pushed	1	1	0
+10	F	Still Peru and Bolivia are among the list of South American nations funding this year's promotional campaign of quinoa	are	1	0	0
+11	O	In the U.S. the concept of quinoa as a super food is at least a few years old	is	1	1	0
+12	O	The grain's versatility as well as its recent recognition as a food craze will keep it on the world stage for years to come	keep	1	0	0

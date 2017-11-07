@@ -1,0 +1,15 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	President Barack Obama on Friday took a swipe at Edward Snowden the former U.S. spy contractor whose revelations about American surveillance practices tarnished relations with foreign allies and prompted reforms in Washington	took	0	0	0
+2	F	Obama unveiled those reforms during a long awaited speech that balanced pledges to increase privacy protections with a warning that intelligence gathering would continue	unveiled	0	0	0
+3	O	But the president could not get through his remarks without mentioning the man who to the Obama administration's chagrin forced its hand in changing the system	get	0	0	0
+4	O	Given the fact of an open investigation I'm not going to dwell on Mr. Snowden's actions or his motivations Obama said in his address at the Department of Justice taking the somewhat unusual step of mentioning the former National Security Agency contractor by name	Given	1	0	1
+5	O	I will say that our nation's defense depends in part on the fidelity of those entrusted with our nation's secrets	say	0	0	0
+6	O	The White House has argued that Snowden along with other whistleblowers had other options for raising concerns about intelligence practices without making massive and damaging leaks	argued	0	0	0
+7	F	Snowden fled to Hong Kong and then to Russia where he currently has asylum	fled	1	0	0
+8	F	The White House wants him returned to the United States for prosecution	wants	0	0	0
+9	O	If any individual who objects to government policy can take it into their own hands to publicly disclose classified information then we will not be able to keep our people safe or conduct foreign policy Obama said	be	1	1	1
+10	O	Moreover the sensational way in which these disclosures have come out has often shed more heat than light while revealing methods to our adversaries that could impact our operations in ways that we may not fully understand for years to come	shed	1	0	0
+11	O	A legal adviser to Snowden Jesselyn Radack said Obama's comments framed the issue in a false way of making people choose between liberty and security	said	0	0	0
+12	O	His unnecessary swipe at Snowden for the unauthorized disclosure ... was really unwarranted Radack the national security and human rights director at the Government Accountability Project said in an interview	said	1	1	0
+13	F	Obama noted he had called for a robust public discussion about the balance between providing security and protecting personal liberty only weeks before the Snowden revelations	noted	1	0	0
+14	O	What I did not know at the time is that within weeks of my speech an avalanche of unauthorized disclosures would spark controversies at home and abroad that have continued to this day he said	is	1	0	0

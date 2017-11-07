@@ -1,0 +1,20 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	The Pentagon is in discussions with Iraq about training possibilities of Iraq's security forces but it appears U.S. military trainers would not be involved	is	0	0	0
+2	O	The United States is also processing a new request from Iraq for additional small arms and ammunition in the wake of resurgent al Qaeda forces in western Iraq	processing	1	0	0
+3	O	In an interview with the Washington Post published Friday Iraqi Prime Minister Nouri al Maliki said he would support a new U.S. military training mission for Iraqi counterterrorism troops in Jordan	said	0	0	0
+4	F	Pentagon spokesman Col. Steve Warren told reporters Friday there were discussions underway with Iraq about future training possibilities for Iraq's security forces	told	0	0	0
+5	O	We are continuing to discuss with the Iraqis how we can train them and how we can keep their security forces at the highest possible levels Warren told reporters	continuing	1	0	1
+6	F	The department recognizes that it is important for the Iraqis to have a capable force said Warren	recognizes	0	1	0
+7	O	He would not detail whether those discussions would have U.S. troops doing the training or where such training might occur if it is agreed to	detail	1	0	0
+8	O	A U.S. official said the preliminary contacts with Iraq do not involve having U.S. military trainers train Iraqi forces in counterterrorism tactics	said	0	0	1
+9	F	Instead Iraqi security forces would receive counterterrorism training in Jordan from trainers from other countries in the region	receive	1	0	0
+10	F	In the same Washington Post interview Maliki said he had asked the United States to provide additional arms for Iraq's security forces	said	0	0	1
+11	O	Col. Warren confirmed today that Iraq has requested small arms and ammunition from the U.S. that he needs to resupply his forces that are right now engaged in security operations	confirmed	1	0	1
+12	F	Iraqi security forces are currently engaged in operations to retake the western cities of Ramadi and Fallujah that are now under the control of al Qaeda militants	are	1	0	0
+13	F	As part of those operations the United States recently accelerated the sale of additional Hellfire missiles to Iraq	As	1	0	0
+14	F	The request is part of the foreign military sales program where Iraq has purchased 14 billion of military equipment since 2005	is	0	0	0
+15	O	Warren would not disclose what types of weapons or the quantities small arms and ammunition that had been requested or how long it might take to process the request	disclose	1	0	1
+16	O	The processing of the request has only just begun and Warren said once that is completed it will be delivered as rapidly as possible	begun	1	0	0
+17	O	A defense official said that the Iraqi request is mainly for ammunition and that the small arms being requested by Iraq are replacements for old or broken units	said	1	0	0
+18	O	All U.S. military units left Iraq at the end of 2011 after both countries failed to negotiate a Status of Forces Agreement that would have provided U.S. troops with immunity from prosecution	units	0	0	1
+19	F	There are about 300 military personnel in Iraq including the Marines guarding the American embassy and 100 others who work with the Office of Security Cooperation that coordinates U.S. military assistance to Iraq	are	1	0	0

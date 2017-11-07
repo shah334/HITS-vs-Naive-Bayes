@@ -1,0 +1,50 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	This is a brief history of how New Jersey Gov. Chris Christie went from jokes to denials to apologies and finally to trying to move past the scandal that has rocked his administration	is	1	0	1
+2	F	The controversy now known as Bridgegate started with a series of news reports followed by questions from the press and then exasperation from Christie	controversy	1	0	0
+3	O	You really are not serious with that question he asked an inquiring reporter in early December	are	1	1	0
+4	F	But a month later the spark became a full blown firestorm that engulfed the governor and led to a nearly two hour long mea culpa news conference the firing of two prominent aides and opened the door to investigations subpoenas and lawsuits	became	1	0	0
+5	O	With his inauguration for a second term just a few days away Christie signaled by the end of this week that he was ready to move on	With	1	1	1
+6	O	But for the Republican governor and potential 2016 presidential contender getting back to business as usual might be easier said than done	But	1	1	0
+7	F	Here's a timeline of how Christie has changed his tune over the past few months Dec. 2 2013 I worked the cones I worked the cones actually	's	1	0	0
+8	F	Unbeknownst to everybody I was actually the guy out there	Unbeknownst	1	0	0
+9	F	I was in overalls and hat but I was actually the guy working the cones out there	was	1	0	0
+10	O	You really are not serious with that question Just because John Wisniewski is obsessed with this and Loretta Weinberg it just shows you they really have nothing to do if they're obsessed with this	shows	1	1	0
+11	O	And by the way the fact is I didn't even know Fort Lee got three dedicated lanes until all this stuff happened and I think we should review that entire policy'cause I don't really know why Fort Lee needs three dedicated lanes to tell you the truth	is	1	0	1
+12	O	News conference New Jersey State Capitol Dec. 13 2013 Anger would probably be a little bit too strong a word When others make the mistakes it bothers me	be	1	1	0
+13	O	But I think anger would probably be a little bit too strong a word	think	1	1	0
+14	O	Bothered probably would be the better word you know When I'm angry you tend to be able to see it	be	1	1	1
+15	O	I don't hide it all that well	hide	1	0	0
+16	O	one thing is clear this type of behavior is unacceptable and I will not tolerate it because the people of New Jersey deserve better	is	0	1	0
+17	O	News conference New Jersey State Capitol Dec. 19 2013 You guys are obsessed I know you guys are obsessed with this	are	0	1	0
+18	O	I'm not	'm	0	0	0
+19	O	I'm really not	'm	1	0	0
+20	O	It's not that big of deal	's	1	0	0
+21	O	Just because the press runs around and writes about it both here and nationally I know why that is and so do you	runs	1	0	0
+22	O	Let's not pretend that it's because of the gravity of the issue	Let	0	0	0
+23	O	It's because I am a national figure and anything like this will be written a lot about now	's	0	0	0
+24	O	News conference New Jersey State Capitol Dec. 19 2013 That was a pretty good answer You guys want to keep chasing it around chase it around	conference	1	0	1
+25	O	It's your business	's	0	0	0
+26	F	In the meantime when you all have been chasing around about this I've been putting policies in effect that have lowered unemployment to a five and a half year low	been	1	0	1
+27	O	I've come to a compromise agreement on the DREAM Act with the legislature	come	0	0	0
+28	F	I'm putting forward nominations that will be considered in the lame duck session and I'm working with the Senate president and the incoming speaker on an agenda for the new year	putting	1	0	0
+29	O	Those things are much more important to the people of New Jersey than a couple of cones and a couple of lanes	are	1	1	0
+30	O	That was a pretty good answer	was	1	0	0
+31	O	I appreciate you giving me the chance to end on a dramatic flair'cause we usually try to plan that but that one just happened spontaneously	appreciate	1	0	1
+32	O	News conference New Jersey State Capitol Jan. 8 2014 The people of New Jersey deserve better What I've seen today for the first time is unacceptable	is	0	1	0
+33	O	I am outraged and deeply saddened to learn that not only was I misled by a member of my staff but this completely inappropriate and unsanctioned conduct was made without my knowledge	am	1	1	1
+34	O	One thing is clear this type of behavior is unacceptable and I will not tolerate it because the people of New Jersey deserve better	is	0	1	0
+35	O	Statement Jan. 9 2014 I am embarrassed and humiliated I've come out here today to apologize to the people of New Jersey	am	1	1	0
+36	O	I apologize to the people of Fort Lee and I apologize to the members of the state legislature	apologize	0	0	0
+37	O	I am embarrassed and humiliated by the conduct of some of the people on my team	am	0	1	0
+38	O	There's no doubt in my mind that the conduct that they exhibited is completely unacceptable and showed a lack of respect for the appropriate role of government and for the people that were trusted to serve	's	1	1	1
+39	O	News conference New Jersey State Capitol Jan. 9 2014 I was betrayed I'm sad	conference	0	1	0
+40	O	I'm sad	'm	0	1	0
+41	O	That's the predominant emotion I feel right now is sadness sadness that I was betrayed by a member of my staff sadness that I had people who I entrusted with important jobs who acted completely inappropriately sad that that's led the people of New Jersey to have less confidence in the people that I've selected	's	1	1	0
+42	O	The emotion that I've been displaying in private is sad	is	0	1	1
+43	O	News conference New Jersey State Capitol Jan. 14 2014 Mistakes were clearly made The last week has certainly tested this administration	tested	1	0	0
+44	F	Mistakes were clearly made	made	1	0	0
+45	O	And as a result we let down the people we are entrusted to serve	let	0	0	1
+46	O	I know our citizens deserve better	know	0	1	0
+47	O	Much better	better	1	0	0
+48	F	I am the governor and I am ultimately responsible for all that happens on my watch both good and bad	am	1	1	0
+49	O	Without a doubt we will cooperate with all appropriate inquiries to ensure this breach of trust does not happen again	cooperate	1	0	0

@@ -1,0 +1,74 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Why much of the hype surrounding these all time quarterbacks gets it wrong	gets	1	0	0
+2	F	Since 1979 an university has released an annual List of Words to be Banished from the Queen s English for Misuse Overuse and General Uselessness	released	0	0	1
+3	F	Selfie and twerk unsurprisingly appeared on the most recent list of about 13 words or phrases	appeared	1	0	0
+4	O	Unfortunately the good language pruners of Lake Superior State University missed one	missed	1	0	0
+5	O	They should have added a word that has overgrown the sports world like kudzu reduplicating ad infinitum while strangling intelligent discussion	added	0	0	0
+6	F	I m talking about the word legacy	m	0	0	1
+7	F	Related Stories Super Bowl spots at stake in playoff showdowns AFP AFC Championship Patriots Broncos will try to play ` keep away' Christian Science Monitor Sports Verdict Which QB Will Win AFC Championship Peyton Manning Vs. Tom Brady CBS Dallas Fort Worth RSS Brady and Manning renew rivalry in AFC title game showdown Reuters NFL Colts may need more than Luck to beat Patriots Reuters You don t need to scroll through the 731 000 Google results a search for Peyton Manning and legacy brings up to understand the magnitude of the AFC Championship Game in which the Denver Broncos superstar will play this Sunday	renew	1	0	1
+8	F	The 37 year old quarterback is coming off the greatest passing regular season in NFL history and will have home field advantage with a berth in his third Super Bowl appearance on the line	coming	1	0	0
+9	O	Manning may be the best regular season quarterback the league has ever seen but he s only 10 11 in the postseason	be	1	0	0
+10	O	With two more victories in the coming weeks he would become a winner when it counts	become	1	0	0
+11	F	Mars UNC s Reputation Problem is the New England Patriots and Tom Brady the winningest quarterback in playoff history are riding into town	UNC	0	0	0
+12	F	The 36 year old Brady already has three Super Bowl rings to Manning s one	has	1	0	0
+13	O	In head to head matchups he has 10 wins to Manning s four	has	0	0	0
+14	O	And of course he has one marriage to a German Brazilian supermodel to Manning s zero	has	0	0	0
+15	F	With a win on Sunday Brady enters a record sixth Super Bowl and makes a powerful argument for being the best postseason quarterback ever	enters	1	0	0
+16	F	Naturally most major media outlets are framing this game as Manning Brady XV	framing	1	0	0
+17	F	That s fine	fine	1	0	0
+18	F	Personal narratives sell	sell	0	0	0
+19	O	So do the best ever arguments which of course have no conclusive answers but are part of what makes being a sports fan fun	do	1	0	1
+20	O	What annoys me is the pervasive and deceptive idea that Brady and Manning have their own legacies and that these legacies could be on the line in a single game	is	0	0	0
+21	F	This isn t case primarily because people have short memories but also because a legacy is a collective effort not an individual achievement	case	1	0	0
+22	F	It should mean much more than the sum total of athlete s number of championships MVPs number of records held and record vs. other all timers	mean	1	0	0
+23	F	For centuries the word primarily meant something of value left to heirs	meant	1	0	0
+24	F	Legacies don t happen unless two people are involved	happen	0	0	0
+25	F	This should be remembered when Brady and Manning square off for what could be their final playoff showdown	remembered	1	0	0
+26	O	For the last 13 years they have driven each other to unprecedented heights not unlike how rivals in other sports Nadal and Federer Bird and Johnson Chamberlain and Russell made each other better	For	1	0	0
+27	O	But quarterbacks don t directly compete with each other	don	1	0	0
+28	F	They rely on 21 teammates on offense and defense to get the job done and the best quarterbacks learn they can t get better unless they nourish relationships with their teammates	rely	0	1	0
+29	F	Push them without stepping on toes	Push	0	0	0
+30	F	Teach them to teach back	Teach	1	0	1
+31	F	Both quarterbacks are renowned for their attention to X s and O s but their surefire Hall of Fame careers are more directly attributable to how they relate to the people those playbook marks stand for	are	1	1	0
+32	O	Brady for instance goes out of his way to involve everyone Charlie Weis the former New England offensive coordinator explained in the 2006 book Moving the Chains	goes	0	0	0
+33	O	He s not the quarterback who hangs just with the wide receivers	s	1	0	0
+34	F	He ll hang with the offensive linemen	ll	1	0	0
+35	F	He ll hang with the DBs	ll	1	0	0
+36	O	And that s very unusual in today s game	s	1	1	0
+37	O	Usually when quarterbacks have guys that their livelihoods depend on they turn to them	Usually	1	0	0
+38	F	Tommy works the whole team	works	0	0	0
+39	O	Here s the secret sauce a vital reason why New England hasn t suffered a losing season since 2000 when head coach Bill Belichick took over	s	1	0	0
+40	O	If Brady were as uptight and acerbic as Belichick often seems the Patriot train would have long ago run off the rails	run	1	0	0
+41	O	Instead it keeps chugging along losing a Wes Welker Rob Gronkowski and half a defense here picking up a LaGarrette Blount Julian Edelman and boatload of random rookies there and still steaming into Denver with a 13 4 record	keeps	1	0	1
+42	O	Manning too regularly reaches across the aisle realizing much of his ultimate success is tied to how his defense performs	reaches	1	0	0
+43	F	Manning won his only Super Bowl in 2007 with the Colts because Bob Sanders then a top notch safety returned from injury to bolster what had been a porous defense in time for the playoffs	won	1	0	0
+44	F	Without Sanders in 2006 Indianapolis had NFL s worst rushing defense	had	1	0	0
+45	F	With Sanders Indianapolis had the second best run defense in the playoffs	had	0	0	0
+46	F	Following his 2012 arrival in Denver Manning quickly established rapport with his new teammates including Tracy Porter the former New Orleans cornerback who iced the Saints Super Bowl XLIV win by intercepting Manning	Following	1	0	0
+47	O	If you came up here to the practice facility at dawn you d see two cars already in the parking lot the guy who runs the building and Peyton Manning Porter told ESPN The Magazine s Ryan McGee	see	1	0	0
+48	O	When someone loves the game as much as he does it kind of takes over the whole team	takes	1	0	0
+49	F	In one spring 2012 practice Porter intercepted Manning on a series then got burned by a pass a few plays later	intercepted	1	0	0
+50	F	McGee added as he walked off the field the defensive back felt a hand on his shoulder	added	0	0	0
+51	O	It was the quarterback who said You tell me what I did wrong on that first play and I ll tell you what you did wrong on that next play	was	0	1	0
+52	O	That s the only way we re going to get better	s	0	1	0
+53	O	Deal Months later Porter still shakes his head while telling the story	Months	1	0	0
+54	O	Dang right that was a deal he says	was	1	0	0
+55	O	He wants me to be better so he can be better	wants	0	1	1
+56	O	And he wants to be better to help me get better	wants	0	1	1
+57	O	I ll follow a man like that into any game anywhere any way	ll	1	0	1
+58	F	On Sunday Denver s defense will play just as large a role in the Broncos fate as Manning s brilliance	play	1	0	0
+59	O	How Bronco defensive backs like Champ Bailey Quentin Jammer and rookie Kayvon Webster respond to the loss of cornerback Chris Harris Jr. a top Denver defender who tore his ACL in the last round will be one of the game s most important variables	be	1	1	0
+60	F	No matter what happens on Sunday Manning and Brady s true legacies are already set	set	1	0	0
+61	F	Those legacies are found in whatever they have passed along to their teammates in thousands of hours worth of workouts practices and plane flights	found	0	0	0
+62	O	Some of that will pass on to future generations and make the game better	pass	0	0	0
+63	F	The question of whether either quarterback has a legit claim to being the all time best remains though	question	1	0	0
+64	O	The answer may seem clearer after the game but will again muddle in the coming years as time erodes fans perceptions	seem	1	0	0
+65	F	Most of today s NFL fans would agree Brady and Manning deserve to be ranked somewhere in the league s all time Top 10 quarterbacks	agree	1	0	1
+66	O	But Brady and Manning could not have already ascended into that pantheon unless older all time greats like Otto Graham Bart Starr and Sammy Baugh were knocked down a few notches	ascended	1	0	0
+67	F	Swell Baugh who starred for the Redskins in the 1940s is the only player to lead the NFL in passing punting and intercepting in the same season	is	0	0	0
+68	F	That s pretty awesome but unfortunately for Baugh s reputation he s ancient history to most NFL fans	s	1	1	0
+69	F	Nobody mentions his name anymore because nobody s seen him Joe Montana said in 2012	mentions	1	0	0
+70	F	It s always about what s happening now	s	1	0	0
+71	O	It s difficult to imagine but to some future generation Manning s career tally of 491 touchdowns and 219 interceptions will look as unimpressive as Baugh s 187 TDs 203 INTs career total looks to us now	s	1	1	1
+72	O	There will be quarterbacks faster stronger and quicker than their predecessors who will in the coming decades earn teammates loyalties shatter today s records win at least three Super Bowls and surpass Manning and Brady on most fans Top 10 lists	be	1	0	0
+73	F	The young explosive dual threat stars squaring off in the NFC Championship Game Colin Kaepernick and Russell Wilson remind us Manning and Brady s time at the top of their profession is limited	remind	0	0	0

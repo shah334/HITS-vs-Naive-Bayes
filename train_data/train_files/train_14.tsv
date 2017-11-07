@@ -1,0 +1,37 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Early last spring on a slate gray morning that faithfully delivered rain followed by more rain just as the BBC had forecast it would I found myself standing outside the station in Whitstable a dispiriting seaside town about sixty miles southeast of London with not a cab in sight	found	1	0	0
+2	F	But a drizzly ten minutes later an exuberantly overweight man with a bright red face suddenly roared his taxi around the corner	roared	1	0	0
+3	F	Look I'm warning you right now he happily informed me when I told him where I was going	informed	1	0	0
+4	O	It's complete rubbish from the outside and on a day like this it's going to look even worse	's	1	1	0
+5	O	Oh how the English love being the bearers of bad news	Oh	1	0	0
+6	O	And it's not much better inside he continued	's	1	1	0
+7	F	No tablecloths	tablecloths	0	0	0
+8	F	No curtains	curtains	0	0	0
+9	F	No menus	menus	0	0	0
+10	O	But the food is effing amazing and that's why you go to a restaurant innit Yes I agreed that's why we go to restaurants	agreed	1	1	0
+11	F	My search for effing amazing food was the reason I had come all the way from New York and was now hurtling toward The Sportsman a pub in Seasalter a tiny village in an obscure extremely wet corner of England	was	1	0	0
+12	O	By the time we arrived the rain had gone horizontal and the sky had become a boiling bruise colored Turner tempest the great man actually lived in nearby Ramsgate	gone	1	1	0
+13	F	But the moment I stepped through the front door I was enveloped in a sea of warmth	moment	0	0	0
+14	F	A coal fire glowed in the brick fireplace locals I could tell by their accents were crowded around the bar laughing and drinking beer and the plain wood tables each with its own small bunch of fresh spring flowers were full of families plus the odd dog snuffling about underneath	glowed	0	1	0
+15	O	I felt as though I'd come home	felt	1	0	0
+16	F	In the old days it was said that the Michelin inspectors would always order a plain omelet at every restaurant they tested	said	1	0	0
+17	F	It was the baseline the sine qua non of a good chef	was	0	0	0
+18	O	For this inspector it's all about the bread and butter so easy to get wrong almost impossible to perfect	's	1	1	1
+19	F	Yet as I sat down perfection promptly appeared in the form of buttercup yellow butter churned with cream from the Hinxden Farm Dairy thirty five miles away resting on a piece of cool slate and beside it on a wooden board home baked crusty Irish soda bread	appeared	1	0	0
+20	F	There was also a little dish of salt flakes made from evaporated seawater just as has been done here ever since the Middle Ages hence the name Seasalter	was	1	0	0
+21	F	I saw no menus just a blackboard listing the day's dishes	saw	1	0	0
+22	F	After consulting Philip a jolly giant of a man who was on patrol behind the bar I asked him to choose for me	After	0	0	1
+23	F	A baby sole no bigger than my hand quickly saut ed in seaweed butter made from sea lettuce gathered from the beach dried and added to the buttercup butter appeared first followed by tender pork belly the pigs feast on apples lucky pigs crunchy cracklings mashed potatoes and slightly tart applesauce	sole	1	1	0
+24	O	It all sounds deceptively simple doesn t it But of course it isn t. Achieving this degree of pitch perfect taste never is	is	1	1	0
+25	O	The problem is that we had a lack of confidence in our ingredients and in our indigenous way of cooking	is	0	0	0
+26	O	We just forgot how good food should taste	forgot	1	1	0
+27	F	I was sitting by the fire with Stephen Harris co owner of The Sportsman and the man who had just cooked my lunch talking about what had gone wrong with English food	sitting	1	1	0
+28	F	When and how did it happen Harris pointed out that until the Industrial Revolution foreigners had nothing but praise for the quality of the food in England	pointed	1	0	0
+29	O	But with the mass migration from the country to the cities the backbone of English food produce grown at home by a rural culture started to disappear	started	0	0	1
+30	F	Old recipes were forgotten and the quality of meat and produce declined with the industrialization of farming	forgotten	0	0	0
+31	O	The new urban working class subsisted on whatever they could afford mostly bread potatoes massive quantities of sugary tea and cheap gin while the snobby middle and upper classes were seduced by the siren song of French cuisine or at least a sad approximation of it produced by English cooks	subsisted	1	0	0
+32	F	The inevitable result was a depressing slide that continued until well after World War II	was	1	0	0
+33	F	Soon the very phrase English food was enough to provoke snorts of mockery and derision	was	1	1	1
+34	F	Although the concept of Michelin starred restaurants serving English food was unimaginable twenty years ago the truth is that Stephen Harris and many other chefs are in the business of revival rather than revolution	is	1	1	0
+35	O	Like archaeologists they are digging deep into the past and piecing together the broken fragments of a long buried culinary civilization	Like	1	0	0
+36	O	With an understanding of the historical basis of English cooking access to magnificent local produce meat and fish and most important with their talent and imagination they have created a cuisine that can hold its own against the world's best	created	1	0	0

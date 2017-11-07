@@ -1,0 +1,106 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Over the last 58 years art scholars have been arguing about the authenticity of a painting that just may be the last Jackson Pollock work ever created	Over	1	0	0
+2	F	In a fight that has pitted Pollock s lover against his wife the legacy of one of the great abstract expressionists and plus or minus five million dollars is at stake	is	0	0	0
+3	F	The painting in question Red Black and Silver is just 24 by 20 inches and wholly unlike any other by Jackson Pollock	is	1	0	0
+4	F	But it is Jackson Pollock s last painting	is	0	0	0
+5	O	Perhaps	Perhaps	0	0	0
+6	F	Ruth Kligman the artist s mistress who was in the car with him when he crashed to his death on Fireplace Road in Springs Long island in 1956 claimed he had painted it for her just weeks before	claimed	1	0	0
+7	F	Lee Krasner the painter s widow who had returned from Europe after the crash said it was a fake	Krasner	0	0	0
+8	F	Krasner died in 1984	died	0	0	0
+9	F	The Pollock Krasner Authentication Board continued to nix Red Black and Silver until they disbanded in 1996	continued	0	0	1
+10	F	Ruth Kligman died in 2010	died	0	0	0
+11	O	forensics investigator Nicholas Petraco long time with the New York City police department and now a professor at John Jay College of Criminal Justice issued a report after examining the evidence around the painting	investigator	1	0	0
+12	O	Petraco who was working for the Kligman estate pro bono declared that minutiae stuck to the canvas proved conclusively that Red Black and Silver had been painted on Pollock s property	declared	1	0	0
+13	F	His interview appeared in a New York Times article by Patricia Cohen who also spoke with Francis O Connor a co editor of Pollock s four volume catalogue raisonn	appeared	1	0	0
+14	O	O Connor airily described the forensics as redundant and essentially irrelevant compared to a connoisseur s eye	described	1	0	0
+15	F	In the piece O Connor said that the painting was in limbo	said	0	0	0
+16	F	I met with Kligman from time to time in the years before her death and was invited to her 14th Street apartment in Manhattan which had once been Franz Kline s studio	met	1	0	0
+17	O	Did she show me the Pollock No	show	0	0	0
+18	F	But a while later I did meet up with Rick Librizzi a veteran private dealer who knew the abstract expressionists and had worked with Warhol and who was then working with Kligman on this painting	meet	1	0	0
+19	O	Wunderkind I knew I was going to see a real Pollock from the picture on her book A Love Affair he said	Wunderkind	0	0	0
+20	O	I knew it was not a fake	knew	0	0	1
+21	O	It s a real Pollock	s	0	0	0
+22	O	But I wasn t ready for what I saw	wasn	0	0	0
+23	O	When I came into the room I had to sit down	came	1	0	1
+24	O	And she started to cry because people had been running her down and running her down	started	1	0	1
+25	F	But she had a lot of letters	had	0	0	0
+26	F	She had a letter from Leo Castelli	had	0	0	0
+27	F	They all agreed it had to be a Pollock	agreed	0	0	1
+28	O	It s one of the greatest paintings of the last half of the 20th century which is being denied to the culture because of sour grapes	s	0	0	0
+29	O	I understand sour grapes	understand	0	0	0
+30	O	I understand a woman whose husband is going out with a younger beautiful girl and she says the painting is no good	understand	0	1	0
+31	O	And so on and so forth	And	1	0	0
+32	O	But it s an act against Pollock it s an act against art and it s an act against the fact that in that painting Pollock discovered where he was going to go	s	0	0	0
+33	O	Librizzi has always struck me as an admirable man rough hewn as a New York cabbie	struck	1	0	0
+34	F	But he is an art dealer	is	0	0	0
+35	F	He was working on the picture	working	0	0	0
+36	O	So he would say that wouldn t he called him after seeing The New York Times report	say	1	0	0
+37	O	Well you know I don t think there s any question about the fact that it s real he said	know	0	0	0
+38	O	I don t have an agenda	don	0	0	0
+39	O	Ruth wanted me to sell the work	wanted	0	0	1
+40	O	These people eclipsed me so I have no reason to be beneficial to them	eclipsed	1	1	0
+41	O	But I have to speak the truth here	have	1	0	1
+42	O	At that time that painting would have been worth nothing	been	0	1	0
+43	F	Sidney Janis said that if he sold one Pollock a year for 1500 he was doing good	said	0	0	0
+44	O	Librizzi the painting s authenticity was never in doubt	Librizzi	0	0	0
+45	F	And it didn t take forensic evidence to tell him that all he had to do was look at it	didn	0	0	1
+46	O	The minute I saw it I knew that it was right	minute	0	1	0
+47	O	All of the fake Pollocks I ve seen are ridiculous	are	0	1	0
+48	O	It s like trying to play Charlie Parker	s	0	0	1
+49	O	Only Charlie Parker could play Charlie Parker	play	1	0	0
+50	F	And there s that motif in Ruth s painting a half circle with a dot in the center	s	1	0	1
+51	O	Anybody that has an obsession the form keeps repeating itself	Anybody	0	0	1
+52	O	You can find them in the Jackson Pollock Museum of Modern Art and you can find them in the psychoanalytic drawings	find	0	0	0
+53	O	He uses it early and all the way through	uses	1	0	0
+54	O	It was a consistent motif	was	0	0	0
+55	O	And if you brought it to a psychoanalyst they would probably say what they thought it was	say	1	0	0
+56	O	But I think it s an embryo in a womb	think	0	0	0
+57	O	It s glaring in his work	s	0	0	1
+58	O	It doesn t exist in Kline	exist	0	0	0
+59	O	It doesn t appear in de Kooning	doesn	0	0	0
+60	O	It belongs to Pollock	belongs	0	0	0
+61	F	That s his last painting	s	0	0	0
+62	O	It s a very important painting and it really annoys me that this has been happening	s	1	0	1
+63	O	At that point Pollock was a desperate man	was	0	0	0
+64	O	He didn t want to repeat himself	didn	0	0	1
+65	F	And he had the Museum of Modern Art show coming up	had	0	0	1
+66	F	Greenberg was saying If you don t stop doing the figurative stuff you re not going to get the show	saying	0	0	1
+67	O	He was under immense pressure	was	0	0	0
+68	O	He had taken a step backwards	taken	1	0	0
+69	O	But that didn t satisfy him long term so he had stopped painting	satisfy	0	0	1
+70	O	But according to the story Kligman told Librizzi and others it wasn t until she intervened that Pollock was able to move forward and paint a piece that represented the next evolution of his style	according	1	1	1
+71	F	When Ruth asked him to show her how to paint she had come from the camp she was teaching at	come	1	0	1
+72	O	She wasn t an accomplished painter	t	0	0	0
+73	O	Her painting was very primitive very outsider	was	1	1	0
+74	O	Her hand was slow	was	0	1	0
+75	F	And she threw one of her old canvases on the ground	threw	0	0	0
+76	O	And of course this put him on the spot	put	0	0	0
+77	O	He was macho he was in love with this girl and she asked him how to paint	was	1	1	1
+78	O	And that unlocked a new format	And	0	0	0
+79	O	And he created a masterpiece	created	0	0	0
+80	O	It would have set the stage for the future had he lived	set	0	0	0
+81	O	The silver black and red work he created that day it looks like an embryo in a womb against the background of the void also perhaps his desire for a child because he wanted a child but Lee Krasner didn t trust him and also the embryo in the bloody womb could symbolize the new work	black	1	0	0
+82	O	Because it was a revelation	was	0	0	0
+83	O	No one could have produced that painting but him no one	produced	0	0	0
+84	O	While scholars have been debating the work s authenticity for decades now the answer is an easy one according to Librizzi	is	1	0	0
+85	O	Just look at the painting	look	1	0	0
+86	O	All the fakes that I have seen distort space	fakes	0	0	0
+87	O	They think he just poured they didn t understand the structure within the pour	think	1	0	1
+88	O	Of all of the fakes I have seen the worst are Pollocks	are	0	0	0
+89	O	He s the least understood as far as how he made a painting work its structure	s	1	0	0
+90	O	He flew by the seat of his pants	flew	0	0	0
+91	F	When I saw Ruth s Pollock for the first time I had to sit down	s	0	0	1
+92	O	I was so overwhelmed by it	was	1	1	0
+93	F	And she started to cry	started	0	0	1
+94	O	It s like a scream for help but then a halleluiah at the same time	s	1	0	0
+95	O	He found what he was looking for	found	0	0	0
+96	F	I brought Ivan Karp and John McWhinnie amongst others to see it and they all agreed it was a great work and unquestionably a Pollock	brought	1	0	0
+97	O	So there you have it	have	1	0	0
+98	O	Another connoisseur s eye	s	0	0	0
+99	O	And it s value I asked Asher Edelman a collector and a dealer and a man steeped in Abstract Expressionism what the painting would fetch if it were A accepted as authentic B dissed as attributed to or C if it was seen as irresolvable accepted by some not by others but an intrinsic element in art history in any event Five million if it s real Edelman said	s	0	0	0
+100	O	Maybe eight maybe four	four	1	0	0
+101	O	But in that ballpark	But	0	0	0
+102	O	If nobody believes in it Twenty thousand dollars	believes	0	0	0
+103	O	And the third option I can t answer that	And	0	0	0
+104	O	I don t have an opinion	don	0	0	0
+105	F	I ve never been in that situation	been	0	0	0

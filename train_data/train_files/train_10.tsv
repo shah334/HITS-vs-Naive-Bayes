@@ -1,0 +1,57 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Confide the disappearing messaging app for grownups that was tabbed as one of the The Daily Beast s hot apps for the week has come too late for many professionals	Confide	1	1	0
+2	O	But if you want to rag on co workers engage in political machinations and swap tips about hot stocks without having to worry so much about the consequences it s right on time	engage	1	1	1
+3	F	The media is full of stories of careers and lives laid waste by indiscreet texts emails and other digital communications	is	0	1	0
+4	F	The New Jersey George Washington Bridge scandal reached critical mass only when infelicitous emails and texts between Governor Chris Christie s chief of staff Bridget Kelly to political operative David Wildstein and others were subpoenaed by the state legislature and leaked to the press	reached	1	0	0
+5	O	Time for some traffic problems in Fort Lee Kelly infamously wrote to Wildstein	wrote	0	0	0
+6	O	Her career and possibly Chris Christie s presidential ambitions has been derailed	derailed	1	0	0
+7	F	Meanwhile in lower Manhattan former SAC Capital manager Matthew Martoma is on trial for insider trading in drug company stocks	is	1	0	0
+8	F	Preet Bharara the U.S. Attorney for the Southern District of New York has run up an impressive run of insider trading convictions 77 with no losses largely because prosecutors have been able to mine troves of emails texts instant messaging threads and other forms of digital communication	run	1	1	1
+9	O	My favorite was the instant messaging thread between two easily busted jokers which included gems like Jesus don t tell anyone else and I don t want to go to jail	was	1	0	1
+10	O	With electronic communication in all its forms having replaced face to face communications and with digital technology having replaced analog technology our lives are documented and stored	documented	0	0	0
+11	O	Every off the cuff utterance each whit of conspiracy every misspoken phrase is laid down in bits and bytes captured stored and easily accessed by employers the government authorities and ultimately the public	laid	1	0	0
+12	F	On trading floors every conversation is taped and employees are often prohibited from using personal phones or emails the better to ensure compliance	taped	1	0	1
+13	O	That s good news for law enforcement but bad news for people trying to do things sub rosa or even just confidentially	s	1	0	1
+14	O	This concern has led in some quarters to a revival of an ancient communications technology face to face conversation	led	0	0	0
+15	F	For most middle aged big shots the acronym LDL is a measure of cholesterol	is	0	0	0
+16	O	For people in sensitive workplaces it means let s discuss live as in Let s not talk about this thing in a way that could create a paper trail that could be awkward for us down the road	let	1	1	0
+17	F	In 2007 when Goldman Sachs was devising strategies to get rid of junky mortgages one trader cut the electronic conversation short by suggesting LDL	In	1	0	1
+18	F	But DL ing is a really unwieldy way of doing business in this 24 7 hyperconnected global economy	is	1	0	0
+19	O	Imagine every communication with a co worker had to take place face to face	had	0	0	1
+20	O	It s enormously inefficient	s	1	0	0
+21	O	For this reason Snapchat caught on like wildfire	caught	0	0	0
+22	F	The idea and promise of the popular app is that the information you send a photo and anything you want to write on it disappears after 10 seconds or so	is	0	0	1
+23	F	Teens who had been embarassed by Facebook postings and texts easily captured and shared an infinitum quickly glommed onto it	Teens	1	0	0
+24	F	Snapchat offers all the exhibitionism and daring without the threat of public disclosure	offers	0	0	0
+25	O	But one can see how it could easily be used for other purposes	see	1	0	0
+26	O	Let s say you had a hot possibly illegal tip on a stock and wanted to communicate it to somebody without leaving a trail	Let	1	0	1
+27	O	Take a selfie write Blue Star Air is in play on it and Snapchat it to your buddy	Take	0	0	0
+28	F	The crucial information is imparted but it disappears theoretically unretrievable	imparted	1	0	0
+29	F	Last summer Jim Cramer of CNBC told Preet Bharara at an event that Snapchat could be used by traders for illicit activity	told	0	0	0
+30	O	Bharara at the time said he had never heard of Snapchat	said	0	0	0
+31	F	Alas Snapchat is an imperfect vehicle for anonymous communications	is	0	0	0
+32	O	The authorities certainly know about it now	know	1	0	0
+33	F	Worse Snapchat stores the messages sent and hackers have demonstrated the ability to bust into its system	stores	0	0	0
+34	F	The messages swapped on Snapchat it turn out don t really disappear	messages	1	0	0
+35	O	And so some savvy digital media folks have come up with an older more professional more discreet version of Snapchat Confide	come	1	0	0
+36	O	The company s founders include Howard Lerman the current CEO of geodata firm Yext and former AOL executive Jon Brod	include	0	0	0
+37	F	You Grownups it turns out have just as much to gain from disappearing texts as teenagers	Grownups	1	0	0
+38	O	Off the record conversations happen all the time in the offline world the company notes	happen	0	0	0
+39	O	They allow you to be honest and genuine without worrying that every word is being archived	allow	0	1	0
+40	O	Or and here s how I would put it non documented talk is liberating	liberating	1	1	0
+41	F	There are plenty of legitimate professional purposes for which it would be advantageous to communicate orally as if it were a non recorded conversation rather than through email or texts	are	1	1	1
+42	O	You want to complain about a co worker speak confidentially about compensation or a job offer propose a hush hush meeting with a counterpart hatch a takeover bid or hatch a political payback scheme	want	1	0	1
+43	O	But you don t want to create a paper trail that could get you in trouble or get you in hot water with HR	don	0	0	1
+44	F	Confide says it has learned from Snapchat s gawky adolescence	says	0	0	0
+45	F	The texts are sent via email rather than through phones	sent	1	0	0
+46	O	It uses powerful encryption technology	uses	0	0	0
+47	O	The messages appears as blocks instead of letters and don t reveal themselves until the user swipes over them	appears	1	0	0
+48	F	The service alerts you if somebody tries to take a screenshot of a Confide message and provides receipts that document when your counterpart has read the text	alerts	0	0	1
+49	O	And most importantly Confide promises that the messages sent aren t stored on the company s internal servers	Confide	1	0	0
+50	O	It all sounds great	sounds	0	1	0
+51	F	If Anthony Weiner had used Confide instead of Twitter to send photos of his package he might still have a political career	have	1	0	1
+52	O	But there is good reason to be skeptical	is	0	1	0
+53	O	If we have learned anything in recent years it is that anything that can be created digitally can be captured stored and shared digitally that the government will try to access it at some point and that most companies will help the government do so	is	1	0	1
+54	O	What s more all sorts of companies that have really big incentives to guard data fiercely get hacked all the time	more	1	0	0
+55	F	Internet security works really well until the moment it doesn t. Also once messaging applications gain critical mass they ll become takeover targets of truly massive companies for whom privacy and anonymity aren t necessarily first order concerns Facebook has already unsuccessfully bid 3 billion for Snapchat	become	1	0	0
+56	O	Finally consumers should always remember that when they use free communication services they are providing data for companies to mine on behalf of themselves or marketers and advertisers	remember	1	0	0

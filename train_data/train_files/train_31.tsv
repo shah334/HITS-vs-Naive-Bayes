@@ -1,0 +1,13 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	This year has been one of the least productive years in history in Washington	been	1	0	0
+2	O	Between bungled or stalled policy initiatives and a government shutdown moving the needle on progress on either side proved nearly impossible	Between	1	1	0
+3	O	One player did have a good year aside from Chris Christie	have	1	0	0
+4	O	According to the United Nations 2013 was the year of quinoa a highly nutritious centuries old grain	According	1	0	0
+5	O	More from NJ Take Two Aspirin and Blame Everything on Obamacare In February the U.N.'s Food and Agricultural Organization declared 2013 the international year of quinoa not for the grain's place in Western society as a healthy even upscale ingredient that's tough to pronounce but for its impact on food security around the world	More	1	1	1
+6	F	More from NJ The Return of the Welfare Queen Quinoa contains many essential amino acids and vitamins and can grow in a variety of climates	contains	0	0	0
+7	O	Planting and cultivating quinoa in areas of extreme poverty eases hunger and malnutrition the U.N. group explains and could eventually give rise to a new crop industry	explains	1	0	0
+8	O	More from NJ Americans Won't Be Easily Reassured About the Economy The price of quinoa often called the miracle grain of the Andes for its origins has tripled since 2006 The Guardianreported early this year	Reassured	1	0	0
+9	O	Its popularity in nations where the crop is not indigenous like the U.S. has pushed costs up enough so that poorer people in Peru and Bolivia can no longer afford it	costs	1	1	0
+10	F	Still Peru and Bolivia are among the list of South American nations funding this year's promotional campaign of quinoa	are	1	0	0
+11	O	In the United States the concept of quinoa as a super food is at least a few years old	In	1	1	0
+12	O	The grain's versatility as well as its recent recognition as a food craze will keep it on the world stage for years to come	keep	1	0	0

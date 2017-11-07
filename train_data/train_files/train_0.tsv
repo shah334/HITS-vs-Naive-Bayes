@@ -1,0 +1,61 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Researching a book entitled 101 Places to Get F cked Up Before You Die The Ultimate Travel Guide to Partying Around the World may seem like the most fun job ever	Die	1	0	1
+2	O	But editor David S. Miller stresses there s more to it than one might think	stresses	0	0	0
+3	F	He describes the compilation of wild first person adventure stories pulled from the community of travel writers that comprise the Matador Network as a Trojan Horse the sensationally dubbed cover opens to reveal real cultural experiences	describes	1	0	1
+4	F	The book s crazy title gave Miller pause when he was first approached about the project but he soon realized there was a lot missing in the current travel literature	gave	1	0	0
+5	O	Most features flaunt the best beaches and sunsets but they lack details on how visitors can have authentic cultural experiences	flaunt	1	0	0
+6	O	People are just trying to sell the destination he says	trying	1	0	1
+7	O	But he wanted this book to provide readers with culture and stories you wouldn t find in every travel book	wanted	0	0	1
+8	O	The whole ethos behind the book is it doesn t really matter where you go even in Antarctica or the middle of the Bolivian salt flats if you re the kind of person who isn t much of risk taker this is a time to get out and mix it up says Miller	is	1	0	0
+9	F	The crazy stories told in the book organized into booze and occasionally drug fueled chapters like High Elevation and Under the Radar give readers tips on how to have fully immersive experiences while on vacation	stories	1	0	0
+10	O	Intertwined among tales of getting f cked up are accounts of how to make real connections with local people who can serve as guides to the region taking the traveler to the most genuine spots	Intertwined	1	0	0
+11	F	Miller s love of travel was sparked while hiking the Appalachian Trail soon after he graduated from college	sparked	1	0	0
+12	F	Later he saved up and spent a few years in Latin America surfing camping and backpacking	saved	1	0	0
+13	O	If you re a surfer you don t just blast out into the break you find the crew who s there and can tell you what the great stuff is and a lot of how you meet these people is by going to a bar or someplace like that he says	don	1	0	0
+14	F	But for the 41 year old father partying nowadays is maybe having some wine when I m whipping up a meal	having	1	0	1
+15	O	Getting f cked up was never the end goal anyway he says	Getting	1	0	0
+16	O	The point to me is not inebriation for inebriation s sake the point is traveling and getting into a wave of exuberance and to not hold back	is	0	0	0
+17	O	The book may not inspire binge fueled travel in Miller but it s added a whole slew of new spots to his travel list and surfaced some old memories	inspire	0	0	0
+18	F	His favorite from 2000 was a visit to Monta ita Ecuador when the inaccessible coastal spot was as he describes a confluence of beautiful people no police or authority presence an ongoing rave with music and dancing and very limited connection to the outside world	was	1	0	0
+19	F	Miller hopes 101 Places to Get F cked Up Before You Die which was churned out in a mere five months won t be just another commoditized guide	hopes	1	0	1
+20	O	It s more about the sense of opening up yourself and not being heads down in your device and connecting to people face to face he says	s	1	0	1
+21	F	So turn up your gaze and raise your glass to Miller s top picks for where to have the greatest party adventures around the globe	turn	0	0	1
+22	O	You don t just bring your karaoke A game to Tokyo but your willingness to dwell in a futuristic world where the referents include horse sashimi ninja themed bars and maid outfits	bring	1	0	0
+23	F	The most epic party experiences should be visceral the terrain itself should play a big role in the story	be	1	1	0
+24	O	With the right snow conditions Whistler is all time during the day and then at night turns into a fucking hot mess of beautiful people with goggle tans and Volcom V necks	is	1	0	0
+25	F	Few places in the world allow the level of same day access to snow and surf as found in the region of Waikato in the North Island	allow	0	0	0
+26	F	It s just three hours on state highways from Whakapapa and Turoa the largest ski area in New Zealand to Raglan with its world class surf breaks	s	1	0	0
+27	O	Raglan itself is just a small pastoral town with as writer Evan Timpy says musicians photographers environmentalists and free thinking itinerants to get wasted with	is	1	0	0
+28	F	People may just associate Mardi Gras with titty flashing for beads but there are all kinds of cultural layers such as the Mardi Gras Indians	associate	1	0	0
+29	F	Stretching back to at least the mid 1800s the Indians of Mardi Gras pay tribute to Native Americans who helped African Slaves escape the bayou to freedom	pay	1	0	0
+30	O	If you can t make if for Mardi Gras just make it down to New Orleans whenever	whenever	1	0	0
+31	F	Writer Josh Heller explains Everyone has their own version of where to go totally fucking bonkers in Berlin and each one of these prescriptions is 100 percent right	explains	1	1	1
+32	O	No matter how early you arrive in town you ll hear the thumping bassline of a familiar track	hear	1	0	0
+33	F	You ll soon realize that it s 8 00 a.m. and they re playing an extended remix of the theme song from Ferris Bueller	realize	1	0	1
+34	F	This is Berlin	is	0	0	0
+35	F	Phuket Thailand The place where 10 million backpackers have lost their self respect hopefully just temporarily	Phuket	1	0	0
+36	O	Make the most of Phuket but after your logic reaches a point where you re like If I just rent a beach chair someone will bring me a coconut to wash down my Vicodin it s time to leave	Make	1	0	0
+37	O	San Francisco is where everything goes off on a quietly atomic scale the waves at Ocean Beach tech startups next generation electronic music and a party culture ever seen Bay to Breakers born of a tolerance decades ahead of the rest of the country	seen	1	0	0
+38	O	It seems like you can only understand how much it s like a treasure chest at the bottom of the sea if you really spend time there	seems	1	0	0
+39	F	Buenos Aires and most of Argentina in general has a culture where socializing comes first	Aires	1	0	0
+40	F	Parties are de la familia meaning if there s a big celebration kids are part of it and bedtimes are out the window	are	0	0	0
+41	F	Thus kids grow up with a partying stamina and you re liable to hurt yourself if you try to keep up	grow	1	0	1
+42	F	Ease into it	Ease	0	0	0
+43	O	I love places that completely subvert people s expectations	love	1	0	0
+44	F	Halifax is actually an insane surf town you can fly in and be surfing within two hours and during certain times of year there are tidal bores to paddle and surf	is	1	0	0
+45	F	The city has a population of only 400 000 but with more than 5 major universities the population skews young and boisterous	has	1	1	0
+46	O	Two Engines Are Enough As writer Sarah Briggs puts it Throughout the year multi generational party seekers travel to Barcelona or BCN as cool people abbreviate it many remaining to embrace the Mediterranean and the opportunity to nap on a daily basis without tan lines or scorn	Engines	0	0	1
+47	O	Nuff said	said	0	0	0
+48	O	To me partying in New York always feels like walking in and out of an endless series of doors each leading to a completely separate often incongruent universe and each with limited bathrooms	feels	1	0	0
+49	O	Every time I m there I feel simultaneously happy I don t live there and envious of people who do	feel	1	1	0
+50	F	Writer Pietro Buzzanca wrote If there were a school to learn how to get f cked up the headmaster would be Irish	wrote	1	1	1
+51	F	The average Irishman can drink up to two six packs of Dutch Gold on a quiet Tuesday night while staying in watching a movie just for the exercise	drink	1	0	0
+52	F	Don t try to keep up with anyone here	try	1	0	1
+53	O	Journalist Jessica Peter puts it this way Guys in little leather shorts and girls with healthy racks squeezed into corseted dresses	puts	0	0	0
+54	O	Start practicing now Ein Ma bitte	practicing	1	0	0
+55	F	As Larissa Coleman writes In the 1950s hippies were drawn to Ibiza s postcard beaches	drawn	0	0	0
+56	F	The rich and famous followed suit	followed	0	0	0
+57	F	Now every flip flop clad backpacker can be spotted shuffling to house music in Space	spotted	1	0	0
+58	O	Forget you have or ever had a boyfriend or girlfriend	Forget	1	0	0
+59	F	This is already on most people s radars but it just has to be part of this list	is	1	0	1
+60	O	As Josh Johnson writes This is the type of scene you could parachute into stark naked and singing the Star Spangled Banner and upon landing you would be absorbed by the great 50 000 person organism clothed fed and imbibed before your chute touched the desert ground	is	0	1	0

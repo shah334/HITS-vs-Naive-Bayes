@@ -1,0 +1,38 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	President Barack Obama banned U.S. eavesdropping on the leaders of close friends and allies on Friday and began reining in the vast collection of Americans' phone data in a series of limited reforms triggered by Edward Snowden's revelations	banned	0	0	1
+2	O	In a major speech Obama took steps to reassure Americans and foreigners alike that the United States will take into account privacy concerns highlighted by former spy contractor Snowden's damaging disclosures about the sweep of monitoring activities of the National Security Agency NSA	took	1	0	0
+3	O	The reforms I'm proposing today should give the American people greater confidence that their rights are being protected even as our intelligence and law enforcement agencies maintain the tools they need to keep us safe he said	give	1	0	1
+4	O	While the address was designed to fend off concerns that U.S. surveillance has gone too far Obama's measures fell short of dismantling U.S. electronic spying programs	fell	1	0	1
+5	O	Even as the White House put the final touches on the reform plan this week media outlets reported that the NSA gathers nearly 200 million text messages a day from around the world and has put software in almost 100 000 computers allowing it to spy on those devices	reported	1	0	0
+6	F	Obama promised that the United States will not eavesdrop on the heads of state or government of close U.S. friends and allies unless there is a compelling national security purpose	promised	0	0	0
+7	O	A senior administration official said that would apply to dozens of leaders	said	0	0	0
+8	O	The step was designed to smooth over frayed relations between for example the United States and Germany after reports surfaced last year that the NSA had monitored the cellphone of German Chancellor Angela Merkel	designed	0	0	1
+9	F	Brazilian President Dilma Rousseff postponed a state visit to Washington in protest of the NSA spying on her email and cellphone	postponed	0	0	0
+10	O	The leaders of our close friends and allies deserve to know that if I want to learn what they think about an issue I will pick up the phone and call them rather than turning to surveillance Obama said	deserve	1	0	1
+11	F	Still he said U.S. intelligence will continue to gather information about the intentions of other governments and will not apologize simply because U.S. spy services are more effective	said	1	1	1
+12	O	Obama is trying to balance public anger at the disclosure of intrusion into Americans' privacy with his commitment to retain policies he considers critical to protecting the United States	trying	0	1	1
+13	O	In doing so he bucked the advice of some U.S. intelligence leaders	In	1	0	0
+14	O	Some of his proposals drew skepticism from Republicans in Congress who expressed concerns that he was going too far in reining in essential spying programs	drew	1	0	0
+15	O	While we will need much more detail on the president's new policies before passing final judgment I am concerned that some of his proposals go too far limiting our ability to protect the nation with little benefit to civil liberties of Americans said Republican Senator Bob Corker of Tennessee	concerned	1	0	1
+16	O	One of the biggest changes will be an overhaul of the government's handling of bulk telephone metadata lists of million of phone calls made by Americans that show which numbers were called and when	be	0	0	0
+17	O	Obama said the program as it currently exists will end	said	1	0	0
+18	F	In a nod to privacy advocates the government will not hold the bulk telephone metadata a decision that could frustrate some intelligence officials	hold	0	0	0
+19	O	A presidential advisory panel had recommended that the data be controlled by a third party such as the telephone companies but Obama did not propose who should store the phone information in the future	recommended	0	0	0
+20	F	He asked Attorney General Eric Holder and the intelligence community to report back to him before the metadata program comes up for reauthorization on March 28 on how to preserve the necessary capabilities of the program without the government holding the metadata	asked	1	0	0
+21	O	In addition Obama said the U.S. the government will need a judicial review by the secret Foreign Intelligence Surveillance Act FISA court every time intelligence agencies want to check the database of millions of telephone calls unless there is a true emergency	said	0	0	1
+22	O	The biggest deal is going to the court each time said retired General Michael Hayden a former director of both the NSA and the Central Intelligence Agency	going	0	0	0
+23	F	SECRET COURTS The usefulness of keeping metadata phone records has been questioned by a review panel appointed by Obama	questioned	0	0	0
+24	O	It found that while the program had produced some leads for counter terrorism investigators such information had not proven decisive in a single case	found	0	0	0
+25	F	Among a list of reforms Obama called on Congress to establish an outside panel of privacy advocates for the FISA Court that considers terrorism cases	Among	0	0	0
+26	F	The former chief judge of the FISA court had opposed such a step	opposed	0	0	0
+27	F	Members of the U.S. Senate Select Committee on Intelligence called for more restraint on the NSA	called	0	0	0
+28	O	In particular we will work to close the ` back door searches' loophole and ensure that the government does not read Americans' emails or other communications without a warrant Senators Ron Wyden Mark Udall and Martin Heinrich said in a joint statement	work	0	0	1
+29	F	Obama made clear that his administration's anger at Snowden's revelations has not abated	made	0	0	0
+30	O	Snowden living in asylum in Russia is wanted on espionage charges although some Americans would like him to be granted amnesty for exposing secrets they feel needed to be made public	wanted	0	0	1
+31	F	Given the fact of an open investigation I'm not going to dwell on Mr. Snowden's actions or his motivations Obama said making a rare mention of the former NSA contractor by name	Given	0	0	1
+32	O	The sensational way in which these disclosures have come out has often shed more heat than light while revealing methods to our adversaries that could impact our operations in ways that we may not fully understand for years to come he added	shed	1	0	1
+33	F	Obama was silent on a number of his review group's recommendations including some that called for a rebalancing of the intelligence agencies' sometimes conflicting missions to enhance cybersecurity while conducting computer spying and offensive operations	was	1	1	0
+34	O	The group had asked the administration to end efforts to weaken cryptography so that spies and law enforcement can more easily break into communications	asked	1	0	1
+35	O	The panel also sought a wholesale change to the government's practice of developing or buying information about weaknesses in software design	sought	1	0	0
+36	O	The White House did not address those points to the disappointment of outside experts who feel the United States is making Internet security worse	address	1	0	0
+37	O	NSA sabotage of crypto standards was the thing most conspicuously absent for me University of Pennsylvania cryptographer Matt Blaze wrote on Twitter	was	1	0	0

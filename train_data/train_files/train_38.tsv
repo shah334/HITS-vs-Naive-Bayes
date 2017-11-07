@@ -1,0 +1,19 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	For Democrats the tea party is the gift that keeps on giving	is	0	0	0
+2	O	For Republicans the group is something akin to a flesh eating virus that threatens to chomp away at the GOP	is	0	0	1
+3	F	The civil war between establishment and tea party Republicans intensified this week when House Speaker John Boehner slammed outside conservative groups for ridiculous pushback against the bipartisan budget agreement which cleared his chamber Thursday	war	0	0	0
+4	F	Tea party sympathetic organizations Boehner later said are pushing our members in places where they don't want to be	said	1	0	1
+5	O	Washington insiders agree	agree	0	0	0
+6	F	Sixty five percent of Republican influencers on the Hill called tea party challengers to Republican lawmakers very unhelpful to the GOP according to a National JournalPolitical Insiders poll published Friday	called	1	0	0
+7	F	Their presence on the campaign trail leads to further splintering of the Grand Old Party whose widening rift between establishment and tea party members has not gone unnoticed by both Democratic opponents and the general public	leads	1	0	1
+8	F	Let's shoot at the opposition not our own troops one Insider pleaded	Let	0	0	0
+9	F	Most Republicans think they're idiots said another	think	0	0	0
+10	F	On the other hand 78 percent of Democratic Insiders find tea party challengers to be very helpful	find	1	1	0
+11	O	Democrats depend on ultraconservatives candidates like Steve Stockman who is taking great pains to label his Republican opponent for a Senate seat in Texas Sen. John Cornyn a liberal	depend	0	0	0
+12	O	For them a divided Republican party means more legroom for Democratic candidates to sweep voters fed up with ideological debates	means	1	0	0
+13	O	Political figures like Stockman do the job of dragging the national Republican image away from the mainstream and voters for the Democrats	do	1	0	0
+14	O	With midterm elections more than 10 months away there's still time for more tea party challengers to step up to the podium and exacerbate the situation	's	1	0	0
+15	F	For every Rand Paul and Marco Rubio you get five Ken Bucks and Todd Akins said one insider in the poll	said	0	1	0
+16	O	Come next November the biggest tea party supporters could be the liberals they want to squash	Come	0	0	1
+17	F	We should be forming independent expenditure committees and super PACs to support any tea partier interested in taking on Republican incumbents joked a Democratic Insider	forming	0	0	0
+18	F	Another summed up simply Thank you Steve Stockman	summed	1	0	0

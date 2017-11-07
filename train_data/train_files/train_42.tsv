@@ -1,0 +1,44 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Perhaps as Hannah Horvath decides what to do with her life she should consider graduate school	consider	1	0	1
+2	O	The students and professors in the ivory tower have already begun considering her	begun	1	0	1
+3	F	Horvath Lena Dunham s alter ego in the HBO hit show Girls was the subject of a panel discussion at the Modern Language Association convention in Chicago this month an annual gathering of thousands of literature scholars	s	0	0	1
+4	F	Girls and the F Word as the panel was called featured papers on topics such as My Shoes Match My Dress Kind Of The Politics of Dressing and Nakedness in Girls She s Just Not That Into You Girls Dating and Damage and Dancing on My Own Popular Music and Issues of Identity in Girls	Girls	1	0	0
+5	O	At one point according to Nancy Miller a professor at the Graduate Center of the City University of New York and a respondent on the panel discussion turned on what was exactly meant by the F Word in the group s title Female feminist fucking or fat READ MORE 16 and Abstinent Within the next year two new essay collections about the show are expected to be published	expected	1	0	1
+6	F	One called HBO s Girls Questions of Gender Politics and Millennial Angst is being put out by a Greek professor of film theory and a social policy professor SUNY	put	0	0	0
+7	O	It features essays like I Want Somebody to Hang Out With All the Time Emotional Contradictions Intimacy and Dis Pleasure which according the introduction of the book uses textual analysis to examine the ways sex is portrayed between Hannah and two of her partners to discuss how Dunham represents intercourse intimacy and emotional conflict	features	1	0	1
+8	F	Or try Girls An Economic Redemption Through Production and Labor in which a University of Arkansas education academic offers a rich theoretical background on labor through a Marxist lens and addresses the criticisms Dunham has received regarding the show s focus on a seemingly privileged group of educated young millennials	try	1	0	1
+9	F	The second anthology set to arrive later this year is called HBO s Girls and the Politics of Race Gender Class and Privilege	called	1	0	1
+10	O	Although it is not possible to get a degree in Dunham Studies quite yet the hallowed halls embrace of the show should not surprise not in an academic environment where Jersey Shore had an entire conference at the University of Chicago devoted to it and where Rutgers University offers a class on the theology of Bruce Springsteen	surprise	1	1	1
+11	O	Tahneer Oksman the director of the writing program at New York s Marymount Manhattan College said she proposed the panel even though she s not a part of the early twentysomething liberal arts graduate cohort the show valorizes I don t dress well enough to be comfortable in Williamsburg for example	said	1	1	1
+12	O	She said the idea came to her because at the previous year s MLA most of her colleagues were discussing the show over coffees between sessions	said	0	0	0
+13	O	We talk a lot in academic circles about breaking down the wall there is an academic MLA conversation that happens and then an everyday conversation about what goes on in the media and the idea is these should not be separate discussions Oksman said	talk	1	0	0
+14	O	I was a bit surprised they accepted it actually	was	1	1	0
+15	O	Many scholars pointed out that even though Girls is a half hour comedy it attempted from the very start to announce itself as something more significant with a stoned out Horvath proclaiming to her parents in the first episode I think I might be the voice of my generation or at least a voice of a generation	pointed	1	0	0
+16	O	And even before the first episode aired journalists and cultural critics seemed to treat it as such	seemed	1	0	1
+17	F	Deconstruction third wave feminism there are a lot of newfangled theories that I think can be read into Girls said Margaret J. Talley the co editor of HBO s Girls Questions of Gender Politics and Millennial Angst	said	0	0	0
+18	F	There are questions on authorship uses of humor and irony among irony natives	are	0	0	0
+19	F	Academics are a lot less in the clouds than they used to be	are	0	1	1
+20	O	If anything it seems as if there could be a dispute about which corner of the campus will claim the show as its own	claim	1	0	0
+21	O	Elwood Watson co editor of HBO s Girls and the Politics of Race Gender Class and Privilege said the show could be read from a psychological perspective a philosophical perspective a gender perspective a historical perspective an anthropological perspective a sociological perspective	said	0	0	0
+22	O	It has everything really	has	1	0	0
+23	F	Indeed one chapter in Talley s volume examines Girls through the lens of Queer Theory because the women in the show try to exempt themselves from the reproductive culture which ensure the futurity of the Child and the fantasy of wholeness allowing single white females to occupy the queer space	examines	1	0	1
+24	O	In another chapter titled Occupy Girls Millennial Adulthood and the Cracks in HBO s Brand a scholar argues that the show criticizes politicians who dismissed the Occupy Wall Street protests by portraying a group of well educated young women who remain unable to find meaningful employment due to recent convulsions in the global economy	argues	1	1	1
+25	O	To me the most interesting thing about the show is the critical response it gets from the audience said Oksman	is	1	0	0
+26	F	People love the nudity or hate the nudity	love	0	0	0
+27	O	The complications of race or class either ruin the show for them or they like how it complicates these issues	complications	1	0	0
+28	O	You don t get that kind of negative reaction about shows that try to do the same thing from a male perspective she added pointing out that complaints about the all white all middle class milieu of Breaking Bad or Mad Men were almost unheard of	don	1	1	1
+29	F	The show is only in its third season but a number of academics interested in Girls said there is likely to be more critical inquiry to come	is	1	1	1
+30	F	It is part of the rise of cultural studies which came to authorize any cultural object as being worthy of study said CUNY s Miller	is	0	1	0
+31	F	There is really no object too small too limited or too ostensibly vernacular to be studied	is	1	0	1
+32	F	It is open season on just about anything	is	1	0	0
+33	O	Miller said the show could be placed alongside Gertrude Stein and Roland Barthes in a course on self representation and can be read in a long tradition of feminist theory especially considering the lengths to which Dunham goes to expose her unconventional from a movie star perspective that is body type	said	1	0	0
+34	O	I think there is something fascinating about this sense that not only are there certain kinds of bodies that can be considered sexually attractive or have happy endings and in that sense the show is feminist and is a constant provocation	think	1	1	0
+35	F	The body in the show is very hard to get around	is	1	1	1
+36	O	And she noted as well that although Dunham often looks glamorous when photographed off the set witness this month s Vogue on Girls She dresses in a way that could not make her look worse	noted	1	1	1
+37	F	It is a notion that has caught on among scholars in the burgeoning field of Fashion Theory who have studied the show	is	0	0	0
+38	O	I am using the show within a framework of work on nudity and clothing said Laura Scroggs a graduate student at the University of Minnesota Twin Cities	said	0	0	0
+39	O	Fashion theorists have been talking about this idea of how clothing shapes the naked body so that whenever we see a unclothed body it is automatically shaped by the clothing we expect it to wear	been	1	0	1
+40	F	Part of the critical reception identifies Lena Dunham s naked body as unacceptable or gross	identifies	0	0	0
+41	O	It is actually a reaction to her poorly fit clothing	is	1	0	0
+42	F	As a fashion theorist it is interesting to think about how the naked body is performative in certain aspects	is	1	1	1
+43	O	If all this seems unworthy of critical inquiry by the academy Dunham ologists like Miller say just see what some of their colleagues are working on	ologists	1	0	1

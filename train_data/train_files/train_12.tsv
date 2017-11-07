@@ -1,0 +1,38 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Capitol Hill right now	Hill	1	0	0
+2	O	Between Chris Christie and Bruce Springsteen and the Oscar nominations and the Justin Bieber cellphone controversy it got kind of lost	Between	1	0	0
+3	F	But one fact about this new budget is worth contemplation	is	0	1	0
+4	O	It carries forward the culture war over light bulbs	carries	0	0	0
+5	O	Yes light bulbs	Yes	0	0	0
+6	O	And the reasons for the light bulb culture war Well pretty much the same reasons for the rest of the culture war	And	1	0	0
+7	F	Light bulbs became culture war fodder about three years ago when they started to look like curly fries at Arby s. They started costing more	became	1	0	1
+8	O	They got funny	got	0	1	0
+9	O	And confusing	And	0	1	0
+10	F	Now we had to learn about things like lumens which sounds vaguely European like some legume favored by those socialized medicine loving people of Scandinavia	had	1	1	1
+11	O	Of course this happened after Obama became president	happened	1	0	0
+12	O	And of course libruls and gummint people started talking them up	started	0	0	1
+13	F	But it was George W. Bush s Department of Energy that got this ball rolling back in 2007 and the light bulb industry immediately embraced the switchover to CFL bulbs compact fluorescents the squiggly spiraley ones because they had the technology on hand to start making them and capture market share	was	1	0	1
+14	F	They last far longer than incandescent bulbs and save enormous amounts of energy	last	1	0	0
+15	F	If every American household replaced 15 old style bulbs with 15 CFLs or better yet LED bulbs the ones that often have that kind of fan like look on the narrow part of the body leading up to the bulb we d save an equivalent of more than 40 power plants energy output	replaced	1	0	0
+16	O	But as Groucho sang in Duck Soup Whatever it is I m against it and so it is with conservatives If liberals are for it they automatically turn anti	is	1	0	0
+17	O	A study last spring by a researcher at the University of Pennsylvania found the following She took two sets of liberals and conservatives and explained to them that CFL bulbs cost more upfront but saved money over the long haul and could reduce our dependence on foreign energy sources	found	1	0	0
+18	O	At this point liberals and conservatives reacted with more or less equal enthusiasm	reacted	1	0	0
+19	O	But then As Grist reported it Slap a message on the CFL s packaging that says Protect the Environment and we saw a significant dropoff in more politically moderates and conservatives choosing that option said study author Dena Gromet	Slap	1	0	1
+20	O	So if official educated seeming people say it s good for the planet oppose it	So	0	1	0
+21	O	Even if you liked it before you knew it was good for the planet	liked	1	1	0
+22	F	Michele Bachmann was once the czarina of this counter revolution but now that she s leaving this constituency has its heroic avatar in the person of Mike Burgess a congressman from where the hell else Texas	was	1	0	1
+23	O	Burgess is a medical doctor a credential that s supposed to make people like me think twice before we make sport of him	is	1	1	1
+24	O	But I say the evidence is increasing year by year that the medical profession is providing us with some of the looniest reactionaries we ve ever seen roam those halls	say	1	0	0
+25	O	Maybe Rand Paul would actually support the 1964 Civil Rights Act if he d spent a little less time studying the ocular nervous system which a political leader doesn t need to know the first thing about anyway and more reading his Southern history which I damn well want my political leaders to know everything about	support	1	0	1
+26	F	In any case Burgess likes to rail against these pushy liberals and their tricky communistic light bulbs	likes	0	0	1
+27	F	He recruited Joe Barton a fellow Texan and Tennessee s Marsha Blackburn not exactly the House s brightest bulbs to draft pro old bulb legislation	recruited	1	0	0
+28	F	In this budget he s tucked in a provision that would bar funding for enforcement of the new light bulb standards	tucked	0	0	0
+29	F	The Washington Post s Brad Plumer notes that it isn t going to make much difference as GE and Sylvania and the other biggies are firmly committed in production terms to the new bulbs	notes	1	0	0
+30	O	This is just so far beyond ridiculous	is	1	0	0
+31	F	Light bulbs as a source of elitist resentment Conservatives get angry when liberals sneer at them for being stupid and sometimes liberals are condescending and conservatives have a right to be angry	get	1	1	0
+32	F	But another way to keep people from sneering at you for doing stupid things is not to do such stupid things	is	0	0	1
+33	O	What s going to happen when someone finally invents practical affordable post internal combustion future and we can all afford cars that no longer burn gas You know exactly what s going to happen	afford	1	0	1
+34	F	The major car companies will adapt and most of us will too	adapt	1	0	0
+35	O	But there will surely arise a car company that will make gas guzzlers the likes of which we ve never seen and it will be based no doubt in Texas catering to all who don t want to give up their freedom	arise	1	0	1
+36	O	In the meantime maybe GE can invent a CFL bulb that doubles as something you can affix to the end of your shotgun and take out into the woods and kill endangered species with	invent	1	0	0
+37	O	Then the Texans ll snap em up	snap	1	0	0

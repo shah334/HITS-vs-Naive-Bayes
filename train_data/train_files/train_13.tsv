@@ -1,0 +1,53 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Sixteen years ago futurist and sci fi writer David Brin imagined a world where cameras and censors would be everywhere and everyone would have access to them whenever they wanted	have	1	0	0
+2	O	Far from an Orwellian nightmare of Big Brother Brin was optimistic despite his resignation that nothing could be done about the proliferation of cameras and sensors soon to be engulfing us	was	1	1	0
+3	F	The cameras are coming	coming	0	0	0
+4	O	They re getting smaller and nothing will stop them	re	0	0	1
+5	O	The only question is who watches whom Brin asked in a 1996 Wired article that became his 1998 book The Transparent Society Will Technology Force Us to Choose Between Privacy and Freedom If everyone could see every camera at any time or access any sensor Brin hoped it might produce better accountability of the powerful	is	0	0	1
+6	O	But it might just produce some of the more narcissistic and voyeuristic tech imaginable	produce	1	0	0
+7	O	Instead of using the latest tech to monitor government expose bad corporations or stop cop brutality we re using it to record our entire lives with ourselves as the star	expose	1	0	1
+8	F	So it appeared this past week at the Consumer Electronics Show in Las Vegas	appeared	1	0	0
+9	O	The main event may have been the big corporate tech firms at Las Vegas Convention Center but the energy was at the Venetian casino where entrepreneurs willing to bet big descended on a weary crowd walking aimless searching for that next big thing	been	1	0	1
+10	O	Will it be 3D printers Virtual reality 4KTVs Self driving cars Networked appliances My wife and I would walk to all of these exhibits and talk to many eager salesmen and show girls	be	0	0	0
+11	F	Fortunately she bought me a FitBit Flex to take 10 000 steps everyday to lose weight	bought	1	0	1
+12	F	My little FitBit got a work out on the show room floor averaging over 13 000 steps a day	got	0	0	0
+13	O	Unfortunately I was soon to learn that my FitBit at the dawn of the age of wearables for everything was lame	was	1	1	1
+14	F	There are wearables for bikers for hikers for runners golfers and even jewelry	are	1	0	0
+15	O	Sometimes this technology is a little too complicated to be of much use	is	1	1	1
+16	O	Boogio for instance allows users to play games using a shoe wearer s center of balance not typically a compelling need	allows	1	0	0
+17	O	You might be wondering in the age of Snowden why you d want to keep all of this fitness data accessible by anyone let alone share it publicly	wondering	1	0	1
+18	O	If the NSA reading your email is a concern what might pols like former New York Mayor Michael Bloomberg do with the power to see how often you are or aren t working out If government can force you to buy insurance why can t it force you to wear wearable tech that monitors your heart rate or cholesterol Why can t your insurers tell you to turn over your lifelogging data For now that isn t on the radar	is	1	1	1
+19	O	Besides there s a real question about whether or not Nike FuelBand the FitBit or the Jawbone or any of the other wearable tech measure anything of value so keep that in mind if you worry that the government and the corporate world are literally monitoring your every step	keep	1	0	0
+20	O	And aesthetically there s a lot to be desired especially for the ladies who will drive the fashion trends necessary for FashionWare to take off	s	1	0	1
+21	F	Samsung and Pebble unveiled but millennials who grew up with smartphones that have clocks on them haven t been wearing watches for years	unveiled	0	0	1
+22	O	Still these wearable and camera entrepreneurs are hoping what happens in Vegas doesn t stay there but launches them to the next level even if their tech doesn t always deliver	hoping	1	0	1
+23	O	You can almost hear their gears turning when you ask about how they ll monetize their creations	hear	1	0	0
+24	O	There s data data everywhere and every a bit of it to analyze but just what they ll analyze is anyone s guess	s	1	0	0
+25	O	Voyce for example offers dog owners the chance to understand your dog like never before but mostly just tracks the dog s breathing and heart rate	offers	1	0	0
+26	O	It s FitBit for dogs	s	0	0	0
+27	O	Modiface lets women a chance to test out makeup before they buy it by taking a picture and seeing what the makeup looks like on the photo	lets	0	0	0
+28	F	Another Korean company allows them to try on dresses though whether or not it would work on non Korean body types was up for vigorous debate by a conference participant when my wife and I walked by	allows	1	0	0
+29	O	Many of the software and hardware companies displayed a paranoid streak which may owe more to their Kickstarter origins than R D funding	displayed	0	0	0
+30	O	But crowdfunding isn t necessarily delivering the wisdom of crowds to CES	crowdfunding	1	0	0
+31	O	Sometimes the mob doesn t know what it wants but if Kickstarter or Indiegogo do winding up revealing what people want by showing what they are willing to fund tech in 2014 has gone paranoid	know	1	1	1
+32	O	A few startups make this abundantly clear	make	1	0	0
+33	F	New York city based Canary offers a souped up nanny cam complete with artificial intelligence that will alert you if your apartment has been broken into	city	0	0	0
+34	F	PhoneSoap disinfects your cell phone for 50 bucks with ultraviolet light in less than four minutes	disinfects	0	0	0
+35	O	If this seems like the nanny state gone crazy at least one company has given up all pretense and created a device to nag you into doing the things you should	gone	1	1	0
+36	O	They call the product mother	call	0	0	0
+37	O	There s the MomBrush which teaches kids how to brush their teeth when Mom is too busy	s	1	1	1
+38	O	It even grades the child on her brushing	grades	1	0	0
+39	O	Not even infants are free	are	1	1	0
+40	F	Mimo even has a machine washable onesie to monitors a baby s breathing and heart rate	has	1	0	0
+41	O	For all the MomTech on display it s hard to imagine moms shelling out for products designed by man children from Silicon Valley	s	0	1	1
+42	O	And some of the technology was clearly designed by people with too much time and money on their hands	designed	1	0	0
+43	F	For example National Public Radio developed radio for the deaf that reads out NPR radio on a screen	developed	0	0	0
+44	O	Just when the deaf person would use the technology wasn t clear	Just	1	0	0
+45	O	How often does anyone listen to the radio when you aren t driving And isn t reading a transcript while you are driving kind of dangerous Why not just read on the Internet Similarly the Kapture is an audio recording wristband for saving and sharing what was just said according to its brochure	listen	1	0	0
+46	O	Why not just ask the person what they just said And just how many wristbands are we all going to wear anyways Right next door was Narrative which takes pictures as you go about your day	ask	1	1	1
+47	O	Autographer is Narrative for video but made by Brits bulky and expensive	is	0	1	0
+48	O	The coolest tech at CES were the drones especially AirDroids Kickstarter financed 500 Pocket Drone but if you are journalist don t think about flying a drone without federal approval think again	were	1	0	0
+49	F	The FAA banned two journalism schools from using drones for journalistic reports even though they have proven instrumental in filming disasters abroad	banned	1	0	0
+50	O	The BBC has used drones in its reporting but American journalists are still prohibited from flying here in the U.S. Founder Responds to FDA The FAA makes clear that there is no gray area for journalism	used	1	1	0
+51	O	Sadly this very promising technology looks to be grounded for the moment	looks	1	0	1
+52	O	You can t watch the watchers from the sky yet	watch	0	0	0

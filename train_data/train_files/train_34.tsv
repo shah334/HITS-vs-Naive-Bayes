@@ -1,0 +1,60 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	A new chapter in the disturbing saga of America s last and only prisoner of war in Afghanistan began Wednesday when CNN reported that the U.S. military now has a recent video of Army Sgt. Bowe Bergdahl	Bergdahl	1	0	0
+2	F	Allies of the Taliban captured the idealistic young soldier from Idaho on June 30 2009 near the Afghanistan Pakistan border and since then his story of confused motives failed hopes and unbearable horror has become a kind of metaphor for all that s gone wrong in America s longest war	captured	0	0	0
+3	O	Whether Bergdahl 27 just walked away from his base or was lagging behind on a patrol at the time of his capture remains an open and fiercely debated question	walked	1	0	0
+4	F	A few weeks after he went missing after the Taliban released the first of several videos of their prisoner a retired lieutenant colonel punditing on Fox News called Bergdahl a liar and suggested he d abandoned his buddies in wartime	went	0	1	0
+5	O	I don t care how hard it sounds said Ralph Peters author of several macho thrillers the Taliban could save us a lot of legal hassles and legal bills presumably by killing him	said	1	0	0
+6	O	But despite the ferocious criticism from some Congressional Republicans and some ambivalence in its own ranks the Obama administration has worked hard to try to track Bergdahl s captors and to negotiate his release	worked	1	0	1
+7	F	Those holding him are part of the Haqqani Network which has very longstanding ties to the Pakistani military intelligence service	are	1	0	0
+8	F	In 2012 the Americans came close to winning Bergdahl s release in exchange for five prisoners at Guantanamo but his captors backed out of the deal	came	1	0	0
+9	F	The Daily Beast reported that Bergdahl had escaped briefly from the men holding him after he lulled them into thinking he would cooperate and perhaps that he sympathized with their cause	reported	1	0	0
+10	O	Sources among the Afghan militants told Beast reporter Sami Yousafzai that Bergdahl had learned to speak some Pashto the language of the men holding him	told	0	0	1
+11	O	He dressed as they did not least because they were afraid the ever present American drones circling over the region might spot him	dressed	1	1	0
+12	F	Then one night Bergdahl crawled out the window of the mud brick house where he was imprisoned and headed into the rugged countryside	crawled	1	0	0
+13	F	He found no refuge and two gunmen discovered him hiding in a trench he d tried to dig with his bare hands	found	0	0	1
+14	F	He fought like a boxer one Taliban source told Yousafzai and it took several militants to restrain him	fought	0	0	1
+15	O	Since then there has been virtually no public proof that Bergdahl remained alive	been	1	1	0
+16	O	But the new video reportedly in the hands of the military appears to have been recorded in December	appears	1	0	1
+17	O	It has not been released and reporters have not seen it but sources tell CNN it shows a man who looks like his physical and mental condition have been deteriorating	released	0	0	1
+18	F	The late Michael Hastings a passionate reporter about the Iraq and Afghan wars wrote a long profile of Bergdahl for Rolling Stone in 2012 that stands as the most detailed and convincing portrait of the soldier his personality his emotions and his attitudes toward the battlefield where he served	Hastings	1	0	0
+19	F	Bergdahl was raised in rural Idaho and diligently home schooled by parents who lived if not off the grid right on the edge of it	raised	1	0	0
+20	O	As a teenager he developed a passion for soldiering or rather the idea of it	developed	1	0	0
+21	F	He d learned to shoot when he was a little boy then he learned to fence and the not unrelated skill of ballet	learned	1	0	1
+22	F	For a time he moved in with the young woman who introduced him to the world of dance	For	0	0	0
+23	F	He romanticized combat	romanticized	0	0	0
+24	F	He was living in a novel his father remembered	living	0	0	0
+25	O	The first military organization that Bergdahl thought of joining according to his parents in their interviews with Hastings was the French Foreign Legion	was	0	0	1
+26	F	But France turned him down	turned	0	0	0
+27	F	So he enlisted in the U.S. Army in 2008 at the height of the Pentagon s propaganda about the success of COIN or counter insurgency strategy in Iraq and its potential to win hearts and minds and stabilize the country of Afghanistan	enlisted	0	0	1
+28	F	Bergdahl was so into the mission during the training that others in his unit called him Mr. Intensity	was	1	0	0
+29	F	While they were thumbing copies of Playboy and zapping the enemy in video games during their down time Hastings reported Bergdahl surrounded himself with piles of books including Three Cups of Tea about a humanitarian crusade to educate girls in Pakistan and Afghanistan as well as instructions on Zen meditation and an introductory ethics handbook with writings from Aristotle Augustine Kant and Hume	surrounded	1	0	0
+30	O	But as happens so often with soldiers in the field once Bergdahl was in the combat zone his illusions about the virtues of the mission evaporated	was	1	0	0
+31	O	One of his buddies said that when Bergdahl got the chance he spent more time with the Afghans than he did with his platoon	said	1	0	0
+32	O	Bad leadership and worse commanders rapidly sapped the morale of his unit which became notorious for its lack of discipline	leadership	1	1	0
+33	O	If this deployment is lame Bergdahl supposedly told one of his buddies I m just going to walk off into the mountains of Pakistan	told	1	1	0
+34	O	The cynical sometimes seemingly casual disregard for Afghan lives appalled the young private	appalled	1	0	0
+35	F	He saw an American armored vehicle run over a little girl and his parents told Hastings that may have been a turning point for him	saw	0	0	0
+36	O	The future is too good to waste on lies Bergdahl wrote to his parents in an e mail three days before his capture	is	1	1	1
+37	O	And life is way too short to care for the damnation of others as well as to spend it helping fools with their ideas that are wrong	is	1	1	1
+38	O	I have seen their ideas and I am ashamed to even be american sic	seen	1	1	1
+39	F	The horror of the self righteous arrogance that they thrive in	horror	0	0	0
+40	O	It is all revolting	is	1	1	0
+41	F	The system is wrong Bergdahl wrote	is	0	1	0
+42	O	The US army is the biggest joke the world has to laugh at	is	0	0	1
+43	O	It is the army of liars backstabbers fools and bullies	is	0	0	0
+44	F	The few good sergeants are getting out as soon as they can and they are telling us privates to do the same	getting	1	0	1
+45	F	I am sorry for everything here Bergdahl wrote in that last e mail from Afghanistan	am	1	1	0
+46	O	These people need help yet what they get is the most conceited country in the world telling them that they are nothing and that they are stupid that they have no idea how to live	need	1	1	0
+47	F	We don t even care when we hear each other talk about running their children down in the dirt streets with our armored trucks We make fun of them in front of their faces and laugh at them for not understanding we are insulting them	don	1	0	0
+48	F	Bergdahl concluded his e mail saying the horror that is america is disgusting	concluded	0	1	0
+49	F	And three days later he was gone	gone	1	0	0
+50	O	Despite the passion of the e mail it is not clear whether Bergdahl intended to desert defect to the Taliban or perhaps more likely to go try his survival skills honed growing up in Idaho on his own in the wild mountains of Afghanistan and Pakistan	is	1	1	1
+51	F	In the first video released by his captors he said he had fallen behind on patrol then repeated some boilerplate propaganda similar to his own sentiments	In	1	0	0
+52	F	It s not surprising under the circumstances that some in Congress and in the military oppose trading any Guantanamo prisoners for Bergdahl	s	0	0	1
+53	O	But U.S. officials say they continue to work for his release	say	0	0	1
+54	F	A portrait of him has been displayed prominently at the U.S. military s Central Command headquarters	displayed	1	0	0
+55	F	His hometown of Hailey Idaho is garlanded with yellow ribbons and his father a UPS employee who has grown a bushy Pashtun style beard says he lives through his imagination with his son in the mountains where he s being held	garlanded	0	0	0
+56	F	He even sets his watch to Afghan time	sets	1	0	0
+57	F	Sgt. Bowe Bergdahl has been gone far too long and we continue to call for and work toward his safe and immediate release said a Pentagon spokesman in answer to CNN s inquiries about the new video	gone	1	0	1
+58	O	We can not discuss all the details of our efforts but there should be no doubt that on a daily basis using our military intelligence and diplomatic tools we work to see Sgt. Bergdahl returned home safely	returned	1	0	1
+59	F	He has continued on active duty and received promotions for time served	continued	0	0	0

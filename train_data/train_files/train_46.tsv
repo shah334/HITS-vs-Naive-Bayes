@@ -1,0 +1,35 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Yesterday I made a new friend	made	0	0	0
+2	F	Senator Rand Paul the filibustering anti drone fresh faced Kentucky Republican Party savior got a Snapchat account	faced	0	0	0
+3	O	The move was indicative of an ingrained GOP tendency to incorporate misguided attempts at connecting with the youth see Mitt Romney s legendary Who Let the Dogs Out reference	was	0	1	1
+4	F	 I received Paul s first snap a little after 11 am EST.	received	1	0	0
+5	F	It was a short inoffensive video message which simply stated thanks for the follow Of course I took a quick screenshot of it as the rest of the conscious general public did documenting this historic moment	was	1	0	0
+6	F	The snap remained in the Snapchat Stories section of the app allowing me to replay it over and over again throughout the day	remained	1	0	0
+7	O	Paul s positioning in what was presumably his Hill office became hilarious upon revisits	s	1	1	1
+8	F	He clearly had an intern hold his phone at a distance of at least five feet away assuming some kind of feigned sense of official authority will sending a glorified selfie	had	1	0	0
+9	O	It reminded me of Donald Trump s epic but short lived series of vines except the bird nest coifed billionaire opted for a much more intrusive and intimate approach	reminded	1	0	0
+10	F	The rest of the universe caught onto the new availability of Paul and everyone from Time to POLITICO reported on this unprecedented access	rest	0	0	0
+11	F	A thought piece even emerged alleging that Paul was appealing to Snapchat for financial incentives	emerged	1	0	0
+12	F	As the day wore on and another more risque snap emerged from Paul s account I began to wonder whether other people were sending him responses	emerged	0	0	1
+13	O	I speculated that this was opening the door to a series of disturbing images ranging from political lambasting to outright Weiner esque sexting	speculated	0	0	0
+14	O	The pitfall of the app is that screen shotting aside it offers people the obvious ability to send graphic pictures with or without hilarity inducing captions	is	0	0	1
+15	F	Except this time the recipient is a member of the United States Senate	is	0	0	0
+16	O	So I decided to test Paul to see if he meant business with this new avenue of public engagement	decided	0	0	1
+17	O	Later in the evening after the second of the day s two snaps from the office of Paul I sent the following the picture with a friend of mine\t The picture is completely innocuous despite its obvious lack of accuracy Paul s current term lasts until 2015	snaps	1	1	0
+18	O	But it was a good means of testing the water to see if his office would respond to constituents or even open the message itself	was	1	0	0
+19	O	At this point in the evening he had undoubtedly received thousands of these snaps which barring consistent checks from an armada of interns would have likely remained unopened lying in a dormant cesspool of peculiar pictures and videos with scribbles on them	received	1	1	0
+20	O	I decided to bide my time and see if Paul would say anything hoping that in some bizarre and unlikely twist of fate he would have chosen my snaps as the ones to which he d respond	decided	0	0	1
+21	F	And I wasn t the only one communicating with the Senator from TK on this medium	wasn	0	0	0
+22	F	BuzzFeed s Rosie Gray was too and she was excited when Paul eventually Snapchatted her back	s	1	0	0
+23	F	Better yet she got mooned	got	1	0	0
+24	O	 It s okay Rosie	s	0	1	0
+25	F	The Daily Dot s Molly McHugh snagged the Snap	s	0	0	0
+26	F	On her Twitter Rosie writes of the experience ok you guys might not believe this but the snapchat from Rand Paul was a picture of the moon and it said You ve Been Mooned	On	0	0	0
+27	O	She continued and then it said Better take a screenshot fast but I was too slow	continued	1	1	0
+28	F	 CNN s Peter Hamby in attempting to nail down an interview discarded the standard approach of emailing the press office and waiting for a call instead going with Snapchat to contact the senator	discarded	1	0	1
+29	O	A new kind of journalism  Founder Responds to FDA In Snapchatting the Senator from Kentuky I could feel a mixture of tangible power and a potential for debilitating shame	feel	0	0	0
+30	O	I felt power for realizing that an elected official could potentially see an image of whatever we the people wanted which in some respects is for better or worse an amazingly direct pipeline to the American government	felt	1	0	0
+31	O	And I felt shame for understanding that with this power this is what we and presumably most of America might chose to do	felt	1	0	1
+32	O	Snapchat is not going to change the way in which citizens can directly communicate with their elected officials at least I don t think so but even if this was a functional means of touching base it s pretty clear we would all abuse it in every which way possible	s	1	1	1
+33	O	 As I went home and revisited my Snapchat I assumed that Paul would have gone to bed without ever seeing any of my Snaps can we call them that	call	1	0	0
+34	O	Despite my assuredness I checked to see what had happened to the images I had sent to the senator Paul or his interns or official Snapchat manager or a combination of the three had seen my messages Maybe he really did sit there and comb through every single Snap he received throughout the day whether it was eagerly done to see the opinions of his constituents or for fun	checked	1	0	1

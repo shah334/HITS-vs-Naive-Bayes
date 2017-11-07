@@ -1,0 +1,22 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Richard Clarke a former White House counter terrorism adviser and member of President Obama's intelligence review panel rejected the notion today that the administration's proposed overhaul of NSA surveillance amounts to a pre 9 11 mindset	rejected	0	0	0
+2	O	There's nothing in any of these decisions that will make the United States less secure said Clarke who served four American presidents and is an ABC News consultant	's	1	0	0
+3	O	There's nothing in any of these decisions that will make it more difficult to fight terrorism	's	1	0	0
+4	O	These are decisions that allow us to continue a strong counter terrorism intelligence program while at the same time having more transparency he said	are	0	0	1
+5	O	And it is possible to do both	is	0	1	1
+6	F	Obama's proposals details HERE have drawn attacks from both security hawks and privacy advocates	drawn	1	0	0
+7	O	Some say the changes would harm the ability to track terrorists while others claim the changes billed as boosting privacy protections are merely cosmetic	say	1	1	0
+8	O	It's a pre 9 11 mindset and makes me feel uncomfortable former NSA and CIA director Gen. Michael Hayden told MSNBC	's	0	1	0
+9	O	The requirement effective today that the National Security Agency must obtain a court order before querying phone metadata feels like Sept. 10th Hayden said	requirement	0	1	0
+10	F	Sen. Rand Paul who is suing the administration over the surveillance programs said the bulk collection of telephone metadata will continue largely unabated	said	1	0	0
+11	O	What I think I heard is ` If you like your privacy you can keep it but in the meantime we're going to keep collecting your phone messages and emails' he told CNN	think	0	0	1
+12	O	Asked about both critiques Clarke said the proposals Obama announced today effectively balance two competing national priorities	said	1	0	0
+13	O	There's really no substantive difference for the counter terrorism program	's	1	0	0
+14	O	The counter terrorism program will still be able to access the information Clarke said of the metadata collection	be	1	1	1
+15	O	It will just have to wait for a Foreign Intelligence Surveillance Act court and we've been able to see FISA courts give approval in a matter of a day or less	have	1	1	1
+16	O	Clarke also praised the addition of an independent privacy advocate at the secret court to explain the other side of the issue and explain to the judges that it might be possible to do the very things the country needs in some other way	praised	1	1	1
+17	F	The five member review panel of which Clarke was a part offered 46 recommendations to Obama	was	0	0	0
+18	O	He did not adopt all of them	adopt	0	0	0
+19	O	Of that number he's accepted about 35	accepted	1	0	0
+20	F	He's rejected about 5 and he's put the rest into a 6 month review Clarke said	rejected	1	0	0
+21	O	So we're batting about 750 and that's not bad	batting	1	1	0

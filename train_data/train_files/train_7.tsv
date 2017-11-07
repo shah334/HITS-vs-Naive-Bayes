@@ -1,0 +1,94 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	The tale of how tasteful London became a heavyweight art world contender in the 90s is a remarkable one that Joshua Compston played a dramatic part in	became	1	1	0
+2	O	A new exhibit Factual Nonsense A Guide for the Perplexed at the CHART Gallery in London examines the legacy of the often aggravating prodigy who came up with an innovative series of curatorial ideas that would later be widely adopted who single handedly turned down at the heels neighborhoods Hoxton and Shoreditch into socio cultural Alpha zones and who died after ingesting ether in March 1996 either at or after leaving the Jean Michel Basquiat opening at the Serpentine Gallery	exhibit	1	0	0
+3	F	Basquiat had overdosed in 1988 at the age of 28	overdosed	0	0	0
+4	F	Compston as he had often predicted died at 25	Compston	1	0	0
+5	F	By then he was broke and his gallery was cratering	broke	0	0	0
+6	O	The following year Charles Saatchi s show Sensation opened at the Royal Academy and the artists Compston had promoted and pestered went into orbit as the YBAs Young British Artists	opened	0	0	0
+7	F	They were soon even tabloid famous	were	1	1	0
+8	F	Joshua Compston was a posh boy his father a high court judge his grandfather a rear admiral	was	0	0	0
+9	O	He homed in on art early arriving on Peter Blake s doorstep when he was 12 with a collection of ephemera he thought the artist might fancy	homed	1	0	0
+10	F	He attended the venerable Courtauld Institute and decided to shake it up by showing the art being made by the then unnamed YBAs	attended	1	0	1
+11	F	In search of moolah to support this operation he wrote to the 500 names on The Sunday Times s Rich List	In	0	0	0
+12	O	The collector Jeremy Fry came up with the necessary funds and was sufficiently impressed by the teenager s derring do that he brought the Duchess of Westminster aboard as a co sponsor	came	1	0	1
+13	O	Compston managed all this without the say so of the Courtauld which sent him a stinging letter	managed	0	0	0
+14	O	But Compston plunged on	plunged	0	0	0
+15	O	The show which opened in 1991 featured a bevy of young artists including Damien Hirst Gavin Turk and Langlands Bell alongside such comparative elders as Gilbert George who had met the teenage impresario and been quite impressed and Howard Hodgkin	featured	1	1	0
+16	F	Later that same year he opened a gallery Factual Nonsense	opened	1	0	0
+17	O	As a gallerist just as he had been as a wan na be artist Compston was thoroughly YBA ish in his rejection of genteel Formalism his love of picking up everyday stuff in the fashion of Kurt Schwitters and his gleeful body parts morbidity but he had a messianic streak that was uniquely his own	As	1	1	0
+18	O	What with his love of manifestoes his utopian stridency and his rejection of art market mores Compston s writings bring to mind the revolutionary ideas of the Situationist International movement a generation before	bring	0	0	0
+19	O	It was this streak that had led him to open Factual Nonsense at 44 Charlotte Street in Hoxton	was	0	0	1
+20	F	Most people never knew the area existed says Darren Coffield an artist who put together a book of interviews Factual Nonsense The Art and Death of Joshua Compston which was published last year	says	0	0	0
+21	O	It really looked at that time as if the art world was actually going to be based in Notting Hill Portobello	looked	1	0	1
+22	O	That s where most of the new contemporary art galleries were moving to	s	1	0	0
+23	F	Compston opened with a sequence of shows including one of the brilliant shambolic Manhattan artist the late Dan Asher	opened	0	0	0
+24	O	But it was The Fete Worse Than Death an art village fair in the summer of 93 that brought both the gallery and Hoxton into focus so far as the London art world was conderned	was	1	0	0
+25	O	Participants at the revels included Tracey Emin Sarah Lucas Mat Collishaw Gary Hume Gillian Wearing Angus Fairhurst and Damien Hirst	included	0	0	0
+26	O	Emin had a kissing tent	had	0	0	0
+27	F	Gary Hume dressed as a Mexican dandy and sold tequila slammers	dressed	0	0	0
+28	F	Fairhurst and Hirst wore clown costumes got drunk and ruined their outfits while making spin paintings	wore	0	1	0
+29	F	Hirst describes the scene in Coffield s Factual Nonsense saying Leigh Bowery did our make up and painted our cocks and bollocks	describes	0	0	0
+30	F	I had spots painted on mine and we charged 50 pence for a spin painting and 50 pence to see our bollocks	had	0	0	0
+31	F	We made more money off the bollocks	made	0	0	0
+32	O	According to others the paintings went for a pound each and the book is not short of former fair goers lamenting that their spins somehow went missing	went	1	1	0
+33	O	Death was an organizational disaster and a massive success	was	0	0	0
+34	O	The Fete Worse Than Death II the following summer was more put together and even more successful but Compston a prolific ideas man with negative money managing skills contrived to lose dough on both	put	1	1	1
+35	O	Hanging Picnic of 1995 Compston s next public outing was inspired by a commonplace London scene kitschy artworks being sold off the park railings down the road from the Ritz Hotel	inspired	0	0	0
+36	O	This time Compston corralled 27 artists including Gavin Turk Gary Hume Tracey Emin Tim Noble and Sue Webster future art stars all to participate and London Weekend Television LWT made a documentary of the event	corralled	0	0	1
+37	O	Coffield notes that LWT did not fork over any dough for Compston s pains	notes	0	0	0
+38	O	I could go on	go	0	0	0
+39	O	Compston had innovative ideas a plenty	had	0	0	0
+40	O	Es la Manera was a show of ... stuff	was	0	0	0
+41	O	Nowadays everybody is doing shows of stuff	doing	1	0	0
+42	O	Back then no one was	was	1	0	0
+43	F	He enlisted Gavin Turk to help design the Utopic Space Manifest an inflatable mobile museum kind of an art circus	enlisted	1	0	1
+44	F	Turk came up with a design modeled on lozenge shaped chewing gum	came	0	0	1
+45	F	It did not get made due to lack of financing but then Frieze went and did it which is annoying Aurel Scheibler the Cologne dealer observed	made	1	1	0
+46	O	Compston conceived of ventures on the edge where art meets life such as boxing matches	conceived	1	0	0
+47	O	This too was a still born but the extreme performance artist David Lesley would later put on box opera in New York	born	1	0	0
+48	F	In 1994 Compston named himself the chairman of FN Holdings Factual Nonsense with which he planned in a not at all explained way to manage creative real estate	named	1	0	0
+49	F	The FN butcher the FN baker and the FN candlestick maker he wrote	butcher	0	0	0
+50	O	He dreamed up Nonsense Clubs	dreamed	0	0	0
+51	F	Carsten Holler s Double Club which was both an artwork and an operating nightclub opened behind the Angel subway station London in 2008	opened	0	0	0
+52	O	There was a dark side to him too	was	1	0	0
+53	O	Very dark	dark	1	0	0
+54	O	Compston was a self harmer	was	0	0	0
+55	F	Joshua was quite dangerous Coffield says	was	1	1	0
+56	F	He would turn up at private views with distress flares and sticks of dynamite and stuff	turn	0	0	0
+57	F	He threw himself off a balcony	threw	0	0	0
+58	F	He held a cake knife to his throat at his birthday party in the Colony Room and the friend who tried to disarm him had to get 36 stitches	held	0	0	1
+59	O	Around the time he died somebody tried to deliver him dynamite with which he planned to blow up a chunk of public art he hated a monument to Alfred Hitchcock on Leonard Street	hated	0	0	1
+60	O	He wrote of wanting to torch the art world	wrote	0	0	1
+61	F	Just before his death Compston said that he was fearful of being imprisoned for debt	said	1	1	0
+62	F	The last show he planned was to be of artist designed coffins Jay Jopling who had opened the first White Cube in Mayfair in 1993 supported it	was	0	0	1
+63	O	But Gary Hume notes that this words addict improbably left no Last Words	notes	1	0	0
+64	O	No wonder those close to him differ on whether his death was a classic overdose a suicide or a death daring performance that just went too far	differ	1	0	0
+65	F	The packed funeral was at a Hawksmoor church close to Gilbert and George s house	was	0	0	0
+66	F	Gary Hume and Gavin Turk painted his coffin with a design by one of his heroes the art utopian William Morris and the pallbearers included Gary Hume Gavin Turk Aurel Scheibler Eric Franck and Jay Jopling	painted	0	0	0
+67	O	And now 18 years later how much awareness of Joshua Compston is there in the London art world Absolutely none Coffield says	is	1	0	0
+68	O	Absolutely none	none	1	0	0
+69	O	It s quite strange how what he did has been completely glossed over	s	1	1	0
+70	O	Joshua Compston was not blessed with diplomatic skills Coffield notes	blessed	0	0	0
+71	O	Joshua didn t really get on with Saatchi	get	1	0	0
+72	O	He wouldn t play Saatchi s game	wouldn	0	0	0
+73	O	And of course all these people had to kowtow and sell to Saatchi	all	0	0	1
+74	O	People might want to seem avant garde and stuff	want	0	0	1
+75	O	But they aren t. It wasn t just Saatchi though	aren	1	0	0
+76	F	I found him quite irritating says James Birch	says	1	0	0
+77	F	It was Birch who took Gilbert and George to China a trip on which Compston was invited missed the plane and came along later	was	1	0	0
+78	F	I said there s no point in talking to me Birch adds	said	0	0	0
+79	O	I really found him sort of annoying	found	1	0	0
+80	O	He s like a mosquito	s	0	0	0
+81	O	He never left people alone	left	1	0	0
+82	F	Damian Hirst has also said he found him annoying that he was always asking for things	Damian	1	0	0
+83	O	Jeremy Deller was one of a lengthy list of artists who refused to talk about Compston at all	was	1	0	1
+84	O	There s something else	s	1	0	0
+85	O	The artist Simon Bill observed to Coffield that there s a kind of Alzheimer s the art world has	observed	0	0	1
+86	O	It s got a bit like the fashion industry in that it can only survive by continually forgetting things so that everything looks new all the time	s	1	1	0
+87	O	This is particularly true of an art impresario who dealt in ideas and ephemera with mixed success especially in an art world unready for them	is	1	1	0
+88	O	Too early is too early	is	1	1	0
+89	O	All true	All	0	1	0
+90	O	But the art world is also terrific at recycling when it has sufficiently rich material to work with however difficult that material may be	is	1	1	1
+91	O	Or especially when it is difficult	especially	1	1	0
+92	F	Joshua Compston was part of the narrative	was	0	0	0
+93	O	It s time to give him his due	s	0	0	0

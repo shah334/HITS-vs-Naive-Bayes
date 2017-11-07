@@ -1,0 +1,23 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	After a whirlwind year of crippling partisanship bungled policy rollouts and a government shutdown most public figures are leaving this year with quite a few more chips to their image than they had in January	After	0	0	0
+2	O	Except maybe one	Except	1	0	0
+3	F	New Jersey Gov. Chris Christie a growing puzzle for Democrats and continuing headache for his fellow Republicans emerged as the winner of 2013 on the political stage according to a National Journal Political Insiders poll	emerged	0	0	0
+4	O	The lawmaker's good year is something insiders Democratic and Republican influencers on the Hill can agree on	is	0	0	0
+5	F	Sixty percent of Democrats said Christie had the best 2013 of political figures while 71 percent of Republicans said the same	said	0	0	0
+6	O	The runners up were barely any competition with former Secretary of State Hillary Clinton scoring 24 percent from Democrats and Sen. Ted Cruz R Texas pulling a mere 11 percent from GOP insiders	were	1	0	0
+7	O	Nobody else came out of 2013 looking good let alone better says one Republican insider	came	1	0	0
+8	F	Christie began the year with stellar approval ratings thanks to his handling of the aftermath of Hurricane Sandy	began	0	0	0
+9	O	A January Time cover bearing his no nonsense visage proclaimed the governor as simply The boss	cover	1	0	0
+10	F	By summertime Christie had signed a bipartisan state budget with minimal fuss while still striking down eight Democratic bills	signed	1	0	0
+11	O	In arguably the most significant year in gay rights history Christie outlawed gay conversion therapy for children in New Jersey in August and didn't fight a court ruling that legalized same sex marriage in the state in October	outlawed	1	0	0
+12	O	He slammed the Obama administration and Congress for monkeying around during the government shutdown distancing himself from the gridlock that burned just about everyone in Washington	slammed	1	0	0
+13	F	He easily scored a landslide win for a second term the following month and now leads nearly every poll for Republican presidential candidates in 2016	scored	1	0	0
+14	O	Christie made it through 2013 largely unscathed	made	1	0	0
+15	F	No scandals no embarrassments or gaffes	scandals	0	0	0
+16	O	He beat Democrats decisively and worked with them at the same time	beat	1	0	0
+17	O	Sure conservative groups snubbed him primarily for his loud criticism of House Speaker John Boehner for post Sandy aid and of the National Rifle Association for its ad mentioning President Obama's children	snubbed	1	0	0
+18	O	But don't be stupid because Christie couldn't care less	be	1	1	0
+19	O	He's the man to beat in the GOP says one Insider	's	0	0	0
+20	O	Christie's high profile makes him a convenient target for the tea party in 2014 which will likely paint him as too moderate for the Republican primary	makes	1	0	0
+21	O	Democrats on the other hand will point to his ultra conservative side	Democrats	1	0	0
+22	O	Together these efforts could pull Christie perhaps even the entire Republican Party closer to the center right where voters may want a presidential candidate in 2016	pull	1	0	0

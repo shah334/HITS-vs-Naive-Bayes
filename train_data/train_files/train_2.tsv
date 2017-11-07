@@ -1,0 +1,85 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	HBO s new dramedy Looking is about three men in San Francisco on the road to discovery of love of happiness of themselves	is	1	0	0
+2	F	The three men as it happens are gay	are	0	1	0
+3	O	It should be no surprise then that Looking is being referred to as HBO s gay show	be	1	0	0
+4	O	Or more reductively Girls for gays	reductively	1	0	0
+5	O	It also should be no surprise that Looking is far more than what either of those two labels suggests for example how friendships and relationships with others and ourselves change as we get older	be	1	1	0
+6	O	Yet people are surprised	are	0	1	0
+7	O	At least they seem so	seem	1	0	0
+8	O	Looking is not Girls for gays or otherwise	is	0	0	1
+9	O	But the two series do have one incredibly frustrating thing common ridiculous expectation	have	1	0	0
+10	O	Poor Lena Dunham	Dunham	0	0	0
+11	F	The uber talented twentysomething screenwriter was drowned in backlash when her show about twentysomethings didn t live up to the impossible to live up to expectation that it be about every twentysomething	drowned	0	0	1
+12	O	Premature buzz over Girls built into a mountain of hype that was unscalable for Dunham	built	0	1	0
+13	O	Or anyone really	anyone	1	0	0
+14	O	But we re already seeing a twin peak forming with expectations and even demands from people including and maybe especially within the gay community for what Looking should be	seeing	1	0	0
+15	O	Take a sample headline about the show Is Looking the gay TV series some of us have been waiting for We ve seen the first batch of episodes and in so many ways it is and it isn t just as Girls was the show that so many twentysomethings were waiting for and was also the show that so many never wanted	Take	1	0	1
+16	O	In other ways it s a TV show one that s about a gay experience not every gay experience	s	0	0	0
+17	O	The creative team behind Looking though is certainly aware that the expectation for universality exists	is	1	1	0
+18	O	I do think it s the case Andrew Haigh the show s director tells me	think	0	0	0
+19	O	I think it s a shame but I think it s the case	think	0	0	0
+20	F	You can already see it in people s tweets	see	1	0	0
+21	O	To some extent he understands People are starved for representation and want it to reflect their lives	understands	0	0	0
+22	O	But that doesn t mean the expectation make sense	make	0	0	0
+23	O	There will be people tuning in expecting Looking to be a representation of everything that s happening in the modern gay world Jonathan Groff who plays the lead Patrick says	be	0	0	1
+24	O	It s a dangerous expectation	s	0	0	0
+25	O	It s just impossible to meet	s	1	1	1
+26	O	It is laughable that the issue of inclusion is raised so often with shows like Girls and Looking whether its race or age or sexuality the expectation that every aspect of a viewer s life should be reflected back at them through the experiences of the show s characters	is	1	1	0
+27	O	But are careerwomen in their 30s upset that Claire Danes s character on Homeland implies that all working women have bipolar disorder and are having affairs with the suspected terrorists they re supposed to be tracking down Do fathers in the Midwest raise a ruckus because Walter White s dealings with drug lords don t resonate with them So why are we so put off when Hannah Horvath s behavior on Girls doesn t ring exactly true to something we d do in our lives Apologies of course if you have done cocaine at a Williamsburg rave while wearing a mesh tanktop recently	put	1	1	1
+28	O	There are already rumblings and gripes much of it on Twitter as Haigh mentioned about the way the characters in Looking reflect or do not reflect certain aspects of the gay community	are	1	0	0
+29	F	Patrick for example is a video game programmer	is	0	0	0
+30	O	How un gay is that Michael Lannan came up with the original character and it was important that Patrick was a video game designer answers Haigh	is	1	1	0
+31	F	It s San Francisco and there s a lot of tech jobs there	s	1	0	0
+32	O	I think it s quite an appropriate job for the character	think	0	0	0
+33	O	There s also the issue of sex	s	1	0	0
+34	O	Actually if you read the sight unseen judgments of prospective Looking viewers on Twitter and in Internet comment sections sex is the issue	is	1	0	0
+35	F	Depending on who you ask the characters in Looking are either having too much sex or not enough of it	Depending	1	0	0
+36	O	They re too slutty or not slutty enough	re	1	0	0
+37	F	When the series opens Patrick is in the midst of a hand job that he had cruised for in a park	is	1	0	0
+38	O	Grindr and OK Cupid factor into Looking	Grindr	0	0	0
+39	F	There s a threesome in the first episode	s	0	0	0
+40	F	There are open relationships and monogamous relationships and serious dating and sleeping around	are	0	0	0
+41	O	It s always dangerous to generalize but many gay people will tell you at least in my experience that the thing they notice that people are most intrigued about when it comes to their community is the sex element	s	1	1	1
+42	O	A lot of that has to do with the fact that it happens behind closed doors	has	0	0	1
+43	O	A lot of that has to do with clich s and stereotyping through the years a misinformed preconception of excessive promiscuity	has	0	0	1
+44	O	Or maybe not misinformed depending on who you ask	misinformed	1	0	0
+45	O	But the bottom line is that when HBO announces that it is going to air a show about finding love starring three gay characters a massive amount of the coverage about the show is going to be how it portrays sex	is	1	0	1
+46	O	I think the reason or part of the reason that HBO hired Andrew Haigh is because of his movie where the sex felt just like real life Groff tells me	think	1	0	0
+47	F	Haigh directed the 2011 film Weekend hailed by critics as one of the most honest and touching portrayals of a gay relationship ever put on film	directed	1	0	0
+48	O	They knew what they were getting into when they hired him for the show	knew	1	0	0
+49	O	In my experience there was no talk of we need more tits and ass Or we need less sex You might actually be surprised to find out that Patrick doesn t have sex in the first episode at all	need	1	1	1
+50	O	Or the second	second	0	0	0
+51	O	Or even the third	third	1	0	0
+52	O	Fear not Patrick eventually gets laid	laid	1	0	0
+53	O	If it s right for there to be a sexual moment there is Groff says	is	0	0	0
+54	O	Even when Frankie opens up his relationship with Agust n and tries a threeway it s about where he is emotionally with his boyfriend and where they are in their relationship	opens	1	0	0
+55	O	Haigh knew there would be discussion about the show s sex and certainly suspected there would be an obsession over it	knew	1	0	0
+56	F	Dutifully he debated what responsibility his show had in that regard	debated	1	0	0
+57	F	And then he scoffed at it	scoffed	1	0	0
+58	F	You discuss those things sex of course he says	says	0	0	0
+59	O	But I suppose all I can do is reflect the world personally as I see it	suppose	1	0	0
+60	O	Once you sort of have a manifesto to be as authentic as you can you don t worry about those things too much	worry	1	1	0
+61	O	Some people want to have lots of sex some people don t. Some people are looking for long term relationships some people just want to hook up	want	1	0	1
+62	O	I m not making judgments on different ways of life	m	0	0	0
+63	O	It s about reflecting and showing them	s	0	0	0
+64	O	in the Attic Sounds logical	in	0	1	0
+65	O	So why are we having and let s face going to have after the show premieres Sunday such a hard time accepting that The thing is in many ways Looking is the gay show that everyone s been waiting for	show	1	0	1
+66	O	Its mere existence signals progress	progress	0	0	0
+67	O	But it is just progress as there is still so much farther to go	progress	1	0	1
+68	O	For example we re still calling it a gay show and placing it on that timeline that charts the depiction of gay characters on TV	calling	1	0	0
+69	F	As a gay audience member there are few things more bittersweet than a character who just happens to be gay says Buzzfeed s Louis Peitzman	says	1	1	1
+70	F	It s progress he says A character s sexual identity has become incidental not his or her one defining trait not the impetus for the narrative	s	0	1	0
+71	O	On the other hand it s a cheap way to avoid any actual discussions of what it means to be a member of the LGBT community	s	0	0	1
+72	F	Looking strikes a balance we ve not yet seen on TV he says	Looking	1	0	1
+73	O	This is a show about characters who just happen to be gay that is also about their gayness insofar as it explores their romantic and sexual relationships	is	1	1	1
+74	O	But make no mistake about it	make	0	0	0
+75	O	Looking is a gay series	is	0	0	0
+76	F	For now he says that s OK	says	0	0	0
+77	F	Haigh agrees	agrees	0	0	0
+78	F	The label of gay show is so inevitable for Looking he says	is	1	1	0
+79	O	There s no controlling that	s	0	0	0
+80	O	To me it s a show with gay people in it but that doesn t mean it s a gay show	s	0	0	0
+81	O	When you call it a gay show it maybe limits the audience who won t watch it because it s the gay show	show	1	0	0
+82	O	But of course I want this show to be for gay people because it s about gay people	want	0	0	0
+83	O	But I also want other people to watch it regardless of their sexuality	want	1	0	0
+84	O	And when they do we all just ask that they be measured and rational about what they re looking for	And	1	0	1

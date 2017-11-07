@@ -1,0 +1,13 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	The Most Dangerous Sentence in U.S. History Gregory D. Johnsen BuzzFeed Written in the frenzied days after 9 11 the Authorization for the Use of Military Force was intended to give President Bush the ability to retaliate against whoever orchestrated the attacks	intended	1	0	1
+2	O	More than 12 years later this sentence remains the primary legal justification for nearly every covert operation around the world	More	1	0	0
+3	F	In the Name of Love Mika Tokumitsu Jacobin Do what you love is the mantra for today s worker	Do	0	0	0
+4	O	But the ideological function of that phrase is to re classify work as pleasure and that drives workers apart	is	1	0	1
+5	O	A Dangerous Mind Robert Kolker New York When do awful thoughts shared with complete strangers become criminal actions The troubling case in every direction of New York s cannibal cop	case	1	0	0
+6	O	The Online Avengers Emily Bazelon The New York Times Magazine Are antibullying activists the saviors of the Internet or just another kind of curse Inside the Incredible Booming Subterranean Marijuana Railroad Jason Kersten GQ The Feds can t see them	see	1	0	0
+7	F	Or hear the digging	hear	0	0	0
+8	F	They don t know how many there are or where they are headed	don	1	1	0
+9	F	They know only that the tunnels are coming	know	1	0	0
+10	O	And when they cross our border when the soil gives way and the drugs start flowing it s already too late	start	1	0	1
+11	F	How the NSA Recruits In a Post Snowden World Joshua Kopstein The Daily Beast The surveillance state sold itself to hackers as the coolest place to work	Recruits	1	0	0
+12	O	Now it s seen as the enemy and that means going elsewhere to build an army of digital cat burglars	seen	1	0	1

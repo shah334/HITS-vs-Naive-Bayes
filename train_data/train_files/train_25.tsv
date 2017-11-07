@@ -1,0 +1,32 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	New Jersey Gov. Chris Christie left a political scandal back home as he raised money Saturday for fellow Republicans in Florida	left	1	0	0
+2	F	As chairman of the Republican Governors Association Christie was headlining a series of events over the weekend to help Florida's governor Rick Scott and the state party	headlining	0	0	0
+3	O	The private events were giving Christie his first chance to test his political viability outside New Jersey since a scandal erupted over an apparent political payback scheme led to massive traffic jams last fall when local access lanes to the George Washington Bridge were closed	giving	1	0	0
+4	O	Christie was re elected governor last November and is considered a potential contender for the Republican nomination for president in 2016	was	0	0	0
+5	O	Two prominent Florida Republicans former Gov. Jeb Bush and Sen. Marco Rubio also are viewed as potential candidates	viewed	1	0	0
+6	F	In Orlando on Saturday hundreds of donors attended the fundraiser where Christie presented Scott with a 2.5 million check from the RGA for a political committee that's helping Scott's campaign according to the association	attended	0	0	0
+7	F	Then Christie joined about two dozen guests at the Palm Beach home of Jose Pepe Fanjul Jr. executive vice president of Florida Crystals one of the nation's largest sugar producers	joined	1	0	0
+8	O	Christie didn't address the bridge scandal during his visit to Fanjul's home according to guests who spoke to The Associated Press	address	0	0	0
+9	O	We know he's going to get through it and he's going to come out stronger said William J. Diamond who attended the event	said	0	0	1
+10	O	The question wasn't raised because quite frankly none of us are really interested said Geoffrey Leigh another guest	raised	1	0	0
+11	O	The main thing is Has he got the ability Has he got the comprehension These are the things which are important	are	0	1	0
+12	O	These are the things which people vote for	are	0	0	0
+13	O	Do they have confidence in the man Anita Mitchell chairwoman of the Palm Beach County Republican Party and among those at Fanjul's home said Christie has moved on	have	0	0	0
+14	O	He's doing what he's supposed to be doing she said	doing	0	0	0
+15	O	I think most people are saying unless we find out anything else we take him at his word	think	1	0	0
+16	O	In response to the scandal Christie has apologized and fired a top aide and told reporters he had no knowledge or involvement in the matter	apologized	0	0	0
+17	O	Still with investigations moving ahead the issue could follow him for some time and cause consternation for his financial backers	follow	1	0	0
+18	O	Many Republicans have come to Christie's defense and credited him with taking responsibility for the scandal although some GOP leaders say his future will depend on whether his account of what happened proves accurate	come	0	1	0
+19	O	Rick Wilson a Florida based GOP consultant said donors he's spoken with feel Christie's rising star was tainted by the controversies	said	0	0	0
+20	O	The jury is definitely now out he said	is	1	0	0
+21	O	He's gone from an A plus to a B. He's not going to be the presidential nominee in waiting	gone	0	0	1
+22	O	We're in a watch and see phase	're	0	0	0
+23	O	Democrats have tried to use the bridge scandal to tarnish Christie	tried	0	0	1
+24	F	Backed by local elected officials Rep. Debbie Wasserman Schultz D Fla. who leads the Democratic National Committee held a news conference near Christie's Orlando fundraiser to tie the New Jersey governor to Scott one of the most vulnerable incumbents in the country	Backed	1	0	0
+25	O	Republican governors have been touting themselves as the grown ups and the ones that have the ability to lead us forward she said in an interview	been	1	0	1
+26	O	The guy they chose as their leader is Chris Christie who has been characterized as a maniacal bully by Republicans and who was willing to take out retribution against not the elected officials who wouldn't endorse him but ... his own constituents	is	0	1	1
+27	F	Another fundraiser was set to take place Saturday at the Fort Lauderdale home of Bill Rubin the president of a lobbying firm and a longtime friend of Scott's	set	0	0	1
+28	F	On Sunday Christie was scheduled to attend fundraisers in Palm Beach and meet with major financial supporters at a gathering organized by Ken Langone the billionaire co founder of Home Depot	scheduled	0	0	1
+29	F	He had urged the governor to consider a late entry into the 2012 presidential race	urged	0	0	1
+30	F	Christie faced a new political problem back home	faced	1	0	0
+31	O	Hoboken Mayor Dawn Zimmer alleged Saturday that his administration withheld millions of dollars in Superstorm Sandy recovery grants from her city because she refused to sign off on a politically connected commercial development	alleged	1	0	1

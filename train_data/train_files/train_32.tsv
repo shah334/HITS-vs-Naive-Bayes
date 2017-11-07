@@ -1,0 +1,65 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	After lunch one afternoon in December of last year Tsulrim Gyatso repaired to his room at the Amchok Buddhist monastery in Tibet to write a letter	repaired	0	0	0
+2	O	Gyatso a highly respected monk in the province of Gansu had been thinking in the Buddhist way about the condition of his people	been	1	0	1
+3	F	Tears drop from my eyes when I dwell on this state of sufferings he wrote	drop	1	0	0
+4	F	Later that day Gyatso walked to a busy cross street doused himself with gasoline and lit fire to his body	walked	1	0	0
+5	O	As the flames consumed his flesh he folded his palms in a gesture of respect the tender last act of a Tibetan Buddhist who sought like 124 monks before him to draw attention to the suffering of his people by immolating his own body	act	0	0	0
+6	O	The only loss that any colonial authority truly recognizes is its own	loss	1	0	0
+7	O	China claims Tibet as its own but it can not be moved by the deaths of Tibetans because it knows they are foreign	claims	0	1	0
+8	O	China in Tibet has always been like Britain in India and Spain in the Americas an alien overlord	been	1	0	0
+9	O	As a colossal colonial power absolute tenure of the Tibetan territory and the mineral wealth buried under it matter more to modern China than the lives of Tibet s inhabitants	As	1	0	0
+10	F	As Gyatso wrote in his letter Tibetan treasures of gold and silver have been looted under suppressive Chinese law	looted	0	0	0
+11	O	Like all colonial powers China has labored hard to reengineer the minds of its subjects to expunge from Tibetans mental makeup their sense of who they are	labored	0	1	1
+12	O	A captive Tibet is proclaimed as being free the suppression of its language is justified as a necessary condition of its integration and the annihilation of its culture is trumpeted as evidence of its progress	proclaimed	0	1	0
+13	F	Beijing has suffocated Tibet for over half a century	suffocated	0	0	0
+14	O	Yet in the lands where freedom is abundant China rather than earning well deserved rebukes is championed as the ineluctable future	championed	1	1	0
+15	F	This disgraceful surrender began with President Richard Nixon s visit to China in 1972	began	0	0	0
+16	F	Eager to gratify Mao Nixon abruptly terminated the CIA s covert assistance to the Tibetan resistance movement	Eager	1	0	1
+17	F	In any case the purpose of the program had been to use Tibetans to gather intelligence about China not to help them regain their homeland which had been lost piecemeal in the 1950s	been	0	0	1
+18	O	The subsequent liberal rationalization for closer relations with China went like this the West it was claimed was more likely to influence China by partnering with it and by giving it a prominent position inside rather than pushing it outside global institutions	went	1	1	1
+19	O	But in the decades since far from moulding the Chinese state s behavior it is the West that has incrementally abandoned its own values in order to appease Beijing	is	1	0	0
+20	F	It has been customary since the early 1990s for American presidents to host the Dalai Lama in Washington	been	0	1	0
+21	F	In 2009 Barack Obama did away even with this minor gesture of solidarity with Tibetans for fear of offending the Chinese	did	1	0	0
+22	O	The brief private audience that Obama eventually granted the beleaguered Tibetan leader was accompanied by humiliation the Dalai Lama was made to exit through a back door surrounded by piles of White House trash	made	1	0	1
+23	O	Perhaps encouraged by such accommodative silence China has tightened its grip over Tibet	tightened	1	0	0
+24	F	An exhaustive report by Human Rights Watch published last year shows that over the last seven years more than two million Tibetans have been huddled into what Beijing calls New Socialist Villages	shows	0	0	0
+25	F	Satellite imagery collected by HRW reveals rows of identical looking houses and apartment blocks	reveals	0	0	0
+26	O	To some this will look like progress a move away from the backwardness of rural life	look	1	0	0
+27	O	But to Tibetans who have been subjected to what many scholars now agree is a cultural genocide it s only the newest phase in a process that began with China s peaceful liberation of Tibet in 1951	is	1	0	0
+28	F	In Tibet Mao s revolution is still unfolding still claiming its victims	unfolding	1	0	0
+29	O	This is why Beijing did not stop at resettling the Tibetans	is	1	0	0
+30	F	According to HRW it dispatched 20 000 officials to monitor them under the slogan Solidify the Foundations Benefit the Masses	dispatched	0	0	0
+31	O	To many Tibetans China s unyielding push to erase their identity has only confirmed the futility of nonviolent protest	confirmed	1	0	0
+32	F	They have downgraded their demand for independence from China to autonomy within its boundaries but Tibet remains the most intensely policed region under Chinese administration	downgraded	1	0	0
+33	F	Each year an estimated 3 000 Tibetans reject the prosperity of China for life as refugees in remote places	reject	0	0	0
+34	O	Yet wherever they go they find themselves marginalized by leaders anxious not to offend China	find	1	0	1
+35	F	In a desperate attempt to move the world monks like Gyatso have set fire to their own bodies	set	0	0	0
+36	O	Even these sacrifices in violation of Buddhist precepts have failed to provoke any meaningful outrage in places that matter	failed	1	0	1
+37	F	The Dalai Lama condemned by Beijing as a terrorist has so far prevented his people from adopting violent methods of resistance	prevented	1	0	0
+38	O	But Beijing s refusal to deal with him has substantially eroded his authority within the Tibetan community in exile	eroded	1	0	0
+39	O	Certainly the Dalai Lama continues to be revered as a spiritual leader by almost all Tibetans	continues	1	0	1
+40	O	But a young restless generation of Tibetans is beginning to question the utility of nonviolent protest	beginning	0	0	1
+41	O	It is not easy to fault them	is	0	1	1
+42	F	Over the years the Dalai Lama has traveled from capital to capital picking up impressive sounding prizes and interacting with well meaning celebrities and politicians	traveled	1	1	0
+43	O	But what does he have to show for it He admires Lincoln while neglecting that Lincoln s words were consequential only because they were as Julia Ward Howe once put it writ in burnished rows of steel	admires	1	1	1
+44	O	What possible punishment can the Dalai Lama in this lifetime inflict on the Chinese as they hasten the extinction of his people To say that His Holiness has kept the cause of Tibet alive while not being able to stop the demise of Tibet itself is not to diminish him it is a measure of our world which bows before violent Islamists and oppressive regimes but refuses to reward nonviolent protesters with support	inflict	0	1	1
+45	O	Some officials in China do recognize that Tibet is a time bomb waiting to explode	recognize	0	0	1
+46	F	In an interview to a Hong Kong based magazine last year Jin Wei an establishment figure and a director at the influential Central Party School called for a settlement that involves the return of the Dalai Lama to Tibet	In	0	0	0
+47	O	Her remarks generated some glib hope in the West	generated	0	0	0
+48	F	But there was no movement	was	0	0	0
+49	O	Hu Jintao the man heralded as different by many of the same voices that rationalized the West s embrace of China has shown himself to be as inflexible as his predecessors	shown	1	1	1
+50	O	Today North Korea is believed by some experts to be more accessible to journalists than Tibet	believed	1	1	1
+51	F	The Associated Press has a bureau in Pyongyang	has	0	0	0
+52	F	Journalists are barred from entering Tibet	barred	0	0	0
+53	F	Conscious of the discontent flourishing within the exiled community the Dalai Lama spent the last decade modernizing the Tibetan resistance movement	spent	0	0	1
+54	F	He has weakened his own office created political institutions distinct from the spiritual branch he oversees and exhorted the young to participate in them	weakened	0	0	0
+55	F	Tibet now has a democratically elected government in exile	has	1	0	0
+56	O	But it s not clear how effective it can be	s	1	1	0
+57	F	When Lobsang Sangay a charismatic Harvard trained lawyer was elected prime minister in 2011 India which hosts the government in exile was not represented at his swearing in ceremony	elected	1	0	0
+58	O	No minister in the Indian government will be seen in public with Sangay	seen	0	0	0
+59	F	And whenever a senior Chinese official visits India New Delhi is quick to enforce racist penal codes dating back to the British Raj to lock up anyone of Tibetan appearance	is	1	1	1
+60	O	Young Tibetans in exile have absorbed more than their share of degradations	absorbed	0	0	0
+61	O	As Tenzin Tsundue the Tibetan activist and writer living in India puts it in his poem My Tibetanness Thirty nine years in exile Yet no nation supports us We are refugees here People of a lost country Citizen to no nation	supports	1	0	0
+62	O	Tsundue is the creation of exile of repression of a hopelessness that no foreign power any longer has the courage to recognize	is	1	0	0
+63	O	There are hundreds of thousands like Tsundue and he s giving voice to their deepest aspirations when he writes I am a Tibetan But I am not from Tibet Never been there Yet I dream of dying there	am	1	0	1
+64	O	If the molestation of Tibet continues and if the world persists with its indifference to the plight of Tibtans the full implications of Tsundue s words will become apparent in the not too distant future	persists	1	1	0

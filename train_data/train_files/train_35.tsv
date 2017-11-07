@@ -1,0 +1,27 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Immigration reform advocates who saw their hopes dashed in 2013 for major legislation are encouraged by stirrings in the Republican led House of Representatives for taking up the issue	advocates	1	0	0
+2	O	The Senate last June passed a sweeping immigration bill that would give millions of undocumented immigrants a pathway to citizenship but the legislation has languished in the House	passed	0	0	0
+3	O	Over the past few weeks however there have been signs that leaders may soon offer a framework for reform	been	1	0	0
+4	F	House Speaker John Boehner informed his rank and file on January 8 that leading House Republicans were preparing to lay out principles for immigration legislation according to Republicans who attended the closed door meeting	informed	0	0	1
+5	O	One Republican leadership aide said a framework for reform could be unveiled as early as next week	said	1	0	0
+6	O	We're seeing a shift underway said Frank Sharry executive director of America's Voice a group that has been pushing for reform	said	0	0	0
+7	O	It's now becoming clearer that the House Republican leadership ... are determined to move forward to floor action	becoming	1	1	1
+8	F	But 2013 began on a similarly upbeat note after President Barack Obama cruised to re election the previous November with the support of more than 70 percent of Hispanic voters who have been clamoring for immigration reforms	began	1	0	1
+9	F	By mid year the Senate passed a comprehensive bipartisan bill setting a tough 13 year course for undocumented residents to gain legal status and eventually citizenship	passed	1	0	0
+10	F	That same June day Boehner drove a stake through the Senate's bill saying his chamber would not consider it and instead would do our own bill one that never materialized on the House floor in 2013	drove	0	0	0
+11	O	The senior Republican aide who asked not to be identified said the principles to be unveiled could discuss the need for better U.S. border controls and beefing up interior security so that companies can not easily hire undocumented workers	said	1	0	1
+12	O	Improved procedures for hiring foreign high tech specialists as well as unskilled laborers to harvest crops and work on construction projects also could be put into the mix the aide said	put	1	0	0
+13	O	Perhaps the most challenging principle to be addressed is what do about the 11 million already in the United States many brought here as children	is	1	0	0
+14	F	The aide said the principles will be guided by two procedural requirements the House will not pass a comprehensive immigration bill as the Senate did and instead will do them step by step	said	1	0	0
+15	O	And at no point will the House be drawn into a negotiation with the Senate on the bill it passed last year	drawn	0	0	0
+16	O	Instead the aide said the Senate would have to scrap its bill and debate the individual House bills	said	1	0	1
+17	O	That could make it difficult to ultimately pass legislation	make	1	0	0
+18	O	Democrats have warned against settling for half steps in the fight for immigration reform	warned	0	0	0
+19	O	DETAILS MATTER Principles are one thing and legislation is another	DETAILS	0	0	0
+20	O	Once the principles are released there will be lots of details that will have to be fleshed out said Democratic Representative Zoe Lofgren a former immigration lawyer from California who has worked on reform efforts for decades	be	0	0	1
+21	O	Still Lofgren said in a telephone interview with Reuters that it would be premature and a mistake to assume what details Republicans might include in any bills they advance this year adding that she is eager to work with them	said	1	1	1
+22	O	Angela Kelley vice president of immigration policy at the liberal Center for American Progress said Based on what we've heard the fact that the undocumented are going to be mentioned in terms of legalizing instead of just deporting is a sea change	said	1	0	1
+23	O	But some veteran Republican aides in Congress note that with the November congressional elections heating up there could be little time and incentive for enacting legislation this year	note	0	0	0
+24	O	Republicans hope to gain strength in both the House and Senate as a result of those elections and waiting until 2015 to actually enact immigration reforms might be more advantageous they noted	hope	1	1	1
+25	O	In the meantime immigration reform groups and Democrats in Congress will be awaiting details of legislation not simply Republicans' principles	awaiting	1	0	0
+26	O	Talk is cheap so show us a bill said Lorella Praeli policy director at United We Dream an immigrant youth led organization	said	1	1	1

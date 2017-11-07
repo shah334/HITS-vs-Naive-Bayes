@@ -1,0 +1,54 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	O	Since dial up first started being installed in homes women have been complaining about the sheer amount of harassment for being simply being female online especially if one dares to be female with an opinion	been	1	1	1
+2	F	The beginning of 2014 has produced an uptick in interest in the topic largely due to Amanda Hess s essay for the Pacific Standard titled Why Women Aren t Welcome on the Internet	produced	1	0	0
+3	O	The piece chronicled not just the harassment that women endure but the toll it takes on victims both mentally and financially	chronicled	1	0	0
+4	F	Every time we call the police head to court to file a civil protection order or get sucked into a mental hole by the threats that have been made against us zeroes drop from our annual incomes Hess argued	sucked	0	0	1
+5	O	Reactions to the piece were largely positive with writers for the Washington Post and The Week agreeing that online harassment needs to be taken seriously instead of shrugged off as being just online	were	1	1	1
+6	O	Jill Filipovic in Talking Points Memo further drove home the point that harassment online is real and insidious by recounting her own experiences which even led to physical problems due to the stress	drove	1	1	0
+7	O	Even New York Times conservative columnist Ross Douthat who rarely thinks to write about women except to scold them for having sex was shaken by the unfairness of it all	shaken	1	0	1
+8	O	We hear about it over drinks we catch glimpses of it on Twitter but it s easy for us to miss how radically different it makes our female peers experience he laments	hear	1	1	1
+9	F	All this support is wonderful of course but there is a danger in it By focusing the discussion so much on the Internet and the newness of this kind of harassment we run the risk of taking an overly reductive view of the problem	All	1	1	0
+10	O	While Internet harassment is relatively speaking a novel and often overwhelming problem it is hardly a unique problem in the world	is	1	0	0
+11	O	It needs to be seen for what it is an extension of the constant drumbeat of harassment and violence that women around the world face and have always faced for no other reason than they are women	needs	1	0	1
+12	F	Women are abused on the streets in our workplaces and in our homes	abused	0	0	0
+13	O	That we are also abused online shouldn t be surprising at all	be	1	1	0
+14	F	The Internet presents new challenges but the problem of misogyny is the same as it ever was	presents	1	0	0
+15	F	Douthat s response was particularly blinkered in this regard suffused with his typical unquestioned belief that the past was a safer and happier time and that it has all gone to hell because people stopped apologizing for having sexual desires	blinkered	1	0	1
+16	F	He is certain that a lack of sexual repression and relative anonymity play a role in online misogyny arguing that many men who might have successfully regulated their darker impulses now have what seems like a green light to be virtually abusive because they re just trying out a role or because the woman on the receiving end seems no more real to them than a character in a pornographic film	is	1	1	0
+17	O	To be fair he not only blames the modern lack of sexual repression but also tacitly admits that male anger at women s changing roles plays a part	blames	1	1	0
+18	O	F eminists tend to see it simply as a species of reaction he says describing the worldview of the sexist miscreant who harasses women online social conservatives as the dark fruit of sexual liberation when it s really a combination of the two	tend	1	0	1
+19	O	That it is a product of modern feminist sexually liberated culture however he does not question at all	question	1	0	0
+20	F	But there s virtually no evidence for the contention that men who harangue and harass women online are generally meek pussycats afraid to express their contempt for women in real life	s	1	1	1
+21	O	On the contrary the likelier theory is that the rapists wife beaters ass pinchers and men who cat call women on the street are also the men who perform similar misogynist behaviors online	is	1	0	0
+22	O	In fact we know in some cases that they are absolutely the same men since some online forums for misogynists are dedicated to men who chronicle their offline harassment of women with photographs called creepshots and post them online for other misogynists to enjoy	In	1	0	0
+23	F	Rebecca Watson whom Douthat mentioned as a favorite target for abuse from online harassers became a favorite target of abuse because of her work fighting to make it harder to harass women offline	became	1	0	1
+24	F	But it s also just common sense	s	1	0	0
+25	F	The guy who yells I would fucking kill you bitch to a woman on the subway is probably the same guy who goes home and yells it through Twitter at dozens of women who have committed the same offense of being female in public	kill	1	0	0
+26	O	The man who hits his wife for backtalk is probably the same guy who can t help but get unhinged and ugly to strange women online whose unwillingness to be submissive offends him	is	1	1	0
+27	O	If we understand online harassment to be an outgrowth of other forms of abuse of women from cat calling to rape and domestic violence then the pat assertion that it s a modern Western phenomenon is much harder to pull off	is	1	1	1
+28	F	That s particularly true when trying to claim sexual liberation somehow causes the harassment	s	1	1	1
+29	O	Countries that have a more sexually repressive culture than the U.S. think Egypt or India have plenty of sexual harassment and assault problems to go around	think	1	0	0
+30	O	The blunt truth is that why some men harass women or beat women or rape women is not at all complicated	is	1	1	0
+31	F	They do it because it makes them feel powerful	do	0	1	0
+32	F	They do it because they want women to be submissive second class citizen	do	0	0	0
+33	O	They want women to know our place is as servants and sex objects instead of real people and are willing to resort to violence and harassment to get their way	want	1	1	1
+34	O	This is true whether your society is feminist or patriarchal sexually liberated or repressed	is	1	1	0
+35	F	This is not a matter of speculation	is	0	0	0
+36	O	Studies show a strong link between a man s embrace of traditional gender roles and his propensity for domestic violence	show	0	0	0
+37	O	Even just exposing a man to sexist jokes is linked to that man expressing more tolerance for violence against women	exposing	1	0	0
+38	O	Violence and harassment against women is not some inexplicable phenomenon of nature but an expression of an ideological belief that women should be subservient	is	0	1	0
+39	F	The Internet doesn t create the urge to harass women and it probably doesn t even magnify it	create	1	0	0
+40	O	What it does is it makes harassment more efficient and personal all at the same time	is	1	0	0
+41	O	A man who likes to abuse and harass women is limited by physical proximity time restraints and legal considerations in the real world	limited	0	0	1
+42	O	There are only so many waitresses whose butts you can pinch in a day especially without being thrown out of restaurants or even having the police called	are	1	0	0
+43	F	You can holler at women on the sidewalk but they can move along	holler	0	0	0
+44	F	Online however a man who enjoys harassing women can attack dozens in a very short period of time	Online	1	0	1
+45	F	He can recruit his friends to make the attacks more intense and has a lot more avenues for attack going through email Facebook Twitter and blog comments	recruit	1	0	1
+46	F	It s harder for women to just walk away from your cat calling online they have to actively block the harasser	s	1	1	1
+47	O	Which in turn is also exciting for the harasser who can use the blocking as evidence that he successfully got under his victim s skin	is	1	1	0
+48	O	Following women without getting the cops called on you is much easier online than in public	is	1	1	0
+49	O	If a particular woman catches a harasser s attention in public odds are low he will be able to figure things like her name and how to find her	be	1	1	1
+50	F	But online you not only have all sorts of details about the object of your obsession s life but you have multiple venues to get to her	have	1	0	0
+51	O	While these specifics can and should be addressed through technological and legal means we also need to understand that none of this online harassment is happening in a vacuum	can	1	0	1
+52	O	It s all just a new way of expressing a very old indeed an ancient sentiment that a woman s place is to be silent submissive and servile to men and that any women who disagree are to be put down with violence	s	1	1	1
+53	F	The long term solution to the problem is to fight for women s equality and keep fighting until the idea that a woman is anything but equal to a man is a relic of the past	is	0	0	1

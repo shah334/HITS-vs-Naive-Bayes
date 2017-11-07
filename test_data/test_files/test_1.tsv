@@ -1,0 +1,36 @@
+sent_id	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	A leading candidate for governor disclosed on Monday that he was responsible for a crash that killed a man 25 years ago	candidate	1	1	0
+2	Allan Fung the Republican mayor of Cranston said he was an 18 year old college student in 1989 when he lost consciousness behind the wheel and hit a man who was changing a tire on Interstate 95	said	1	0	0
+3	He said drugs and alcohol weren't involved and a grand jury declined to indict him	said	0	0	1
+4	He had his arrest record sealed in the 1990s	had	0	0	0
+5	I wanted to get the truth out there get all the facts out there to the voters of the state of Rhode Island Fung said at a news conference	said	1	0	1
+6	They need to know the truth about me	need	0	0	1
+7	Fung was teary eyed for much of the news conference and had to leave the room for a few moments to gather himself after he was overcome by emotion when speaking about the victim's family	was	1	1	1
+8	The crash was first reported by The Providence Journal on Monday	reported	1	0	0
+9	Fung said he hasn't brought it up over the years but always acknowledged it when asked	said	1	0	0
+10	That included during his entry to the bar and in 2002 when he was running for city council and was asked in a candidate questionnaire by the Journal whether he had ever been arrested	asked	1	0	0
+11	He disclosed it at that time but the newspaper didn't write about it	disclosed	0	0	0
+12	Fung said he wasn't asked about it during his subsequent political campaigns including during his four runs for mayor of the state's third largest city	said	1	0	0
+13	Fung lost during his first campaign in 2006 but won in 2008 and was re elected in 2010 and 2012	lost	0	0	0
+14	Among the jobs he held before becoming mayor was as a prosecutor in the state attorney general's office	was	0	0	0
+15	Fung described the crash as the most painful experience of his life and said it was a part of me a part of who I am	described	1	0	0
+16	God knows why my life was spared that day and someone else's was taken he said	knows	1	0	0
+17	The crash happened on a Friday morning in February 1989	happened	0	0	0
+18	The victim was James W. Skipper Jr. a 41 year old Pawtucket resident who had stopped in the breakdown lane to change the left front tire of his car	was	0	0	0
+19	Fung said he was returning for the weekend from Connecticut where he was attending college to work for his parents' restaurant	said	0	0	0
+20	I was just driving along	driving	1	0	0
+21	At some point I lost consciousness Fung said	said	0	0	0
+22	I remember the crash kinda woke me back up	remember	1	0	0
+23	He said he stopped his car saw Skipper lying on the ground and then went into shock	said	1	0	0
+24	The state police arrested him and he was released that night	arrested	0	0	0
+25	He said he hired a criminal lawyer and later was told a grand jury declined to indict him	said	1	0	1
+26	After his first year of law school he interned at the state Department of Corrections where his arrest record came up in a criminal background check	interned	1	0	0
+27	He said staff there suggested he get his record expunged since he had done nothing wrong	said	1	0	0
+28	Fung later agreed to an out of court settlement of 112 000 to Skipper's parents money he said was paid by his parents and insurance company	agreed	1	0	0
+29	To this day Fung said he isn't sure what happened	said	0	1	0
+30	He said a doctor told him soon after the crash that it was possible what happened was related to a thyroid condition	said	1	1	0
+31	He said nothing like that has happened since	said	0	0	0
+32	Skipper's sister Joyce Strange told the Journal that it's right for Fung to put it behind him	told	0	1	0
+33	She says he has gone through hell and people should not hold it against him	says	0	0	0
+34	Fung faces businessman Ken Block in the Republican primary to succeed Democratic Gov. Lincoln Chafee who's not seeking a second term	faces	0	0	0
+35	The state's general treasurer Gina Raimondo and Providence Mayor Angel Taveras are running as Democrats	running	0	0	0

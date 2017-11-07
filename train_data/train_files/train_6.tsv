@@ -1,0 +1,59 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	Enter the beautifully vacated house and inhabit its luxurious interiors	Enter	1	0	0
+2	O	A suspicious invitation Maybe	invitation	1	0	0
+3	F	Seductive Certainly	Certainly	0	0	0
+4	O	I wouldn t hesitate to cross the threshold inside is an art and design lover s dream	hesitate	1	0	1
+5	F	Fortunately for the easily swayed and trespass prone among us the message or is it a command that flashes across the screen in Turner Prize winning artist Elizabeth Price s 2007 film At the House of Mr X is notional	is	1	1	0
+6	F	She s offering only a virtual tour of the spectacular former residence of New York born cosmetics magnate Stanley Picker Mr X	s	1	0	1
+7	O	Like the rest of the text appearing line by line in motion graphics it s a piece of let s compromise advice offered to the viewer by the narrator of the film our onscreen guide	let	0	0	0
+8	F	My advice would be to make your way to London s Whitechapel Gallery where Price s 20 minute film is showing continuously from January 14 to April 15	be	1	0	1
+9	F	The opening shot places the viewer outside in the dark looking at a house warmly lit and glowing with fiery hues	places	1	0	0
+10	F	Right on cue as if to sanction a visit ten choristers from the Royal Holloway Choir start to sing	start	0	0	1
+11	F	Before you know it you re being ushered inside the soundtrack a version of The Fleetwoods 1959 single Mr Blue	ushered	0	0	0
+12	O	Who could resist those soothing Wahoo	resist	0	0	0
+13	F	The film is punctuated with these sudden breaks	punctuated	0	0	0
+14	F	The authoritative text accompanying the image begins documentary like the narrative equivalent of an unusually well informed real estate agent	begins	1	0	0
+15	F	You re told that the house located in a quiet cul de sac in Kingston upon Thames about 12 miles southwest of London was built at the edge of a suburb on the side of a hill it s sold to you as a fine example of 1960s modernist architecture and most importantly as something that is perfect	told	1	1	0
+16	F	Survey the modern open plan interior the perfect division of spaces	Survey	0	0	0
+17	O	It turns out that the information is collaged from archival records and documents relating to Picker s house art collection and business ventures architectural plans art inventories and notes on his cosmetics empire set the scene	turns	0	0	0
+18	F	As soon as you enter Ready reads the screen the sun rises and it becomes daylight outside	reads	1	0	0
+19	F	It s immediately apparent that the house is uninhabited save for the sculptural figures standing guard in every room a torso of a female nude greets visitors upon entry and despite the curiously alive plant life that suggests otherwise	s	1	1	0
+20	F	The house only briefly inhabited by Picker has been this way since his death in 1982 both house and collection have been maintained by a trust since then	been	1	0	0
+21	F	The effect is ghostly	is	1	0	0
+22	O	The house is eerily pristine and immaculately preserved your visit is the only thing threatening to disturb it	is	1	1	1
+23	O	The narrator is kind enough to provide directions through the patches of light and dark descend the ash stairway shadows are the only disadvantage of having a house flatteringly free from overhead lighting	is	1	0	1
+24	F	And there are moments for you to catch your breath	are	0	0	0
+25	F	During the tour you re invited to rest on the orange velvet settee enticingly squashy looking and to sit at the table in the dining room and eat	invited	0	0	1
+26	O	But there s no food either on film or in the Gallery s auditorium a reminder that this isn t your average cinema trip full of popcorn and sugary treats	s	0	0	0
+27	F	Enjoy all the wonderful things	Enjoy	0	0	0
+28	F	That you can do	do	0	0	0
+29	F	Objects are scrupulously labeled by name manufacturer and material	labeled	1	0	0
+30	F	In one room the three grace like nudes of Enzo Plazzotta s Triptych Bronze prance on a tabletop in another a leather Kukkpuro armchair commands the space	commands	0	0	0
+31	O	The materials are endlessly varied but what they share is their existence in unencumbered refined states every metallic surface is polished every marble veneer gleams	are	1	1	0
+32	F	And then it all becomes clear	becomes	1	1	0
+33	O	Really there s no need for guesswork	s	1	0	0
+34	O	Stamped across the screen is the explanation the history behind the house	is	0	0	0
+35	O	All this beauty and luxury were paid for by cosmetics brands Outdoor Girl and Miners because Mr X a friend of fashion designer and British fashion icon Mary Quant invented eye gloss eye wipers and loads of lash	paid	0	0	0
+36	F	In an instant the make up motif becomes obvious	becomes	0	1	0
+37	O	The measured real estate agent narrator becomes a fanciful cover girl the on screen writing now more commercial than curatorial turns pink	becomes	1	1	0
+38	F	There s talk of lip shine glossy as lacquer soft center candy floss and natural tint	s	1	0	0
+39	F	The message of the make up ads is less is more Everything that is needed nothing that is not	is	0	1	0
+40	F	And then with the innuendo of advertising copy things get a little steamy	get	1	1	0
+41	O	As the screen flashes over sensual interior shots the narrator announces Make up to make love in let s put it on at the house of Mr X. You re told to make your way along the mezzanine and into all the bedrooms	announces	0	0	1
+42	O	There s no privacy here no locked doors the viewer is given free reign invited to inhabit the house completely	s	1	0	1
+43	F	Then just like that silence	like	1	0	0
+44	F	All of a sudden you re staring at a bedside table on which rests a white lamp flanked by two identical clocks	All	0	0	1
+45	O	Without realizing it the cover girl has crept into your conscience and caused you to see things differently cosmetics product descriptions are applied to the house as though it were a face	applied	0	0	0
+46	F	You become aware of the complexion of colors and the restrained luxury of the surfaces	become	0	1	0
+47	F	The still life before you is no longer symmetrical simply to be tidy it s fetishized made symmetrical like a person s face	made	1	1	1
+48	O	Could the faces of the clocks and the ticking of time allude to ageing Might they allude to a beauty world calling for botox	allude	0	0	0
+49	F	In the final section the instructions begin to get a little strange	begin	0	1	1
+50	O	In a long list of imperatives the narrator entreats the viewer to Run the taps Switch on the lights switch off the lights should somebody call Martin Creed Lie sleep wake doze	call	0	0	0
+51	O	The instructions become a tad irritating especially for more independent or stubborn members of the audience	become	1	0	0
+52	O	And then just like that Price throws a curve ball Pour on your liquid stockings	throws	1	0	0
+53	O	You re invited to physically blend yourself into the slippery surfaces of the house to make silvery gold and viscous trails a delightful d cor of lustrous puddles	invited	1	0	1
+54	F	This is the final part of the film when viewer and architecture merge you no longer inhabit the house the house inhabits you	is	1	0	0
+55	O	After being invited to go here and there as you like the viewer is at last drawn to the window	After	1	0	1
+56	O	Through the striped blinds incidentally the same shades of oranges and reds as the Gallery s auditorium chairs you ll notice that it s light outside a clue that now is the time to leave	Through	1	0	0
+57	O	I happened to walk out of Price s film to hear the tour guide of the Gallery s new Hannah H ch show the first major UK exhibition of the Dadaist utter totalitarian ideas of beauty and the body were at the forefront	happened	0	0	1
+58	F	Well he may have been talking about 1920s Germany but I d say that with Price s study of seduction and consumption the same applies here	been	1	0	1

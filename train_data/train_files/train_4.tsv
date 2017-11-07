@@ -1,0 +1,37 @@
+sent_id	sent_tag	sent_text	root	advmod_pres	acomp_pres	xcomp_pres
+1	F	With little fanfare Mark Warner s Senate reelection bid this November just went from a shoo in to a spirited contest	went	1	0	0
+2	O	I ll warn the Virginia Democrat now Objects in the rearview mirror are closer than they appear former Republican National Committee Chairman Ed Gillespie is now the underdog but he will make this race very competitive	ll	1	1	1
+3	O	Full disclosure I ve known Ed for nearly 25 years a vantage point that gives me insights as to why this election will be close down the stretch	disclosure	1	1	0
+4	F	He comes from a remarkably humble upbringing	comes	1	0	0
+5	F	A son of Irish immigrants Gillespie grew up working in his parents grocery store	grew	0	0	0
+6	F	To help pay his way through school he became a Senate parking attendant at age 17	became	0	0	1
+7	O	It would be remarkable for him to move from the parking lot to the floor of the United States Senate to cast votes on behalf of my home state	be	0	1	1
+8	F	I first met Ed when we worked on Capitol Hill together he was a senior adviser to then House Majority Leader Dick Armey while I served as the legislative director to House Budget Committee Chairman John Kasich	met	1	0	0
+9	O	Even as young as he was back then Gillespie earned the trust of the House Republican leadership and many in the conference for his keen intellect and remarkable communication skills	earned	1	0	0
+10	F	In 1994 Gillespie was the key architect of the Contract With America a 10 point promise to the American people of what Republicans would achieve if given the chance to lead the House of Representatives	was	0	0	0
+11	F	It swept the GOP into power for the first time in more than 40 years	swept	1	0	0
+12	O	Sen. Warner and his supporters will try to distract voters by employing the usual scorched earth campaign Gillespie was a lobbyist he is a Washington insider and oh my goodness he served as a counselor to President George W. Bush	try	0	0	1
+13	O	Given that Virginia just elected the consummate insider in Gov. Terry McAuliffe I suspect Gillespie s Beltway experience won t hurt him	Given	1	0	0
+14	O	In fact his experiences will serve as an asset	serve	0	0	0
+15	O	For one Ed was able to learn how the levers of power work on both ends of Pennsylvania Avenue	was	0	1	1
+16	O	Unlike many in the House and Senate today Gillespie understands the art of compromise without betraying his core Republican principles	understands	0	0	0
+17	F	As counselor to George W. Bush Ed advised on domestic and foreign policy as well as articulating the president s message to the American people	advised	1	0	0
+18	O	To be sure Mark Warner will not be easy to unseat	be	0	1	1
+19	F	He is a popular former governor and current occupant of the Senate seat that Gillespie seeks to win	is	0	0	1
+20	O	University of Virginia political guru Larry Sabato has re classified this race in his Crystal Ball from Safe Democratic to Likely Democratic	classified	1	0	1
+21	O	But this is where the intangibles in politics will work to Gillespie s advantage	is	1	0	0
+22	O	Obamacare is deeply unpopular in Virginia and Gillespie will be sure to characterize Sen. Warner s vote as the deciding factor in inflicting the law on millions of people	is	1	1	1
+23	F	Warner parroted President Obama s pledge that if you liked your doctor and your health insurance Obamacare would have no effect on your choice	Warner	0	0	0
+24	O	Before long I suspect Virginia s airwaves will be flooded with their senior senator uttering this promise which turned out to be untrue	suspect	1	1	1
+25	F	For Sen. Warner s professed vow to serve as an independent minded Democrat he voted lock step with Obama to raise taxes and support the Affordable Care Act while voting to increase the national debt by 6.7 trillion	For	0	0	1
+26	O	These three pocketbook issues have angered many across Virginia and I suspect that millions more will have their health coverage canceled prior to the November election	angered	1	0	0
+27	F	Most importantly Gillespie is exactly the type of Republican that Virginians have not nominated for office in the past several election cycles and the results have been revealing	is	1	0	1
+28	F	For the first time since I was born in 1969 no Republican is presently serving as governor lieutenant governor or attorney general	serving	1	0	0
+29	O	Ed is pragmatic nuanced and upbeat in his demeanor it will be impossible for Democrats to paint him as an angry bomb throwing member of the Tea Party	is	0	1	0
+30	F	He also has crossover appeal to independents Reagan Democrats and communities of color	has	1	0	0
+31	O	With much of the national media is focused on imperiled Senate Democrats like North Carolina s Kay Hagan Louisiana s Mary Landrieu or Arkansas Mark Pryor I suspect talk will turn soon to a newly competitive race in the Old Dominion	suspect	1	0	0
+32	O	Mark Warner may have thought he could coast to victory this fall against a weak poorly financed Republican opponent	thought	1	0	1
+33	F	That equation just changed	changed	1	0	0
+34	O	Hard work strong campaigning and yes a little luck of the Irish may propel Gillespie from the parking lot to the floor as a voting member of the United States Senate	propel	1	1	0
+35	F	Fasten your seat belts	Fasten	0	0	0
+36	O	This will be a barnburner	be	0	0	0
